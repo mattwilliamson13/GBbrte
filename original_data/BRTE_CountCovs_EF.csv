@@ -1,0 +1,1807 @@
+state,range,canyon or area,point,num_samples_BRTE,BRTEcount,mtype,year,elevation,burned,firstGS,num_samples_grass&forb,igrass,grasscvr,iforb,forbcvr,grazed,wtprecip,spprecip,UTMx (NAD83 zone 11),UTMy (NAD83 zone 11),grazed,prop_grazed
+Nevada,Toquima,Antone,AN01.1,,,point,2004,2403,0,NA,21,,17,,12,,175,99,508271,4280080,,
+Nevada,Toquima,Antone,AN01.2,,,point,2004,2425,0,NA,21,,19,,15,,175,99,507742,4279834,,
+Nevada,Toquima,Antone,AN01.3,,,point,2004,2450,0,NA,21,,18,,18,,175,99,507392,4279847,,
+Nevada,Toquima,Antone,AN02.1,,,point,2004,2486,0,NA,21,,12,,12,,175,99,506905,4279511,,
+Nevada,Toquima,Antone,AN02.2,,,point,2004,2518,0,NA,21,,15,,15,,175,99,506461,4279457,,
+Nevada,Toquima,Antone,AN03.1,,,point,2004,2604,0,NA,21,,19,,18,,175,99,505591,4279341,,
+Nevada,Toquima,Antone,AN03.2,,,point,2004,2658,0,NA,21,,4,,6,,216,130,505178,4279056,,
+Nevada,Toquima,Antone,AN04.1,,,point,2004,2735,0,NA,21,,7,,14,,216,130,504693,4278945,,
+Nevada,Toiyabe,Jett,JE01.1,,,point,2004,1972,0,NA,21,,3,,2,,73,40,481292,4286426,,
+Nevada,Toiyabe,Jett,JE01.2,,,point,2004,1978,0,NA,21,,7,,5,,73,40,480943,4286510,,
+Nevada,Toiyabe,Jett,JE01.3,,,point,2004,2016,0,NA,20,,0,,7,,73,40,480602,4286575,,
+Nevada,Toiyabe,Jett,JE02.1,,,point,2004,2051,0,NA,21,,3,,6,,164,101,480042,4286915,,
+Nevada,Toiyabe,Jett,JE02.2,,,point,2004,2085,0,NA,21,,2,,4,,164,101,479554,4287084,,
+Nevada,Toiyabe,Jett,JE02.3,,,point,2004,2115,0,NA,21,,1,,3,,164,101,479032,4287356,,
+Nevada,Toiyabe,Jett,JE03.1,,,point,2004,2143,0,NA,21,,13,,2,,164,101,478738,4287599,,
+Nevada,Toiyabe,Jett,JE03.2,,,point,2004,2156,0,NA,21,,8,,10,,164,101,478552,4287654,,
+Nevada,Toiyabe,Jett,JE03.3,,,point,2004,2190,0,NA,21,,12,,4,,164,101,478243,4287949,,
+Nevada,Toquima,Meadow,MD01.1,,,point,2004,2259,0,NA,15,,6,,5,,146,84,512295,4277782,,
+Nevada,Toquima,Meadow,MD01.2,,,point,2004,2273,0,NA,21,,16,,10,,146,84,511844,4278222,,
+Nevada,Toquima,Meadow,MD01.3,,,point,2004,2302,0,NA,21,,11,,6,,146,84,511062,4279066,,
+Nevada,Toquima,Meadow,MD02.1,,,point,2004,2342,0,NA,14,,5,,9,,146,84,510018,4280073,,
+Nevada,Toquima,Meadow,MD02.2,,,point,2004,2368,0,NA,21,,19,,12,,146,84,509176,4280604,,
+Nevada,Toquima,Meadow,MD02.3,,,point,2004,2384,0,NA,21,,14,,18,,175,99,508562,4281002,,
+Nevada,Toquima,Meadow,MD03.1,,,point,2004,2447,0,NA,21,,12,,15,,189,106,507148,4282357,,
+Nevada,Toquima,Meadow,MD03.2,,,point,2004,2495,0,NA,21,,17,,19,,189,106,506561,4282170,,
+Nevada,Toquima,Meadow,MD04.1,,,point,2004,2577,0,NA,21,,15,,18,,175,99,505955,4281915,,
+Nevada,Toquima,Meadow,MD04.2,,,point,2004,2619,0,NA,21,,15,,17,,189,106,505683,4282116,,
+Nevada,Toquima,Meadow,MD05.1,,,point,2004,2660,0,NA,21,,20,,16,,189,106,505506,4282528,,
+Nevada,Toquima,Meadow,MD05.2,,,point,2004,2674,0,NA,21,,21,,20,,178,102,505212,4282660,,
+Nevada,Toiyabe,Ophir,OP01.1,,,point,2004,1969,0,NA,21,,13,,2,,92,58,478608,4310154,,
+Nevada,Toiyabe,Ophir,OP01.2,,,point,2004,2033,0,NA,21,,13,,5,,92,58,478207,4310375,,
+Nevada,Toiyabe,Ophir,OP02.1,,,point,2004,2093,0,NA,17,,3,,2,,92,58,477850,4310416,,
+Nevada,Toiyabe,Ophir,OP02.2,,,point,2004,2167,0,NA,17,,2,,3,,92,58,477519,4310331,,
+Nevada,Toiyabe,Ophir,OP03.1,,,point,2004,2248,0,NA,21,,4,,9,,92,58,477123,4310512,,
+Nevada,Toiyabe,Ophir,OP03.2,,,point,2004,2278,0,NA,21,,12,,5,,92,58,476818,4310735,,
+Nevada,Toiyabe,Ophir,OP04.1,,,point,2004,2368,0,NA,21,,11,,11,,203,115,475875,4310641,,
+Nevada,Toiyabe,Ophir,OP05.1,,,point,2004,2415,0,NA,21,,11,,13,,203,115,475407,4310665,,
+Nevada,Toiyabe,Ophir,OP05.2,,,point,2004,2477,0,NA,21,,13,,16,,203,115,474938,4310724,,
+Nevada,Toiyabe,Ophir,OP06.1,,,point,2004,2558,0,NA,21,,12,,9,,203,115,474322,4310756,,
+Nevada,Toiyabe,Ophir,OP06.2,,,point,2004,2626,0,NA,21,,14,,14,,203,115,473902,4310610,,
+Nevada,Toiyabe,Ophir,OP07.1,,,point,2004,2688,0,NA,21,,11,,11,,203,115,473586,4310655,,
+Nevada,Toiyabe,Ophir,OP08.1,,,point,2004,2822,0,NA,21,,15,,18,,203,115,473340,4310304,,
+Nevada,Toiyabe,Ophir,OP09.1,,,point,2004,2888,0,NA,21,,18,,15,,203,115,473110,4310337,,
+Nevada,Toiyabe,Ophir,OP09.2,,,point,2004,2981,0,NA,21,,18,,15,,206,114,472702,4310313,,
+Nevada,Shoshone,Riley,RI01.1,,,point,2004,2065,0,NA,21,,3,,2,,96,61,463233,4329300,,
+Nevada,Shoshone,Riley,RI01.2,,,point,2004,2115,0,NA,21,,15,,6,,96,61,462743,4329787,,
+Nevada,Shoshone,Riley,RI02.1,,,point,2004,2147,0,NA,21,,11,,1,,96,61,462578,4330360,,
+Nevada,Shoshone,Riley,RI02.2,,,point,2004,2182,0,NA,21,,15,,4,,96,61,462370,4330938,,
+Nevada,Shoshone,Riley,RI03.1,,,point,2004,2259,0,NA,21,,16,,6,,96,61,462568,4332105,,
+Nevada,Shoshone,Riley,RI03.2,,,point,2004,2305,0,NA,21,,9,,6,,96,61,462716,4332560,,
+Nevada,Shoshone,Riley,RI04.1,,,point,2004,2368,0,NA,21,,17,,16,,129,78,462527,4333413,,
+Nevada,Shoshone,Riley,RI04.2,,,point,2004,2412,0,NA,21,,14,,15,,129,78,462424,4334066,,
+Nevada,Shoshone,Riley,RI05.1,,,point,2004,2483,0,NA,21,,13,,11,,198,108,462019,4334785,,
+Nevada,Shoshone,Riley,RI05.2,,,point,2004,2545,0,NA,21,,17,,14,,129,78,462451,4334910,,
+Nevada,Toiyabe,Summit,SU01.1,,,point,2004,1989,0,NA,21,,8,,9,,92,58,479257,4313358,,
+Nevada,Toiyabe,Summit,SU01.2,,,point,2004,2072,0,NA,21,,11,,12,,92,58,478677,4313528,,
+Nevada,Toiyabe,Summit,SU02.1,,,point,2004,2125,0,NA,21,,13,,9,,92,58,478370,4313751,,
+Nevada,Toiyabe,Summit,SU02.2,,,point,2004,2146,0,NA,21,,8,,8,,92,58,478226,4313749,,
+Nevada,Toiyabe,Summit,SU03.1,,,point,2004,2280,0,NA,21,,2,,3,,92,58,477620,4314075,,
+Nevada,Toiyabe,Summit,SU03.2,,,point,2004,2311,0,NA,21,,4,,3,,92,58,477277,4314119,,
+Nevada,Toiyabe,Summit,SU04.1,,,point,2004,2350,0,NA,21,,11,,14,,92,58,476898,4314091,,
+Nevada,Toiyabe,Summit,SU04.2,,,point,2004,2409,0,NA,15,,6,,11,,203,115,476402,4314164,,
+Nevada,Toiyabe,Summit,SU05.1,,,point,2004,2468,0,NA,21,,12,,18,,200,115,476069,4314635,,
+Nevada,Toiyabe,Summit,SU05.2,,,point,2004,2523,0,NA,21,,6,,7,,200,115,475934,4314998,,
+Nevada,Toiyabe,Summit,SU06.1,,,point,2004,2575,0,NA,21,,10,,9,,200,115,475658,4315078,,
+Nevada,Toiyabe,Summit,SU06.2,,,point,2004,2587,0,NA,21,,12,,10,,200,115,475781,4314913,,
+Nevada,Toiyabe,Stewart,SW00.1,,,point,2004,2605,0,NA,21,,15,,16,,161,94,467063,4305943,,
+Nevada,Toiyabe,Stewart,SW01.1,,,point,2004,2635,0,NA,21,,18,,18,,161,94,467308,4305727,,
+Nevada,Toiyabe,Stewart,SW01.2,,,point,2004,2667,0,NA,21,,18,,18,,161,94,467478,4305383,,
+Nevada,Toiyabe,Stewart,SW02.1,,,point,2004,2731,0,NA,21,,21,,19,,239,138,467712,4305124,,
+Nevada,Toiyabe,Stewart,SW02.2,,,point,2004,2795,0,NA,21,,18,,19,,239,138,467930,4304901,,
+Nevada,Toiyabe,Stewart,SW03.1,,,point,2004,2854,0,NA,21,,21,,8,,239,138,468386,4304751,,
+Nevada,Toiyabe,Stewart,SW03.2,,,point,2004,2897,0,NA,21,,21,,14,,239,138,468645,4304499,,
+Nevada,Toiyabe,Stewart,SW04.1,,,point,2004,2950,0,NA,21,,15,,11,,239,138,468921,4304312,,
+Nevada,Toiyabe,Stewart,SW05.1,,,point,2004,3017,0,NA,21,,14,,13,,239,138,469128,4304223,,
+Nevada,Toiyabe,Stewart,SW05.2,,,point,2004,3067,0,NA,21,,18,,9,,239,138,469271,4304135,,
+Nevada,Toiyabe,Stewart,SW06.1,,,point,2004,3162,0,NA,21,,10,,10,,234,138,469408,4303832,,
+Nevada,Toiyabe,Stewart,SW06.2,,,point,2004,3219,0,NA,21,,19,,13,,234,138,469437,4303521,,
+Nevada,Shoshone,Underdown,UN01.1,,,point,2004,2027,0,NA,21,,5,,5,,70,50,466955,4334270,,
+Nevada,Shoshone,Underdown,UN01.2,,,point,2004,2062,0,NA,21,,10,,5,,70,50,466507,4334325,,
+Nevada,Shoshone,Underdown,UN02.1,,,point,2004,2114,0,NA,21,,17,,9,,70,50,465834,4334717,,
+Nevada,Shoshone,Underdown,UN02.2,,,point,2004,2147,1,2002,21,,17,,15,,129,78,465345,4334870,,
+Nevada,Shoshone,Underdown,UN03.1,,,point,2004,2207,1,2002,21,,11,,12,,129,78,464392,4335151,,
+Nevada,Shoshone,Underdown,UN03.2,,,point,2004,2246,1,2005,21,,5,,3,,129,78,463859,4335420,,
+Nevada,Shoshone,Underdown,UN04.1,,,point,2004,2296,0,NA,21,,21,,12,,129,78,463046,4335553,,
+Nevada,Shoshone,Underdown,UN04.2,,,point,2004,2365,0,NA,21,,16,,6,,198,108,462172,4336062,,
+Nevada,Shoshone,Underdown,UN05.1,,,point,2004,2424,0,NA,21,,15,,6,,198,108,461858,4335606,,
+Nevada,Shoshone,Underdown,UN05.2,,,point,2004,2506,0,NA,21,,18,,11,,198,108,461771,4334944,,
+Nevada,Shoshone,Underdown,UN06.1,,,point,2004,2569,0,NA,21,,18,,17,,198,108,461400,4334852,,
+Nevada,Shoshone,Underdown,UN06.2,,,point,2004,2591,0,NA,21,,17,,13,,198,108,461304,4334523,,
+Nevada,Shoshone,Underdown,UN07.1,,,point,2004,2634,0,NA,21,,20,,17,,198,108,461094,4334514,,
+Nevada,Shoshone,Underdown,UN07.2,,,point,2004,2657,0,NA,21,,17,,14,,198,108,461002,4334601,,
+Nevada,Toiyabe,Wall,WA01.1,,,point,2004,1938,0,NA,21,,5,,3,,67,34,480640,4281421,,
+Nevada,Toiyabe,Wall,WA01.2,,,point,2004,1984,0,NA,21,,8,,7,,102,63,479744,4281663,,
+Nevada,Toiyabe,Wall,WA02.1,,,point,2004,2037,0,NA,21,,3,,3,,102,63,478861,4281929,,
+Nevada,Toiyabe,Wall,WA02.2,,,point,2004,2087,0,NA,21,,5,,0,,108,67,478012,4282228,,
+Nevada,Toiyabe,Wall,WA03.1,,,point,2004,2151,1,2001,21,,6,,19,,108,67,477057,4282690,,
+Nevada,Toiyabe,Wall,WA03.2,,,point,2004,2201,1,2001,21,,15,,18,,108,67,476504,4283065,,
+Nevada,Toiyabe,Wall,WA04.1,,,point,2004,2260,0,NA,21,,5,,19,,147,89,475818,4283922,,
+Nevada,Toiyabe,Wall,WA04.2,,,point,2004,2303,1,2001,21,,18,,20,,147,89,475454,4284265,,
+Nevada,Toiyabe,Wall,WA05.1,,,point,2004,2356,1,2001,21,,13,,19,,147,89,474874,4284514,,
+Nevada,Toiyabe,Wall,WA05.2,,,point,2004,2414,1,2001,21,,13,,15,,147,89,474577,4284907,,
+Nevada,Toiyabe,Wall,WA06.1,,,point,2004,2405,1,2001,21,,11,,18,,147,89,474931,4284883,,
+Nevada,Shoshone,Underdown,UN0B1,,,point,2005,2083,1,2005,21,20,,19,,,182,91,466208,4334493,,
+Nevada,Shoshone,Underdown,UN0B2,,,point,2005,2129,1,2005,21,15,,15,,,274,157,465679,4334701,,
+Nevada,Shoshone,Underdown,UN0B3,,,point,2005,2135,1,2005,21,4,,12,,,274,157,465579,4334726,,
+Nevada,Shoshone,Underdown,UN0B4,,,point,2005,2137,1,2005,21,1,,13,,,274,157,465472,4334801,,
+Nevada,Shoshone,Underdown,UN0B5,,,point,2005,2231,1,2005,21,18,,21,,,274,157,464142,4335228,,
+Nevada,Shoshone,Underdown,UN0B6,,,point,2005,2245,1,2005,21,5,,19,,,274,157,463923,4335318,,
+Nevada,Shoshone,Underdown,UN0B7,,,point,2005,2259,1,2005,21,11,,21,,,274,157,463704,4335430,,
+Nevada,Toiyabe,Wall,WA0B1,,,point,2005,2174,1,2001,21,,9,,20,,272,130,476751,4282806,,
+Nevada,Toiyabe,Wall,WA0B2,,,point,2005,2212,1,2001,21,,8,,21,,335,181,476381,4283210,,
+Nevada,Toiyabe,Wall,WA0B3,,,point,2005,2227,1,2001,21,,9,,21,,335,181,476328,4283496,,
+Nevada,Toiyabe,Wall,WA0B4,,,point,2005,2263,1,2001,21,,17,,20,,335,181,475964,4283880,,
+Nevada,Toiyabe,Wall,WA0B5,,,point,2005,2267,1,2001,21,,12,,17,,335,181,475713,4283998,,
+Nevada,Toiyabe,Wall,WA0B6,,,point,2005,2321,1,2001,21,,19,,20,,335,181,475182,4284300,,
+Nevada,Toiyabe,Wall,WA0B7,,,point,2005,2372,1,2001,21,,18,,11,,335,181,474706,4284574,,
+Nevada,Monitor,Allison,AL14,31,0,point,2006,2285,0,NA,21,,14,,13,,180,70,544647,4347369,1,1
+Nevada,Monitor,Allison,AL15,31,1,point,2006,2325,0,NA,21,,16,,17,,202,77,545072,4348363,1,1
+Nevada,Monitor,Allison,AL16,31,0,point,2006,2394,0,NA,21,,10,,12,,202,77,545895,4349257,1,1
+Nevada,Monitor,Allison,AL17,31,0,point,2006,2487,0,NA,21,,14,,10,,202,77,547012,4351091,1,1
+Nevada,Monitor,Allison,AL18,31,0,point,2006,2397,0,NA,21,,12,,13,,202,77,547741,4351223,1,1
+Nevada,Monitor,Allison,AL19,24,0,point,2006,2280,0,NA,14,,11,,7,,170,67,548712,4351888,1,1
+Nevada,Monitor,Allison,AL20,31,4,point,2006,2227,0,NA,21,,11,,7,,170,67,549703,4352135,1,1
+Nevada,Monitor,Allison,AL21,31,0,point,2006,2209,0,NA,21,,16,,7,,170,67,549951,4352294,1,1
+Nevada,Monitor,Allison,AL22,31,0,point,2006,2179,0,NA,21,,7,,2,,170,67,550268,4352752,1,1
+Nevada,Toquima,Antone,AN01.1,10,0,point,2006,2403,0,NA,,,,,,,299,103,508271,4280080,1,1
+Nevada,Toquima,Antone,AN01.2,10,1,point,2006,2425,0,NA,,,,,,,299,103,507742,4279834,1,1
+Nevada,Toquima,Antone,AN01.3,10,0,point,2006,2450,0,NA,,,,,,,299,103,507392,4279847,1,1
+Nevada,Toquima,Antone,AN02.1,10,1,point,2006,2486,0,NA,,,,,,,299,103,506905,4279511,1,1
+Nevada,Toquima,Antone,AN02.2,10,9,point,2006,2518,0,NA,,,,,,,299,103,506461,4279457,1,1
+Nevada,Toquima,Antone,AN03.1,10,4,point,2006,2604,0,NA,,,,,,,299,103,505591,4279341,1,1
+Nevada,Toquima,Antone,AN03.2,10,0,point,2006,2658,0,NA,,,,,,,377,130,505178,4279056,1,1
+Nevada,Toquima,Antone,AN04.1,10,0,point,2006,2735,0,NA,,,,,,,377,130,504693,4278945,1,1
+Nevada,Shoshone,Barrett,BA01.1,10,5,point,2006,2156,0,NA,,,,,,,204,77,457842,4326960,1,1
+Nevada,Shoshone,Barrett,BA01.2,10,1,point,2006,2180,0,NA,,,,,,,204,77,457435,4327193,1,1
+Nevada,Shoshone,Barrett,BA02.1,10,0,point,2006,2263,0,NA,,,,,,,204,77,456127,4327497,1,1
+Nevada,Shoshone,Barrett,BA02.2,10,1,point,2006,2282,0,NA,,,,,,,204,77,455870,4327620,1,1
+Nevada,Shoshone,Barrett,BA03.1,10,1,point,2006,2364,0,NA,,,,,,,287,95,454833,4327629,1,1
+Nevada,Shoshone,Barrett,BA03.2,10,2,point,2006,2395,0,NA,,,,,,,287,95,454493,4327634,1,1
+Nevada,Shoshone,Barrett,BA04.1,10,1,point,2006,2455,0,NA,,,,,,,287,95,453911,4327755,1,1
+Nevada,Shoshone,Barrett,BA04.2,10,0,point,2006,2468,0,NA,,,,,,,287,95,453813,4327895,1,1
+Nevada,Shoshone,Barrett,BA05.1,10,3,point,2006,2518,0,NA,,,,,,,287,95,453507,4328236,1,1
+Nevada,Shoshone,Barrett,BA05.2,10,1,point,2006,2554,0,NA,,,,,,,287,95,453312,4328349,1,1
+Nevada,Shoshone,Barrett,BA06.1,10,1,point,2006,2640,0,NA,,,,,,,260,88,453038,4328612,1,1
+Nevada,Shoshone,Barrett,BA06.2,10,4,point,2006,2679,0,NA,,,,,,,260,88,452941,4328666,1,1
+Nevada,Shoshone,Becker,BE01.1,10,4,point,2006,2166,0,NA,,,,,,,141,63,459535,4327971,1,1
+Nevada,Shoshone,Becker,BE01.2,10,1,point,2006,2188,0,NA,,,,,,,141,63,459363,4328408,1,1
+Nevada,Shoshone,Becker,BE02.1,10,2,point,2006,2241,0,NA,,,,,,,273,90,459244,4329392,1,1
+Nevada,Shoshone,Becker,BE02.2,10,1,point,2006,2248,0,NA,,,,,,,273,90,459307,4329527,1,1
+Nevada,Shoshone,Becker,BE03.1,10,0,point,2006,2359,0,NA,,,,,,,273,90,459789,4330635,1,1
+Nevada,Shoshone,Becker,BE03.2,10,0,point,2006,2373,0,NA,,,,,,,273,90,459844,4330725,1,1
+Nevada,Toiyabe,Birch,BI01.1,10,4,point,2006,1966,0,NA,,,,,,,183,74,498887,4358987,1,1
+Nevada,Toiyabe,Birch,BI01.2,10,6,point,2006,1991,0,NA,,,,,,,183,74,498570,4359048,1,1
+Nevada,Toiyabe,Birch,BI02.1,10,1,point,2006,2058,0,NA,,,,,,,346,118,497584,4359812,1,1
+Nevada,Toiyabe,Birch,BI02.2,10,5,point,2006,2105,0,NA,,,,,,,346,118,497212,4360036,1,1
+Nevada,Toiyabe,Birch,BI03.1,10,4,point,2006,2122,0,NA,,,,,,,346,118,497171,4360414,1,1
+Nevada,Toiyabe,Birch,BI03.2,10,8,point,2006,2153,0,NA,,,,,,,323,113,496976,4360740,1,1
+Nevada,Toiyabe,Birch,BI03.3,10,2,point,2006,2158,0,NA,,,,,,,323,113,496572,4361012,1,1
+Nevada,Toiyabe,Birch,BI04.1,10,2,point,2006,2211,0,NA,,,,,,,323,113,496016,4362190,1,1
+Nevada,Toiyabe,Birch,BI04.2,10,2,point,2006,2231,0,NA,,,,,,,323,113,495899,4362638,1,1
+Nevada,Toiyabe,Birch,BI04.3,10,1,point,2006,2324,0,NA,,,,,,,323,113,496025,4363900,1,1
+Nevada,Toiyabe,Birch,BI05.1,10,5,point,2006,2376,0,NA,,,,,,,323,113,496070,4364329,1,1
+Nevada,Toiyabe,Birch,BI05.2,10,5,point,2006,2410,0,NA,,,,,,,323,113,495912,4364636,1,1
+Nevada,Toiyabe,Birch,BI06.1,10,3,point,2006,2484,0,NA,,,,,,,323,113,495419,4364918,1,1
+Nevada,Toiyabe,Birch,BI06.2,10,0,point,2006,2524,0,NA,,,,,,,323,113,495236,4365279,1,1
+Nevada,Toiyabe,Birch,BI07.1,10,0,point,2006,2555,0,NA,,,,,,,289,106,495466,4365710,1,1
+Nevada,Toiyabe,Birch,BI07.2,10,0,point,2006,2586,0,NA,,,,,,,289,106,495570,4366063,1,1
+Nevada,Toiyabe,Grass Springs,GS01,31,0,point,2006,2179,1,2006,21,12,,9,,,217,85,498568,4370386,1,1
+Nevada,Toiyabe,Grass Springs,GS02,31,0,point,2006,2134,1,2006,21,12,,6,,,217,85,498766,4370378,1,1
+Nevada,Toiyabe,Grass Springs,GS03,31,0,point,2006,2085,1,2006,21,2,,6,,,217,85,499376,4370360,1,1
+Nevada,Toiyabe,Grass Springs,GS04,31,0,point,2006,2079,1,2006,21,0,,0,,,217,85,499391,4370537,1,1
+Nevada,Toiyabe,Grass Springs,GS05,31,2,point,2006,2087,1,2006,21,16,,19,,,217,85,499165,4370619,1,1
+Nevada,Toiyabe,Grass Springs,GS06,31,6,point,2006,2108,1,2006,21,12,,19,,,217,85,498953,4370678,1,1
+Nevada,Toiyabe,Grass Springs,GS07,31,11,point,2006,2145,1,2006,21,11,,0,,,217,85,498729,4370665,1,1
+Nevada,Toiyabe,Grass Springs,GS08,31,6,point,2006,2129,1,2006,21,16,,13,,,217,85,498840,4370884,1,1
+Nevada,Toiyabe,Grass Springs,GS09,31,7,point,2006,2078,1,2006,21,6,,6,,,217,85,499234,4371042,1,1
+Nevada,Toiyabe,Grass Springs,GS10,31,1,point,2006,2062,1,2006,21,6,,19,,,217,85,499449,4370812,1,1
+Nevada,Toiyabe,Jett,JE01.1,10,4,point,2006,1972,0,NA,,,,,,,122,58,481292,4286426,0,0
+Nevada,Toiyabe,Jett,JE01.2,10,5,point,2006,1978,0,NA,,,,,,,122,58,480943,4286510,0,0
+Nevada,Toiyabe,Jett,JE01.3,2,1,point,2006,2016,0,NA,,,,,,,122,58,480602,4286575,0,0
+Nevada,Toiyabe,Jett,JE02.1,8,0,point,2006,2051,0,NA,,,,,,,283,111,480042,4286915,0,0
+Nevada,Toiyabe,Jett,JE02.2,10,0,point,2006,2085,0,NA,,,,,,,283,111,479554,4287084,0,0
+Nevada,Toiyabe,Jett,JE02.3,10,1,point,2006,2115,0,NA,,,,,,,283,111,479032,4287356,0,0
+Nevada,Toiyabe,Jett,JE03.1,10,1,point,2006,2143,0,NA,,,,,,,283,111,478738,4287599,0,0
+Nevada,Toiyabe,Jett,JE03.2,9,3,point,2006,2156,0,NA,,,,,,,283,111,478552,4287654,0,0
+Nevada,Toquima,Meadow,MD01.1,10,0,point,2006,2259,0,NA,,,,,,,245,90,512295,4277782,1,1
+Nevada,Toquima,Meadow,MD01.2,10,0,point,2006,2273,0,NA,,,,,,,245,90,511844,4278222,1,1
+Nevada,Toquima,Meadow,MD01.3,10,0,point,2006,2302,0,NA,,,,,,,245,90,511062,4279066,1,1
+Nevada,Toquima,Meadow,MD02.1,10,0,point,2006,2342,0,NA,,,,,,,245,90,510018,4280073,1,1
+Nevada,Toquima,Meadow,MD02.2,10,0,point,2006,2368,0,NA,,,,,,,245,90,509176,4280604,1,1
+Nevada,Toquima,Meadow,MD02.3,10,0,point,2006,2384,0,NA,,,,,,,299,103,508562,4281002,1,1
+Nevada,Toquima,Meadow,MD03.1,10,0,point,2006,2447,0,NA,,,,,,,323,108,507148,4282357,1,1
+Nevada,Toquima,Meadow,MD03.2,10,0,point,2006,2495,0,NA,,,,,,,323,108,506561,4282170,1,1
+Nevada,Toquima,Meadow,MD04.1,10,0,point,2006,2577,0,NA,,,,,,,299,103,505955,4281915,1,1
+Nevada,Toquima,Meadow,MD04.2,10,0,point,2006,2619,0,NA,,,,,,,323,108,505683,4282116,1,1
+Nevada,Toquima,Meadow,MD05.1,10,0,point,2006,2660,0,NA,,,,,,,323,108,505506,4282528,1,1
+Nevada,Toquima,Meadow,MD05.2,10,0,point,2006,2674,0,NA,,,,,,,304,104,505212,4282660,1,1
+Nevada,Toiyabe,Ophir,OP01.1,10,6,point,2006,1969,0,NA,,,,,,,166,70,478608,4310154,0,0
+Nevada,Toiyabe,Ophir,OP01.2,10,0,point,2006,2033,0,NA,,,,,,,166,70,478207,4310375,0,0
+Nevada,Toiyabe,Ophir,OP02.1,10,2,point,2006,2093,0,NA,,,,,,,166,70,477850,4310416,0,0
+Nevada,Toiyabe,Ophir,OP02.2,10,1,point,2006,2167,0,NA,,,,,,,166,70,477519,4310331,0,0
+Nevada,Toiyabe,Ophir,OP03.1,10,0,point,2006,2248,0,NA,,,,,,,166,70,477123,4310512,0,0
+Nevada,Toiyabe,Ophir,OP03.2,10,6,point,2006,2278,0,NA,,,,,,,166,70,476818,4310735,0,0
+Nevada,Toiyabe,Ophir,OP04.1,10,0,point,2006,2368,0,NA,,,,,,,356,115,475875,4310641,0,0
+Nevada,Toiyabe,Ophir,OP05.1,10,2,point,2006,2415,0,NA,,,,,,,356,115,475407,4310665,0,0
+Nevada,Toiyabe,Ophir,OP05.2,10,0,point,2006,2477,0,NA,,,,,,,356,115,474938,4310724,0,0
+Nevada,Toiyabe,Ophir,OP06.2,5,3,point,2006,2626,0,NA,,,,,,,356,115,473902,4310610,0,0
+Nevada,Toiyabe,Ophir,OP07.1,10,0,point,2006,2688,0,NA,,,,,,,356,115,473586,4310655,0,0
+Nevada,Toiyabe,Ophir,OP08.1,10,0,point,2006,2822,0,NA,,,,,,,356,115,473340,4310304,0,0
+Nevada,Toiyabe,Ophir,OP09.1,10,0,point,2006,2888,0,NA,,,,,,,356,115,473110,4310337,0,0
+Nevada,Toiyabe,Ophir,OP09.2,10,0,point,2006,2981,0,NA,,,,,,,365,118,472702,4310313,0,0
+Nevada,Shoshone,Riley,RI01.1,25,6,point,2006,2065,0,NA,15,,6,,6,,178,71,463233,4329300,1,1
+Nevada,Shoshone,Riley,RI01.2,31,5,point,2006,2115,0,NA,21,,10,,4,,178,71,462743,4329787,1,1
+Nevada,Shoshone,Riley,RI02.1,31,3,point,2006,2147,0,NA,21,,17,,4,,178,71,462578,4330360,1,1
+Nevada,Shoshone,Riley,RI02.2,31,2,point,2006,2182,0,NA,21,,14,,5,,178,71,462370,4330938,1,1
+Nevada,Shoshone,Riley,RI03.1,31,1,point,2006,2259,0,NA,21,,20,,11,,178,71,462568,4332105,1,1
+Nevada,Shoshone,Riley,RI03.2,31,0,point,2006,2305,0,NA,21,,11,,7,,178,71,462716,4332560,1,1
+Nevada,Shoshone,Riley,RI04.1,31,0,point,2006,2368,0,NA,21,,18,,13,,238,85,462527,4333413,1,1
+Nevada,Shoshone,Riley,RI04.2,31,0,point,2006,2412,0,NA,21,,19,,11,,238,85,462424,4334066,1,1
+Nevada,Shoshone,Riley,RI05.1,31,7,point,2006,2483,0,NA,21,,15,,14,,349,108,462019,4334785,1,1
+Nevada,Shoshone,Riley,RI05.2,31,0,point,2006,2545,0,NA,21,,16,,15,,238,85,462451,4334910,1,1
+Nevada,Monitor,Ryegrass,RY01,31,0,point,2006,2144,0,NA,21,,5,,6,,151,64,550541,4337427,1,1
+Nevada,Monitor,Ryegrass,RY02,31,0,point,2006,2186,0,NA,21,,14,,12,,151,64,549231,4336911,1,1
+Nevada,Monitor,Ryegrass,RY03,31,0,point,2006,2235,0,NA,21,,11,,17,,208,79,547857,4337274,1,1
+Nevada,Monitor,Ryegrass,RY04,31,0,point,2006,2283,0,NA,21,,10,,10,,175,70,546829,4337745,1,1
+Nevada,Monitor,Ryegrass,RY05,31,1,point,2006,2337,0,NA,21,,13,,6,,208,79,545857,4337650,1,1
+Nevada,Monitor,Ryegrass,RY06,31,0,point,2006,2399,0,NA,21,,17,,10,,175,70,545188,4338026,1,1
+Nevada,Monitor,Ryegrass,RY07,31,0,point,2006,2412,0,NA,21,,20,,18,,179,71,544472,4338787,1,1
+Nevada,Toiyabe,San Juan,SJ01.1,10,5,point,2006,2104,0,NA,,,,,,,150,67,475112,4333109,1,1
+Nevada,Toiyabe,San Juan,SJ01.2,10,1,point,2006,2117,0,NA,,,,,,,196,77,475197,4332753,1,1
+Nevada,Toiyabe,San Juan,SJ01.3,10,3,point,2006,2160,0,NA,,,,,,,196,77,475522,4331845,1,1
+Nevada,Toiyabe,San Juan,SJ02.1,10,3,point,2006,2220,0,NA,,,,,,,196,77,476215,4330473,1,1
+Nevada,Toiyabe,San Juan,SJ02.2,10,3,point,2006,2230,0,NA,,,,,,,196,77,476201,4330189,1,1
+Nevada,Toiyabe,San Juan,SJ02.3,10,3,point,2006,2289,0,NA,,,,,,,291,102,476920,4330237,1,1
+Nevada,Toiyabe,San Juan,SJ03.1,10,0,point,2006,2338,0,NA,,,,,,,291,102,477190,4330669,1,1
+Nevada,Toiyabe,San Juan,SJ03.2,10,2,point,2006,2384,0,NA,,,,,,,291,102,477327,4330880,1,1
+Nevada,Toiyabe,San Juan,SJ04.1,10,1,point,2006,2401,0,NA,,,,,,,291,102,477284,4331007,1,1
+Nevada,Toiyabe,San Juan,SJ04.2,10,6,point,2006,2446,0,NA,,,,,,,291,102,477468,4331144,1,1
+Nevada,Toiyabe,San Juan,SJ05.1,10,0,point,2006,2504,0,NA,,,,,,,291,102,477710,4331150,1,1
+Nevada,Toiyabe,Summit,SU01.1,10,8,point,2006,1989,0,NA,,,,,,,166,70,479257,4313358,0,0
+Nevada,Toiyabe,Summit,SU01.2,10,0,point,2006,2072,0,NA,,,,,,,166,70,478677,4313528,0,0
+Nevada,Toiyabe,Summit,SU02.1,10,0,point,2006,2125,0,NA,,,,,,,166,70,478370,4313751,0,0
+Nevada,Toiyabe,Summit,SU02.2,10,3,point,2006,2146,0,NA,,,,,,,166,70,478226,4313749,0,0
+Nevada,Toiyabe,Summit,SU03.1,10,0,point,2006,2280,0,NA,,,,,,,166,70,477620,4314075,0,0
+Nevada,Toiyabe,Summit,SU03.2,10,0,point,2006,2311,0,NA,,,,,,,166,70,477277,4314119,0,0
+Nevada,Toiyabe,Summit,SU04.1,10,1,point,2006,2350,0,NA,,,,,,,166,70,476898,4314091,0,0
+Nevada,Toiyabe,Summit,SU04.2,10,0,point,2006,2409,0,NA,,,,,,,356,115,476402,4314164,0,0
+Nevada,Toiyabe,Summit,SU05.1,10,4,point,2006,2468,0,NA,,,,,,,351,113,476069,4314635,0,0
+Nevada,Toiyabe,Summit,SU05.2,10,5,point,2006,2523,0,NA,,,,,,,351,113,475934,4314998,0,0
+Nevada,Toiyabe,Summit,SU06.1,10,0,point,2006,2575,0,NA,,,,,,,351,113,475658,4315078,0,0
+Nevada,Toiyabe,Summit,SU06.2,10,0,point,2006,2587,0,NA,,,,,,,351,113,475781,4314913,0,0
+Nevada,Toiyabe,Stewart,SW00.1,31,0,point,2006,2605,0,NA,21,,20,,21,,286,102,467063,4305943,0,0
+Nevada,Toiyabe,Stewart,SW01.1,31,0,point,2006,2635,0,NA,21,,15,,18,,286,102,467308,4305727,0,0
+Nevada,Toiyabe,Stewart,SW01.2,31,0,point,2006,2667,0,NA,21,,16,,20,,286,102,467478,4305383,0,0
+Nevada,Toiyabe,Stewart,SW02.1,31,0,point,2006,2731,0,NA,21,,19,,20,,419,143,467712,4305124,0,0
+Nevada,Toiyabe,Stewart,SW02.2,31,0,point,2006,2795,0,NA,21,,21,,16,,419,143,467930,4304901,0,0
+Nevada,Toiyabe,Stewart,SW03.1,24,0,point,2006,2854,0,NA,14,,12,,13,,419,143,468386,4304751,0,0
+Nevada,Toiyabe,Stewart,SW03.2,31,0,point,2006,2897,0,NA,21,,14,,10,,419,143,468645,4304499,0,0
+Nevada,Toiyabe,Stewart,SW04.1,31,0,point,2006,2950,0,NA,21,,17,,13,,419,143,468921,4304312,0,0
+Nevada,Toiyabe,Stewart,SW05.1,31,0,point,2006,3017,0,NA,21,,16,,9,,419,143,469128,4304223,0,0
+Nevada,Toiyabe,Stewart,SW05.2,31,0,point,2006,3067,0,NA,21,,16,,11,,419,143,469271,4304135,0,0
+Nevada,Toiyabe,Stewart,SW06.1,31,0,point,2006,3162,0,NA,21,,20,,12,,414,142,469408,4303832,0,0
+Nevada,Toiyabe,Stewart,SW06.2,31,0,point,2006,3219,0,NA,21,,15,,8,,414,142,469437,4303521,0,0
+Nevada,Shoshone,Underdown,UN01.1,24,4,point,2006,2027,0,NA,14,,2,,5,,141,64,466955,4334270,1,1
+Nevada,Shoshone,Underdown,UN01.2,31,0,point,2006,2062,0,NA,21,,18,,11,,141,64,466507,4334325,1,1
+Nevada,Shoshone,Underdown,UN02.1,31,5,point,2006,2114,0,NA,21,,16,,16,,141,64,465834,4334717,1,1
+Nevada,Shoshone,Underdown,UN02.2,31,11,point,2006,2147,1,2002,21,,8,,8,,238,85,465345,4334870,1,1
+Nevada,Shoshone,Underdown,UN03.1,31,6,point,2006,2207,1,2002,21,,15,,17,,238,85,464392,4335151,1,1
+Nevada,Shoshone,Underdown,UN03.2,31,13,point,2006,2246,1,2005,21,,15,,15,,238,85,463859,4335420,1,1
+Nevada,Shoshone,Underdown,UN04.1,31,0,point,2006,2296,0,NA,21,,17,,6,,238,85,463046,4335553,1,1
+Nevada,Shoshone,Underdown,UN04.2,31,2,point,2006,2365,0,NA,21,,15,,14,,349,108,462172,4336062,1,1
+Nevada,Shoshone,Underdown,UN05.1,31,0,point,2006,2424,0,NA,21,,20,,20,,349,108,461858,4335606,1,1
+Nevada,Shoshone,Underdown,UN05.2,31,0,point,2006,2506,0,NA,21,,19,,20,,349,108,461771,4334944,1,1
+Nevada,Shoshone,Underdown,UN06.1,31,0,point,2006,2569,0,NA,21,,21,,13,,349,108,461400,4334852,1,1
+Nevada,Shoshone,Underdown,UN06.2,31,0,point,2006,2591,0,NA,21,,20,,21,,349,108,461304,4334523,1,1
+Nevada,Shoshone,Underdown,UN07.1,31,0,point,2006,2634,0,NA,21,,21,,14,,349,108,461094,4334514,1,1
+Nevada,Shoshone,Underdown,UN07.2,31,1,point,2006,2657,0,NA,21,,18,,20,,349,108,461002,4334601,1,1
+Nevada,Shoshone,Underdown,UN0B1,10,6,point,2006,2083,1,2005,,20,,19,,,141,64,466208,4334493,1,1
+Nevada,Shoshone,Underdown,UN0B2,10,0,point,2006,2129,1,2005,,15,,15,,,238,85,465679,4334701,1,1
+Nevada,Shoshone,Underdown,UN0B3,10,0,point,2006,2135,1,2005,,4,,12,,,238,85,465579,4334726,1,1
+Nevada,Shoshone,Underdown,UN0B4,10,1,point,2006,2137,1,2005,,1,,13,,,238,85,465472,4334801,1,1
+Nevada,Shoshone,Underdown,UN0B5,10,2,point,2006,2231,1,2005,,18,,21,,,238,85,464142,4335228,1,1
+Nevada,Shoshone,Underdown,UN0B6,10,0,point,2006,2245,1,2005,,5,,19,,,238,85,463923,4335318,1,1
+Nevada,Shoshone,Underdown,UN0B7,10,0,point,2006,2259,1,2005,,11,,21,,,238,85,463704,4335430,1,1
+Nevada,Toiyabe,Wall,WA01.1,10,5,point,2006,1938,0,NA,,,,,,,109,52,480640,4281421,1,1
+Nevada,Toiyabe,Wall,WA01.2,10,0,point,2006,1984,0,NA,,,,,,,174,76,479744,4281663,1,1
+Nevada,Toiyabe,Wall,WA02.1,10,0,point,2006,2037,0,NA,,,,,,,174,76,478861,4281929,1,1
+Nevada,Toiyabe,Wall,WA02.2,10,0,point,2006,2087,0,NA,,,,,,,185,81,478012,4282228,1,1
+Nevada,Toiyabe,Wall,WA03.1,10,5,point,2006,2151,1,2001,,,,,,,185,81,477057,4282690,1,1
+Nevada,Toiyabe,Wall,WA03.2,10,8,point,2006,2201,1,2001,,,,,,,185,81,476504,4283065,1,1
+Nevada,Toiyabe,Wall,WA04.1,10,9,point,2006,2260,0,NA,,,,,,,252,102,475818,4283922,1,1
+Nevada,Toiyabe,Wall,WA04.2,10,10,point,2006,2303,1,2001,,,,,,,252,102,475454,4284265,1,1
+Nevada,Toiyabe,Wall,WA05.1,10,10,point,2006,2356,1,2001,,,,,,,252,102,474874,4284514,1,1
+Nevada,Toiyabe,Wall,WA05.2,10,10,point,2006,2414,1,2001,,,,,,,252,102,474577,4284907,1,1
+Nevada,Toiyabe,Wall,WA06.1,10,7,point,2006,2405,1,2001,,,,,,,252,102,474931,4284883,1,1
+Nevada,Toiyabe,Wall,WA0B1,10,10,point,2006,2174,1,2001,,,,,,,185,81,476751,4282806,1,1
+Nevada,Toiyabe,Wall,WA0B2,10,10,point,2006,2212,1,2001,,,,,,,252,102,476381,4283210,1,1
+Nevada,Toiyabe,Wall,WA0B3,10,10,point,2006,2227,1,2001,,,,,,,252,102,476328,4283496,1,1
+Nevada,Toiyabe,Wall,WA0B4,10,10,point,2006,2263,1,2001,,,,,,,252,102,475964,4283880,1,1
+Nevada,Toiyabe,Wall,WA0B5,10,9,point,2006,2267,1,2001,,,,,,,252,102,475713,4283998,1,1
+Nevada,Toiyabe,Wall,WA0B6,10,10,point,2006,2321,1,2001,,,,,,,252,102,475182,4284300,1,1
+Nevada,Toiyabe,Wall,WA0B7,10,10,point,2006,2372,1,2001,,,,,,,252,102,474706,4284574,1,1
+Nevada,Monitor,White Sage,WH08,31,0,point,2006,2320,0,NA,21,,17,,8,,179,71,543778,4339804,1,1
+Nevada,Monitor,White Sage,WH09,31,0,point,2006,2253,0,NA,21,,17,,12,,179,71,541940,4339565,1,1
+Nevada,Monitor,White Sage,WH10,31,0,point,2006,2205,0,NA,21,,16,,4,,156,64,540988,4337578,1,1
+Nevada,Monitor,White Sage,WH11,31,0,point,2006,2177,0,NA,21,,10,,3,,156,64,540694,4336326,1,1
+Nevada,Monitor,White Sage,WH12,31,0,point,2006,2163,0,NA,21,,12,,2,,156,64,540593,4335579,1,1
+Nevada,Monitor,White Sage,WH13,31,0,point,2006,2117,0,NA,21,,13,,2,,142,59,539964,4332918,1,1
+Nevada,Monitor,Wallace,WL01,24,15,point,2006,2134,0,NA,14,,12,,4,,153,61,536931,4350156,1,1
+Nevada,Monitor,Wallace,WL02,24,1,point,2006,2155,0,NA,14,,7,,8,,153,61,537285,4350420,1,1
+Nevada,Monitor,Wallace,WL03,31,0,point,2006,2164,0,NA,21,,11,,5,,153,61,537523,4350763,1,1
+Nevada,Monitor,Wallace,WL04,31,3,point,2006,2204,0,NA,21,,7,,8,,197,74,538368,4351727,1,1
+Nevada,Monitor,Wallace,WL05,24,1,point,2006,2313,0,NA,14,,9,,7,,197,74,539890,4352610,1,1
+Nevada,Monitor,Wallace,WL06,31,0,point,2006,2327,0,NA,21,,11,,12,,197,74,540147,4352583,1,1
+Nevada,Monitor,Wallace,WL07,31,2,point,2006,2347,0,NA,21,,12,,14,,197,74,540416,4352465,1,1
+Nevada,Monitor,Wallace,WL08,31,3,point,2006,2364,0,NA,21,,15,,12,,197,74,540747,4352367,1,1
+Nevada,Monitor,Wallace,WL09,31,3,point,2006,2423,0,NA,21,,11,,12,,224,82,541348,4352187,1,1
+Nevada,Monitor,Wallace,WL10,31,0,point,2006,2367,0,NA,21,,6,,14,,177,68,541107,4351457,1,1
+Nevada,Monitor,Wallace,WL11,31,0,point,2006,2279,0,NA,21,,14,,6,,180,70,541577,4349986,1,1
+Nevada,Monitor,Wallace,WL12,31,0,point,2006,2284,0,NA,21,,13,,9,,180,70,542209,4348896,1,1
+Nevada,Monitor,Wallace,WL13,31,0,point,2006,2272,0,NA,21,,19,,14,,180,70,543406,4347960,1,1
+Nevada,Toiyabe,Washington,WS01.1,10,5,point,2006,2133,0,NA,,,,,,,150,67,476444,4334452,1,1
+Nevada,Toiyabe,Washington,WS01.2,10,4,point,2006,2188,0,NA,,,,,,,243,93,477267,4334221,1,1
+Nevada,Toiyabe,Washington,WS01.3,10,2,point,2006,2212,0,NA,,,,,,,243,93,477752,4334148,1,1
+Nevada,Toiyabe,Washington,WS02.1,10,4,point,2006,2252,0,NA,,,,,,,243,93,478393,4333845,1,1
+Nevada,Toiyabe,Washington,WS02.2,10,5,point,2006,2269,0,NA,,,,,,,243,93,478611,4333781,1,1
+Nevada,Toiyabe,Washington,WS02.3,10,4,point,2006,2295,0,NA,,,,,,,243,93,478989,4333756,1,1
+Nevada,Toiyabe,Washington,WS03.1,10,8,point,2006,2332,0,NA,,,,,,,243,93,479632,4333962,1,1
+Nevada,Toiyabe,Washington,WS03.2,10,3,point,2006,2352,0,NA,,,,,,,243,93,479948,4334019,1,1
+Nevada,Toiyabe,Washington,WS03.3,31,0,point,2006,2395,0,NA,21,,11,,14,,389,133,480513,4334115,1,1
+Nevada,Toiyabe,Washington,WS04.1,24,2,point,2006,2443,0,NA,14,,4,,3,,389,133,481133,4333911,1,1
+Nevada,Toiyabe,Washington,WS04.2,24,13,point,2006,2485,0,NA,14,,3,,2,,389,133,481610,4333749,1,1
+Nevada,Toiyabe,Washington,WS04.3,31,0,point,2006,2503,0,NA,21,,11,,9,,389,133,481887,4333717,1,1
+Nevada,Toiyabe,Washington,WS05.1,31,11,point,2006,2539,0,NA,21,,15,,6,,389,133,482186,4333581,1,1
+Nevada,Toiyabe,Washington,WS05.2,24,1,point,2006,2570,0,NA,14,,10,,8,,389,133,482533,4333633,1,1
+Nevada,Toiyabe,Washington,WS05.3,31,0,point,2006,2585,0,NA,21,,19,,15,,389,133,482662,4333665,1,1
+Nevada,Monitor,Dobbin East,DE05.1,21,0,point,2007,2640,0,NA,21,,19,,13,,224,96,542202,4310091,0,0
+Nevada,Monitor,Dobbin East,DE05.2,21,0,point,2007,2614,0,NA,21,,7,,2,,183,84,542034,4309778,0,0
+Nevada,Monitor,Dobbin East,DE05.3,21,0,point,2007,2546,0,NA,21,,5,,14,,183,84,542287,4309074,0,0
+Nevada,Monitor,Dobbin East,DE06.1,21,3,point,2007,2486,0,NA,21,,10,,13,,183,84,542619,4308317,0,0
+Nevada,Monitor,Dobbin East,DE06.2,21,0,point,2007,2437,0,NA,21,,15,,9,,183,84,543285,4307564,0,0
+Nevada,Monitor,Dobbin East,DE06.3,14,0,point,2007,2375,0,NA,14,,2,,3,,183,84,544055,4306636,0,0
+Nevada,Monitor,Dobbin East,DE07.1,21,0,point,2007,2334,0,NA,21,,0,,3,,183,84,544410,4306641,0,0
+Nevada,Monitor,Dobbin East,DE07.2,21,0,point,2007,2279,0,NA,21,,1,,0,,183,84,544812,4306347,0,0
+Nevada,Monitor,Dobbin East,DE07.3,21,0,point,2007,2283,0,NA,21,,0,,0,,183,84,544582,4305903,0,0
+Nevada,Monitor,Dobbin West,DW01.1,21,0,point,2007,2258,0,NA,21,,13,,5,,98,52,537501,4315491,0,0
+Nevada,Monitor,Dobbin West,DW01.2,21,1,point,2007,2311,0,NA,21,,13,,12,,149,74,538162,4314128,0,0
+Nevada,Monitor,Dobbin West,DW02.1,21,0,point,2007,2356,0,NA,21,,9,,4,,149,74,538838,4313180,0,0
+Nevada,Monitor,Dobbin West,DW02.2,21,0,point,2007,2394,0,NA,21,,7,,7,,149,74,539670,4312535,0,0
+Nevada,Monitor,Dobbin West,DW03.1,21,0,point,2007,2416,0,NA,21,,14,,0,,149,74,539960,4312319,0,0
+Nevada,Monitor,Dobbin West,DW03.2,21,0,point,2007,2438,0,NA,21,,5,,12,,149,74,540419,4312155,0,0
+Nevada,Monitor,Dobbin West,DW03.3,21,0,point,2007,2480,0,NA,21,,15,,5,,224,96,541818,4311882,0,0
+Nevada,Monitor,Dobbin West,DW04.1,21,0,point,2007,2568,0,NA,21,,15,,14,,224,96,542293,4310862,0,0
+Nevada,Monitor,Dobbin West,DW04.2,21,0,point,2007,2611,0,NA,21,,10,,0,,224,96,542325,4310390,0,0
+Nevada,Toiyabe,Birch,BI0B1,31,13,point,2008,1900,1,2007,21,,10,,15,,132,46,499898,4358107,1,1
+Nevada,Toiyabe,Birch,BI0B2,31,10,point,2008,1920,1,2007,21,,15,,17,,132,46,499642,4358265,1,1
+Nevada,Toiyabe,Birch,BI0B3,31,18,point,2008,1929,1,2007,21,,11,,9,,132,46,499332,4358458,1,1
+Nevada,Toiyabe,Birch,BI0B4,31,17,point,2008,1960,1,2007,21,,9,,18,,132,46,499077,4358851,1,1
+Nevada,Monitor,Barley,BL01,31,0,point,2008,2249,0,NA,21,,11,,5,,124,34,526371,4274731,1,1
+Nevada,Monitor,Barley,BL02,31,0,point,2008,2240,0,NA,21,,10,,5,,124,34,526460,4275079,1,1
+Nevada,Monitor,Barley,BL03,31,0,point,2008,2225,0,NA,21,,6,,3,,124,34,526524,4275434,1,1
+Nevada,Monitor,Barley,BL04,28,0,point,2008,2241,0,NA,18,,9,,3,,191,48,527520,4275949,1,1
+Nevada,Monitor,Barley,BL05,31,0,point,2008,2245,0,NA,21,,6,,3,,191,48,527839,4276098,1,1
+Nevada,Monitor,Barley,BL06,31,0,point,2008,2256,0,NA,21,,5,,11,,191,48,528178,4276244,1,1
+Nevada,Monitor,Barley,BL07,31,0,point,2008,2258,0,NA,21,,5,,3,,191,48,528540,4276183,1,1
+Nevada,Monitor,Barley,BL08,31,0,point,2008,2275,0,NA,21,,16,,8,,191,48,529291,4276396,1,1
+Nevada,Monitor,Barley,BL09,31,1,point,2008,2283,0,NA,21,,9,,10,,191,48,529636,4276547,1,1
+Nevada,Monitor,Barley,BL10,31,0,point,2008,2309,0,NA,21,,3,,6,,191,48,530218,4277084,1,1
+Nevada,Monitor,Barley,BL11,31,0,point,2008,2318,0,NA,21,,10,,7,,191,48,530677,4277376,1,1
+Nevada,Monitor,Barley,BL12,31,3,point,2008,2345,0,NA,21,,8,,2,,254,60,531363,4278415,1,1
+Nevada,Monitor,Barley,BL13,31,0,point,2008,2359,0,NA,21,,11,,7,,254,60,531457,4278622,1,1
+Nevada,Monitor,Barley,BL14,31,0,point,2008,2376,0,NA,21,,7,,7,,254,60,531603,4278935,1,1
+Nevada,Monitor,Barley,BL15,31,0,point,2008,2389,0,NA,21,,11,,9,,254,60,531506,4279427,1,1
+Nevada,Monitor,Barley,BL16,31,0,point,2008,2398,0,NA,21,,10,,6,,254,60,531518,4279788,1,1
+Nevada,Toiyabe,Grass Springs,GS01,31,15,point,2008,2179,1,2006,21,12,6,9,19,,160,54,498568,4370386,1,0.666666667
+Nevada,Toiyabe,Grass Springs,GS02,31,0,point,2008,2134,1,2006,21,12,17,6,17,,160,54,498766,4370378,1,0.666666667
+Nevada,Toiyabe,Grass Springs,GS03,31,0,point,2008,2085,1,2006,21,2,4,6,13,,160,54,499376,4370360,1,0.666666667
+Nevada,Toiyabe,Grass Springs,GS04,31,2,point,2008,2079,1,2006,21,0,4,0,21,,160,54,499391,4370537,1,0.666666667
+Nevada,Toiyabe,Grass Springs,GS05,31,7,point,2008,2087,1,2006,21,16,10,19,16,,160,54,499165,4370619,1,0.666666667
+Nevada,Toiyabe,Grass Springs,GS06,31,9,point,2008,2108,1,2006,21,12,12,19,17,,160,54,498953,4370678,1,0.666666667
+Nevada,Toiyabe,Grass Springs,GS07,31,24,point,2008,2145,1,2006,21,11,5,0,19,,160,54,498729,4370665,1,0.666666667
+Nevada,Toiyabe,Grass Springs,GS08,31,18,point,2008,2129,1,2006,21,16,9,13,17,,160,54,498840,4370884,1,0.666666667
+Nevada,Toiyabe,Grass Springs,GS09,31,24,point,2008,2078,1,2006,21,6,1,6,16,,160,54,499234,4371042,1,0.666666667
+Nevada,Toiyabe,Grass Springs,GS10,31,5,point,2008,2062,1,2006,21,6,7,19,19,,160,54,499449,4370812,1,0.666666667
+Nevada,Shoshone,Underdown,UN0B1,31,16,point,2008,2083,1,2005,21,20,12,19,10,,104,40,466208,4334493,1,1
+Nevada,Shoshone,Underdown,UN0B2,31,8,point,2008,2129,1,2005,21,15,16,15,21,,175,57,465679,4334701,1,1
+Nevada,Shoshone,Underdown,UN0B3,31,15,point,2008,2135,1,2005,21,4,6,12,18,,175,57,465579,4334726,1,1
+Nevada,Shoshone,Underdown,UN0B4,31,18,point,2008,2137,1,2005,21,1,9,13,14,,175,57,465472,4334801,1,1
+Nevada,Shoshone,Underdown,UN0B5,31,14,point,2008,2231,1,2005,21,18,17,21,18,,175,57,464142,4335228,1,1
+Nevada,Shoshone,Underdown,UN0B6,31,2,point,2008,2245,1,2005,21,5,17,19,20,,175,57,463923,4335318,1,1
+Nevada,Shoshone,Underdown,UN0B7,31,1,point,2008,2259,1,2005,21,11,15,21,18,,175,57,463704,4335430,1,1
+Nevada,Toiyabe,Wall,WA0B1,31,27,point,2008,2174,1,2001,21,,0,,19,,133,47,476751,4282806,1,1
+Nevada,Toiyabe,Wall,WA0B2,31,30,point,2008,2212,1,2001,21,,4,,16,,183,64,476381,4283210,1,1
+Nevada,Toiyabe,Wall,WA0B3,31,27,point,2008,2227,1,2001,21,,0,,18,,183,64,476328,4283496,1,1
+Nevada,Toiyabe,Wall,WA0B4,30,25,point,2008,2263,1,2001,21,,5,,11,,183,64,475964,4283880,1,1
+Nevada,Toiyabe,Wall,WA0B5,31,24,point,2008,2267,1,2001,21,,1,,10,,183,64,475713,4283998,1,1
+Nevada,Toiyabe,Wall,WA0B6,31,25,point,2008,2321,1,2001,21,,3,,13,,183,64,475182,4284300,1,1
+Nevada,Toiyabe,Wall,WA0B7,31,27,point,2008,2372,1,2001,21,,0,,9,,183,64,474706,4284574,1,1
+Nevada,Toiyabe,Birch,BI0B1,31,27,point,2009,1900,1,2007,21,,9,,18,,132,127,499898,4358107,0,0.75
+Nevada,Toiyabe,Birch,BI0B2,31,22,point,2009,1920,1,2007,21,,17,,16,,132,127,499642,4358265,0,0.75
+Nevada,Toiyabe,Birch,BI0B3,31,26,point,2009,1929,1,2007,21,,6,,12,,132,127,499332,4358458,0,0.75
+Nevada,Toiyabe,Birch,BI0B4,23,11,point,2009,1960,1,2007,13,,5,,6,,132,127,499077,4358851,0,0.75
+Nevada,Toiyabe,Grass Springs,GS01,31,20,point,2009,2179,1,2006,21,12,9,9,14,,159,138,498568,4370386,1,0.75
+Nevada,Toiyabe,Grass Springs,GS02,31,8,point,2009,2134,1,2006,21,12,13,6,17,,159,138,498766,4370378,1,0.75
+Nevada,Toiyabe,Grass Springs,GS03,31,1,point,2009,2085,1,2006,21,2,7,6,20,,159,138,499376,4370360,1,0.75
+Nevada,Toiyabe,Grass Springs,GS04,31,5,point,2009,2079,1,2006,21,0,4,0,19,,159,138,499391,4370537,1,0.75
+Nevada,Toiyabe,Grass Springs,GS05,31,13,point,2009,2087,1,2006,21,16,10,19,14,,159,138,499165,4370619,1,0.75
+Nevada,Toiyabe,Grass Springs,GS06,31,18,point,2009,2108,1,2006,21,12,10,19,18,,159,138,498953,4370678,1,0.75
+Nevada,Toiyabe,Grass Springs,GS07,31,28,point,2009,2145,1,2006,21,11,2,0,11,,159,138,498729,4370665,1,0.75
+Nevada,Toiyabe,Grass Springs,GS08,31,22,point,2009,2129,1,2006,21,16,10,13,13,,159,138,498840,4370884,1,0.75
+Nevada,Toiyabe,Grass Springs,GS09,31,30,point,2009,2078,1,2006,21,6,2,6,5,,159,138,499234,4371042,1,0.75
+Nevada,Toiyabe,Grass Springs,GS10,31,11,point,2009,2062,1,2006,21,6,10,19,18,,159,138,499449,4370812,1,0.75
+Nevada,Shoshone,Underdown,UN02.2,31,16,point,2009,2147,1,2002,21,,14,,9,,175,162,465345,4334870,1,1
+Nevada,Shoshone,Underdown,UN03.1,31,16,point,2009,2207,1,2002,21,,14,,10,,175,162,464392,4335151,1,1
+Nevada,Shoshone,Underdown,UN03.2,31,18,point,2009,2246,1,2005,21,,12,,14,,175,162,463859,4335420,1,1
+Nevada,Shoshone,Underdown,UN0B1,31,18,point,2009,2083,1,2005,21,20,6,19,10,,97,103,466208,4334493,1,1
+Nevada,Shoshone,Underdown,UN0B2,31,17,point,2009,2129,1,2005,21,15,4,15,15,,175,162,465679,4334701,1,1
+Nevada,Shoshone,Underdown,UN0B3,31,22,point,2009,2135,1,2005,21,4,6,12,15,,175,162,465579,4334726,1,1
+Nevada,Shoshone,Underdown,UN0B4,31,23,point,2009,2137,1,2005,21,1,9,13,13,,175,162,465472,4334801,1,1
+Nevada,Shoshone,Underdown,UN0B5,31,23,point,2009,2231,1,2005,21,18,15,21,16,,175,162,464142,4335228,1,1
+Nevada,Shoshone,Underdown,UN0B6,31,1,point,2009,2245,1,2005,21,5,16,19,19,,175,162,463923,4335318,1,1
+Nevada,Shoshone,Underdown,UN0B7,31,3,point,2009,2259,1,2005,21,11,11,21,19,,175,162,463704,4335430,1,1
+Nevada,Toiyabe,Wall,WA03.2,31,24,point,2009,2201,1,2001,21,,15,,7,,138,135,476504,4283065,1,1
+Nevada,Toiyabe,Wall,WA04.1,31,21,point,2009,2260,0,NA,21,,2,,15,,190,183,475818,4283922,1,1
+Nevada,Toiyabe,Wall,WA04.2,31,17,point,2009,2303,1,2001,21,,11,,4,,190,183,475454,4284265,1,1
+Nevada,Toiyabe,Wall,WA05.1,31,29,point,2009,2356,1,2001,21,,11,,7,,190,183,474874,4284514,1,1
+Nevada,Toiyabe,Wall,WA05.2,31,22,point,2009,2414,1,2001,21,,9,,6,,190,183,474577,4284907,1,1
+Nevada,Toiyabe,Wall,WA06.1,31,25,point,2009,2405,1,2001,21,,5,,7,,190,183,474931,4284883,1,1
+Nevada,Toiyabe,Wall,WA0B1,31,29,point,2009,2174,1,2001,21,,1,,18,,138,135,476751,4282806,1,1
+Nevada,Toiyabe,Wall,WA0B2,31,29,point,2009,2212,1,2001,21,,2,,8,,190,183,476381,4283210,1,1
+Nevada,Toiyabe,Wall,WA0B3,31,26,point,2009,2227,1,2001,21,,1,,17,,190,183,476328,4283496,1,1
+Nevada,Toiyabe,Wall,WA0B4,31,21,point,2009,2263,1,2001,21,,1,,14,,190,183,475964,4283880,1,1
+Nevada,Toiyabe,Wall,WA0B5,31,28,point,2009,2267,1,2001,21,,9,,7,,190,183,475713,4283998,1,1
+Nevada,Toiyabe,Wall,WA0B6,31,22,point,2009,2321,1,2001,21,,0,,2,,190,183,475182,4284300,1,1
+Nevada,Toiyabe,Wall,WA0B7,31,28,point,2009,2372,1,2001,21,,4,,8,,190,183,474706,4284574,1,1
+Nevada,Toiyabe,Birch,BI0B1,31,30,point,2011,1900,1,2007,21,,12,,15,,235,94,499898,4358107,1,0.833333333
+Nevada,Toiyabe,Birch,BI0B2,31,29,point,2011,1920,1,2007,21,,11,,12,,235,94,499642,4358265,1,0.833333333
+Nevada,Toiyabe,Birch,BI0B3,31,29,point,2011,1929,1,2007,21,,15,,7,,235,94,499332,4358458,1,0.833333333
+Nevada,Toiyabe,Birch,BI0B4,31,17,point,2011,1960,1,2007,21,,12,,15,,235,94,499077,4358851,1,0.833333333
+Nevada,Toiyabe,Birch,BISG01,31,20,point,2011,1923,1,2007,21,,13,,13,,235,94,499415,4358456,1,0.833333333
+Nevada,Toiyabe,Birch,BISG02,31,20,point,2011,1919,1,2007,21,,10,,10,,235,94,499499,4358407,1,0.833333333
+Nevada,Toiyabe,Birch,BISG03,31,18,point,2011,1905,1,2007,21,,15,,14,,235,94,499618,4358276,1,0.833333333
+Nevada,Toiyabe,Birch,BISG04,22,13,point,2011,1904,1,2007,16,,13,,9,,235,94,499704,4358234,1,0.833333333
+Nevada,Toiyabe,Birch,BISG05,31,21,point,2011,1898,1,2007,21,,17,,16,,235,94,499786,4358187,1,0.833333333
+Nevada,Toiyabe,Birch,BISG06,31,20,point,2011,1894,1,2007,21,,15,,16,,235,94,499869,4358135,1,0.833333333
+Nevada,Toiyabe,Birch,BISG07,31,20,point,2011,1894,1,2007,21,,11,,14,,235,94,499925,4358107,1,0.833333333
+Nevada,Toiyabe,Birch,BISG08,31,21,point,2011,1886,1,2007,21,,5,,17,,235,94,500026,4358096,1,0.833333333
+Nevada,Monitor,Charnoc North,CBNSG01,31,0,point,2011,2446,0,NA,21,,19,,19,,256,112,546077,4349281,1,1
+Nevada,Monitor,Charnoc North,CBNSG02,31,0,point,2011,2446,0,NA,21,,13,,14,,256,112,546176,4349266,1,1
+Nevada,Monitor,Charnoc North,CBNSG03,31,0,point,2011,2446,0,NA,21,,20,,17,,256,112,546070,4349248,1,1
+Nevada,Monitor,Charnoc North,CBNSG04,31,0,point,2011,2446,0,NA,21,,18,,21,,256,112,546169,4349237,1,1
+Nevada,Monitor,Charnoc North,CBNSG05,10,0,point,2011,2446,0,NA,,,,,,,256,112,546221,4349275,1,1
+Nevada,Monitor,Charnoc North,CBNSG06,31,0,point,2011,2446,0,NA,21,,14,,16,,256,112,546311,4349239,1,1
+Nevada,Monitor,Charnoc North,CBNSG07,31,0,point,2011,2445,0,NA,21,,20,,19,,256,112,546221,4349242,1,1
+Nevada,Monitor,Charnoc North,CBNSG08,10,0,point,2011,2446,0,NA,,,,,,,256,112,546312,4349205,1,1
+Nevada,Monitor,Charnoc North,CBNSG09,31,0,point,2011,2446,0,NA,21,,19,,14,,256,112,546120,4350090,1,1
+Nevada,Monitor,Charnoc North,CBNSG10,31,0,point,2011,2446,0,NA,21,,18,,18,,256,112,546108,4349991,1,1
+Nevada,Monitor,Charnoc North,CBNSG11,31,0,point,2011,2445,0,NA,21,,19,,21,,256,112,546083,4350089,1,1
+Nevada,Monitor,Charnoc North,CBNSG12,31,0,point,2011,2445,0,NA,21,,18,,19,,256,112,546079,4349994,1,1
+Nevada,Monitor,Charnoc North,CBNSG13,31,0,point,2011,2446,0,NA,21,,19,,19,,256,112,546054,4349785,1,1
+Nevada,Monitor,Charnoc North,CBNSG14,31,0,point,2011,2446,0,NA,21,,20,,14,,256,112,546035,4349684,1,1
+Nevada,Monitor,Charnoc North,CBNSG15,31,0,point,2011,2446,0,NA,21,,19,,19,,256,112,546048,4349787,1,1
+Nevada,Monitor,Charnoc North,CBNSG16,31,0,point,2011,2447,0,NA,21,,18,,19,,256,112,546022,4349688,1,1
+Nevada,Monitor,Charnoc South,CBSSG01,31,0,point,2011,2414,0,NA,21,,15,,11,,252,109,545790,4345796,1,1
+Nevada,Monitor,Charnoc South,CBSSG02,31,0,point,2011,2414,0,NA,21,,18,,12,,252,109,545720,4345865,1,1
+Nevada,Monitor,Charnoc South,CBSSG03,31,0,point,2011,2414,0,NA,21,,19,,15,,252,109,545769,4345787,1,1
+Nevada,Monitor,Charnoc South,CBSSG04,31,0,point,2011,2414,0,NA,21,,17,,14,,252,109,545692,4345851,1,1
+Nevada,Monitor,Charnoc South,CBSSG05,31,0,point,2011,2386,0,NA,42,,38,,33,,252,109,545686,4345898,1,1
+Nevada,Monitor,Charnoc South,CBSSG06,31,0,point,2011,2388,0,NA,21,,17,,11,,252,109,545606,4345967,1,1
+Nevada,Monitor,Charnoc South,CBSSG07,31,0,point,2011,2391,0,NA,21,,19,,10,,252,109,545681,4345895,1,1
+Nevada,Monitor,Charnoc South,CBSSG08,31,0,point,2011,2392,0,NA,42,,34,,33,,252,109,545608,4345956,1,1
+Nevada,Monitor,Charnoc South,CBSSG09,31,0,point,2011,2393,0,NA,21,,20,,15,,252,109,545553,4345981,1,1
+Nevada,Monitor,Charnoc South,CBSSG10,31,0,point,2011,2393,0,NA,21,,10,,15,,252,109,545475,4346035,1,1
+Nevada,Monitor,Charnoc South,CBSSG11,31,0,point,2011,2394,0,NA,21,,20,,17,,252,109,545565,4346000,1,1
+Nevada,Monitor,Charnoc South,CBSSG12,31,0,point,2011,2395,0,NA,21,,16,,18,,252,109,545485,4346054,1,1
+Nevada,Monitor,Charnoc South,CBSSG13,31,0,point,2011,2396,0,NA,21,,16,,17,,252,109,545077,4346261,1,1
+Nevada,Monitor,Charnoc South,CBSSG14,31,0,point,2011,2396,0,NA,21,,17,,14,,252,109,545099,4346352,1,1
+Nevada,Monitor,Charnoc South,CBSSG15,31,0,point,2011,2397,0,NA,21,,10,,19,,252,109,545098,4346257,1,1
+Nevada,Monitor,Charnoc South,CBSSG16,31,0,point,2011,2397,0,NA,21,,19,,21,,252,109,545119,4346352,1,1
+Nevada,Monitor,Elkhorn,EH01,31,0,point,2011,2275,1,2009,21,,1,,19,,315,138,530390,4271303,1,1
+Nevada,Monitor,Elkhorn,EH02,31,0,point,2011,2318,1,2009,21,,5,,18,,315,138,530128,4271033,1,1
+Nevada,Monitor,Elkhorn,EH03,31,3,point,2011,2334,1,2009,21,,0,,19,,315,138,530010,4271331,1,1
+Nevada,Monitor,Elkhorn,EH04,31,2,point,2011,2351,1,2009,21,,0,,21,,315,138,530210,4271544,1,1
+Nevada,Monitor,Elkhorn,EHSG01,31,0,point,2011,2307,1,2009,21,,2,,18,,315,138,530111,4271108,1,1
+Nevada,Monitor,Elkhorn,EHSG02,31,0,point,2011,2302,1,2009,21,,19,,0,,315,138,530200,4271151,1,1
+Nevada,Monitor,Elkhorn,EHSG03,31,3,point,2011,2307,1,2009,21,,1,,21,,315,138,530086,4271145,1,1
+Nevada,Monitor,Elkhorn,EHSG04,31,0,point,2011,2297,1,2009,21,,3,,19,,315,138,530178,4271179,1,1
+Nevada,Monitor,Elkhorn,EHSG05,31,0,point,2011,2319,1,2009,21,,0,,16,,315,138,530018,4271269,1,1
+Nevada,Monitor,Elkhorn,EHSG06,31,1,point,2011,2304,1,2009,21,,1,,20,,315,138,530114,4271251,1,1
+Nevada,Monitor,Elkhorn,EHSG07,30,0,point,2011,2320,1,2009,20,,0,,18,,315,138,530069,4271532,1,1
+Nevada,Monitor,Elkhorn,EHSG08,31,1,point,2011,2305,1,2009,21,,0,,21,,315,138,530110,4271438,1,1
+Nevada,Monitor,Elkhorn,EHSG09,31,0,point,2011,2325,1,2009,21,,0,,19,,315,138,530100,4271548,1,1
+Nevada,Monitor,Elkhorn,EHSG10,31,0,point,2011,2314,1,2009,21,,0,,21,,315,138,530130,4271450,1,1
+Nevada,Toiyabe,Grass Springs,GS01,31,31,point,2011,2179,1,2006,21,12,9,9,13,,262,118,498568,4370386,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GS02,31,20,point,2011,2134,1,2006,21,12,17,6,20,,262,118,498766,4370378,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GS03,31,27,point,2011,2085,1,2006,21,2,8,6,20,,262,118,499376,4370360,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GS04,31,29,point,2011,2079,1,2006,21,0,7,0,21,,262,118,499391,4370537,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GS05,31,31,point,2011,2087,1,2006,21,16,14,19,17,,262,118,499165,4370619,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GS06,31,31,point,2011,2108,1,2006,21,12,8,19,20,,262,118,498953,4370678,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GS07,31,29,point,2011,2145,1,2006,21,11,3,0,14,,262,118,498729,4370665,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GS08,31,27,point,2011,2129,1,2006,21,16,10,13,17,,262,118,498840,4370884,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GS09,31,30,point,2011,2078,1,2006,21,6,5,6,5,,262,118,499234,4371042,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GS10,31,28,point,2011,2062,1,2006,21,6,11,19,20,,262,118,499449,4370812,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG01,31,17,point,2011,2089,1,2006,21,,17,,19,,262,118,499141,4370513,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG02,31,31,point,2011,2091,1,2006,21,,15,,18,,262,118,499116,4370414,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG03,31,14,point,2011,2090,1,2006,21,,18,,21,,262,118,499107,4370515,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG04,31,28,point,2011,2095,1,2006,21,,19,,19,,262,118,499080,4370419,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG05,31,22,point,2011,2097,1,2006,21,,20,,20,,262,118,499043,4370518,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG06,31,27,point,2011,2099,1,2006,21,,10,,11,,262,118,499014,4370426,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG07,31,30,point,2011,2099,1,2006,21,,14,,21,,262,118,499008,4370531,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG08,31,31,point,2011,2104,1,2006,21,,7,,18,,262,118,498976,4370428,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG09,31,30,point,2011,2112,1,2006,21,,11,,16,,262,118,498935,4370523,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG10,31,27,point,2011,2109,1,2006,21,,12,,14,,262,118,498927,4370418,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG11,31,31,point,2011,2117,1,2006,21,,5,,10,,262,118,498902,4370511,1,0.833333333
+Nevada,Toiyabe,Grass Springs,GSSG12,31,30,point,2011,2110,1,2006,21,,4,,16,,262,118,498892,4370412,1,0.833333333
+Nevada,Shoshone,Underdown,UN02.2,31,27,point,2011,2147,1,2002,21,,19,,2,,303,104,465345,4334870,1,1
+Nevada,Shoshone,Underdown,UN03.1,31,28,point,2011,2207,1,2002,21,,13,,7,,303,104,464392,4335151,1,1
+Nevada,Shoshone,Underdown,UN03.2,31,23,point,2011,2246,1,2005,21,,11,,14,,303,104,463859,4335420,1,1
+Nevada,Shoshone,Underdown,UN0B1,31,31,point,2011,2083,1,2005,21,20,20,19,10,,190,60,466208,4334493,1,1
+Nevada,Shoshone,Underdown,UN0B2,31,30,point,2011,2129,1,2005,21,15,17,15,19,,303,104,465679,4334701,1,1
+Nevada,Shoshone,Underdown,UN0B3,31,30,point,2011,2135,1,2005,21,4,11,12,16,,303,104,465579,4334726,1,1
+Nevada,Shoshone,Underdown,UN0B4,31,31,point,2011,2137,1,2005,21,1,6,13,6,,303,104,465472,4334801,1,1
+Nevada,Shoshone,Underdown,UN0B5,31,28,point,2011,2231,1,2005,21,18,6,21,19,,303,104,464142,4335228,1,1
+Nevada,Shoshone,Underdown,UN0B6,31,29,point,2011,2245,1,2005,21,5,14,19,16,,303,104,463923,4335318,1,1
+Nevada,Shoshone,Underdown,UN0B7,31,27,point,2011,2259,1,2005,21,11,11,21,21,,303,104,463704,4335430,1,1
+Nevada,Toiyabe,Wall,WA03.1,31,17,point,2011,2151,1,2001,21,,8,,12,,243,101,477057,4282690,1,1
+Nevada,Toiyabe,Wall,WA03.2,31,29,point,2011,2201,1,2001,21,,6,,10,,243,101,476504,4283065,1,1
+Nevada,Toiyabe,Wall,WA04.2,31,31,point,2011,2303,1,2001,21,,3,,8,,323,142,475454,4284265,1,1
+Nevada,Toiyabe,Wall,WA05.1,31,29,point,2011,2356,1,2001,21,,7,,8,,323,142,474874,4284514,1,1
+Nevada,Toiyabe,Wall,WA05.2,31,29,point,2011,2414,1,2001,21,,4,,10,,323,142,474577,4284907,1,1
+Nevada,Toiyabe,Wall,WA06.1,31,22,point,2011,2405,1,2001,21,,2,,10,,323,142,474931,4284883,1,1
+Nevada,Toiyabe,Wall,WA0B1,31,31,point,2011,2174,1,2001,21,,2,,10,,243,101,476751,4282806,1,1
+Nevada,Toiyabe,Wall,WA0B2,31,28,point,2011,2212,1,2001,21,,4,,10,,323,142,476381,4283210,1,1
+Nevada,Toiyabe,Wall,WA0B3,31,28,point,2011,2227,1,2001,21,,1,,10,,323,142,476328,4283496,1,1
+Nevada,Toiyabe,Wall,WA0B4,31,27,point,2011,2263,1,2001,21,,5,,14,,323,142,475964,4283880,1,1
+Nevada,Toiyabe,Wall,WA0B5,31,26,point,2011,2267,1,2001,21,,2,,8,,323,142,475713,4283998,1,1
+Nevada,Toiyabe,Wall,WA0B6,31,27,point,2011,2321,1,2001,21,,2,,11,,323,142,475182,4284300,1,1
+Nevada,Toiyabe,Wall,WA0B7,31,22,point,2011,2372,1,2001,21,,3,,6,,323,142,474706,4284574,1,1
+Nevada,Toiyabe,Wall,WASG01,31,29,point,2011,2191,1,2001,21,,6,,18,,243,101,476468,4282887,1,1
+Nevada,Toiyabe,Wall,WASG02,31,31,point,2011,2203,1,2001,21,,7,,12,,243,101,476418,4282970,1,1
+Nevada,Toiyabe,Wall,WASG03,31,29,point,2011,2192,1,2001,21,,9,,12,,243,101,476446,4282875,1,1
+Nevada,Toiyabe,Wall,WASG04,31,28,point,2011,2198,1,2001,21,,6,,14,,243,101,476388,4282949,1,1
+Nevada,Toiyabe,Wall,WASG05,31,30,point,2011,2207,1,2001,21,,6,,14,,243,101,476385,4282641,1,1
+Nevada,Toiyabe,Wall,WASG06,31,30,point,2011,2206,1,2001,21,,5,,18,,243,101,476441,4282701,1,1
+Nevada,Toiyabe,Wall,WASG07,31,31,point,2011,2208,1,2001,21,,1,,16,,243,101,476388,4282739,1,1
+Nevada,Toiyabe,Wall,WASG08,31,30,point,2011,2214,1,2001,21,,8,,11,,243,101,476355,4282651,1,1
+Nevada,Toiyabe,Wall,WASG09,31,31,point,2011,2243,1,2001,21,,3,,13,,323,142,475918,4283782,1,1
+Nevada,Toiyabe,Wall,WASG10,31,30,point,2011,2265,1,2001,21,,5,,12,,323,142,475822,4283733,1,1
+Nevada,Toiyabe,Wall,WASG11,31,29,point,2011,2254,1,2001,21,,7,,17,,323,142,475820,4283864,1,1
+Nevada,Toiyabe,Wall,WASG12,31,30,point,2011,2268,1,2001,21,,5,,19,,323,142,475741,4283805,1,1
+Nevada,Monitor,Allison,AL14,10,0,point,2012,2285,0,NA,,,,,,,117,31,544647,4347369,1,1
+Nevada,Monitor,Allison,AL15,10,0,point,2012,2325,0,NA,,,,,,,133,36,545072,4348363,1,1
+Nevada,Monitor,Allison,AL16,10,0,point,2012,2394,0,NA,,,,,,,133,36,545895,4349257,1,1
+Nevada,Monitor,Allison,AL17,10,0,point,2012,2487,0,NA,,,,,,,133,36,547012,4351091,1,1
+Nevada,Monitor,Allison,AL18,10,0,point,2012,2397,0,NA,,,,,,,133,36,547741,4351223,1,1
+Nevada,Monitor,Allison,AL19,10,0,point,2012,2280,0,NA,,,,,,,112,30,548712,4351888,1,1
+Nevada,Monitor,Allison,AL20,10,1,point,2012,2227,0,NA,,,,,,,112,30,549703,4352135,1,1
+Nevada,Monitor,Allison,AL21,10,0,point,2012,2209,0,NA,,,,,,,112,30,549951,4352294,1,1
+Nevada,Monitor,Allison,AL22,10,0,point,2012,2179,0,NA,,,,,,,112,30,550268,4352752,1,1
+Nevada,Toquima,Antone,AN01.1,10,0,point,2012,2403,0,NA,,,,,,,178,49,508271,4280080,1,1
+Nevada,Toquima,Antone,AN01.2,10,0,point,2012,2425,0,NA,,,,,,,178,49,507742,4279834,1,1
+Nevada,Toquima,Antone,AN01.3,10,0,point,2012,2450,0,NA,,,,,,,178,49,507392,4279847,1,1
+Nevada,Toquima,Antone,AN02.1,10,0,point,2012,2486,0,NA,,,,,,,178,49,506905,4279511,1,1
+Nevada,Toquima,Antone,AN02.2,10,10,point,2012,2518,0,NA,,,,,,,178,49,506461,4279457,1,1
+Nevada,Toquima,Antone,AN03.1,10,10,point,2012,2604,0,NA,,,,,,,178,49,505591,4279341,1,1
+Nevada,Toquima,Antone,AN03.2,10,0,point,2012,2658,0,NA,,,,,,,232,64,505178,4279056,1,1
+Nevada,Toquima,Antone,AN04.1,10,0,point,2012,2735,0,NA,,,,,,,232,64,504693,4278945,1,1
+Nevada,Shoshone,Barrett,BA01.1,10,5,point,2012,2156,0,NA,,,,,,,112,40,457842,4326960,1,1
+Nevada,Shoshone,Barrett,BA01.2,10,8,point,2012,2180,0,NA,,,,,,,112,40,457435,4327193,1,1
+Nevada,Shoshone,Barrett,BA02.1,10,10,point,2012,2263,0,NA,,,,,,,112,40,456127,4327497,1,1
+Nevada,Shoshone,Barrett,BA02.2,10,5,point,2012,2282,0,NA,,,,,,,112,40,455870,4327620,1,1
+Nevada,Shoshone,Barrett,BA03.1,10,2,point,2012,2364,0,NA,,,,,,,156,57,454833,4327629,1,1
+Nevada,Shoshone,Barrett,BA03.2,10,10,point,2012,2395,0,NA,,,,,,,156,57,454493,4327634,1,1
+Nevada,Shoshone,Barrett,BA04.1,10,7,point,2012,2455,0,NA,,,,,,,156,57,453911,4327755,1,1
+Nevada,Shoshone,Barrett,BA04.2,10,1,point,2012,2468,0,NA,,,,,,,156,57,453813,4327895,1,1
+Nevada,Shoshone,Barrett,BA05.1,10,10,point,2012,2518,0,NA,,,,,,,156,57,453507,4328236,1,1
+Nevada,Shoshone,Barrett,BA05.2,10,7,point,2012,2554,0,NA,,,,,,,156,57,453312,4328349,1,1
+Nevada,Shoshone,Barrett,BA06.1,10,8,point,2012,2640,0,NA,,,,,,,141,51,453038,4328612,1,1
+Nevada,Shoshone,Barrett,BA06.2,10,7,point,2012,2679,0,NA,,,,,,,141,51,452941,4328666,1,1
+Nevada,Shoshone,Becker,BE01.1,31,2,point,2012,2166,0,NA,21,,13,,1,,76,28,459535,4327971,1,1
+Nevada,Shoshone,Becker,BE01.2,31,0,point,2012,2188,0,NA,21,,19,,7,,76,28,459363,4328408,1,1
+Nevada,Shoshone,Becker,BE02.1,31,6,point,2012,2241,0,NA,21,,12,,7,,141,50,459244,4329392,1,1
+Nevada,Shoshone,Becker,BE02.2,31,9,point,2012,2248,0,NA,21,,12,,3,,141,50,459307,4329527,1,1
+Nevada,Shoshone,Becker,BE03.1,31,0,point,2012,2359,0,NA,21,,16,,3,,141,50,459789,4330635,1,1
+Nevada,Shoshone,Becker,BE03.2,31,0,point,2012,2373,0,NA,21,,14,,5,,141,50,459844,4330725,1,1
+Nevada,Toiyabe,Birch,BI01.1,26,4,point,2012,1966,0,NA,16,,8,,2,,105,36,498887,4358987,1,0.857142857
+Nevada,Toiyabe,Birch,BI01.2,31,1,point,2012,1991,0,NA,21,,17,,3,,105,36,498570,4359048,1,0.857142857
+Nevada,Toiyabe,Birch,BI02.1,27,4,point,2012,2058,0,NA,17,,10,,5,,204,77,497584,4359812,1,0.857142857
+Nevada,Toiyabe,Birch,BI02.2,25,8,point,2012,2105,0,NA,15,,8,,5,,204,77,497212,4360036,1,0.857142857
+Nevada,Toiyabe,Birch,BI03.1,26,1,point,2012,2122,0,NA,16,,1,,4,,204,77,497171,4360414,1,0.857142857
+Nevada,Toiyabe,Birch,BI03.2,31,4,point,2012,2153,0,NA,21,,8,,4,,191,70,496976,4360740,1,0.857142857
+Nevada,Toiyabe,Birch,BI03.3,31,4,point,2012,2158,0,NA,21,,16,,8,,191,70,496572,4361012,1,0.857142857
+Nevada,Toiyabe,Birch,BI04.1,31,1,point,2012,2211,0,NA,21,,11,,9,,191,70,496016,4362190,1,0.857142857
+Nevada,Toiyabe,Birch,BI04.2,31,9,point,2012,2231,0,NA,21,,9,,15,,191,70,495899,4362638,1,0.857142857
+Nevada,Toiyabe,Birch,BI04.3,31,4,point,2012,2324,0,NA,21,,15,,13,,191,70,496025,4363900,1,0.857142857
+Nevada,Toiyabe,Birch,BI05.1,31,9,point,2012,2376,0,NA,21,,7,,8,,191,70,496070,4364329,1,0.857142857
+Nevada,Toiyabe,Birch,BI05.2,31,12,point,2012,2410,0,NA,21,,10,,12,,191,70,495912,4364636,1,0.857142857
+Nevada,Toiyabe,Birch,BI06.1,30,5,point,2012,2484,0,NA,20,,11,,12,,191,70,495419,4364918,1,0.857142857
+Nevada,Toiyabe,Birch,BI06.2,31,5,point,2012,2524,0,NA,21,,8,,13,,191,70,495236,4365279,1,0.857142857
+Nevada,Toiyabe,Birch,BI07.1,31,3,point,2012,2555,0,NA,21,,17,,11,,173,59,495466,4365710,1,0.714285714
+Nevada,Toiyabe,Birch,BI07.2,31,1,point,2012,2586,0,NA,21,,5,,16,,173,59,495570,4366063,1,0.714285714
+Nevada,Toiyabe,Birch,BI0B1,31,21,point,2012,1900,1,2007,21,,2,,12,,105,36,499898,4358107,1,0.857142857
+Nevada,Toiyabe,Birch,BI0B2,31,16,point,2012,1920,1,2007,21,,8,,7,,105,36,499642,4358265,1,0.857142857
+Nevada,Toiyabe,Birch,BI0B3,31,27,point,2012,1929,1,2007,21,,1,,11,,105,36,499332,4358458,1,0.857142857
+Nevada,Toiyabe,Birch,BI0B4,26,11,point,2012,1960,1,2007,16,,11,,9,,105,36,499077,4358851,1,0.857142857
+Nevada,Monitor,Barley,BL01,10,0,point,2012,2249,0,NA,,,,,,,110,29,526371,4274731,1,1
+Nevada,Monitor,Barley,BL02,10,0,point,2012,2240,0,NA,,,,,,,110,29,526460,4275079,1,1
+Nevada,Monitor,Barley,BL03,10,0,point,2012,2225,0,NA,,,,,,,110,29,526524,4275434,1,1
+Nevada,Monitor,Barley,BL04,10,0,point,2012,2241,0,NA,,,,,,,165,44,527520,4275949,1,1
+Nevada,Monitor,Barley,BL05,10,0,point,2012,2245,0,NA,,,,,,,165,44,527839,4276098,1,1
+Nevada,Monitor,Barley,BL06,10,0,point,2012,2256,0,NA,,,,,,,165,44,528178,4276244,1,1
+Nevada,Monitor,Barley,BL07,10,0,point,2012,2258,0,NA,,,,,,,165,44,528540,4276183,1,1
+Nevada,Monitor,Barley,BL08,10,1,point,2012,2275,0,NA,,,,,,,165,44,529291,4276396,1,1
+Nevada,Monitor,Barley,BL09,10,2,point,2012,2283,0,NA,,,,,,,165,44,529636,4276547,1,1
+Nevada,Monitor,Barley,BL10,10,0,point,2012,2309,0,NA,,,,,,,165,44,530218,4277084,1,1
+Nevada,Monitor,Barley,BL11,10,0,point,2012,2318,0,NA,,,,,,,165,44,530677,4277376,1,1
+Nevada,Monitor,Barley,BL12,10,0,point,2012,2345,0,NA,,,,,,,216,55,531363,4278415,1,1
+Nevada,Monitor,Barley,BL13,10,1,point,2012,2359,0,NA,,,,,,,216,55,531457,4278622,1,1
+Nevada,Monitor,Barley,BL14,10,0,point,2012,2376,0,NA,,,,,,,216,55,531603,4278935,1,1
+Nevada,Monitor,Barley,BL15,10,0,point,2012,2389,0,NA,,,,,,,216,55,531506,4279427,1,1
+Nevada,Monitor,Barley,BL16,10,0,point,2012,2398,0,NA,,,,,,,216,55,531518,4279788,1,1
+Nevada,Monitor,Charnoc North,CBN01,10,0,point,2012,2422,0,NA,,,,,,,133,36,546194,4349269,1,1
+Nevada,Monitor,Charnoc North,CBN02,10,0,point,2012,2457,0,NA,,,,,,,133,36,546476,4349215,1,1
+Nevada,Monitor,Charnoc North,CBN04,10,0,point,2012,2425,0,NA,,,,,,,133,36,546131,4350086,1,1
+Nevada,Monitor,Charnoc North,CBN05,10,0,point,2012,2413,0,NA,,,,,,,133,36,546053,4349771,1,1
+Nevada,Monitor,Charnoc South,CBS01,10,0,point,2012,2341,0,NA,,,,,,,130,35,545790,4345796,1,1
+Nevada,Monitor,Charnoc South,CBS02,10,0,point,2012,2339,0,NA,,,,,,,130,35,545551,4345989,1,1
+Nevada,Monitor,Charnoc South,CBS03,10,0,point,2012,2328,0,NA,,,,,,,130,35,545275,4346025,1,1
+Nevada,Monitor,Charnoc South,CBS04,10,0,point,2012,2330,0,NA,,,,,,,130,35,545075,4346243,1,1
+Nevada,Monitor,Charnoc South,CBS05,10,0,point,2012,2336,0,NA,,,,,,,130,35,544990,4346534,1,1
+Nevada,Monitor,Elkhorn,EH01,10,5,point,2012,2275,1,2009,,,,,,,149,39,530390,4271303,1,1
+Nevada,Monitor,Elkhorn,EH02,10,4,point,2012,2318,1,2009,,,,,,,149,39,530128,4271033,1,1
+Nevada,Monitor,Elkhorn,EH03,10,2,point,2012,2334,1,2009,,,,,,,149,39,530010,4271331,1,1
+Nevada,Monitor,Elkhorn,EH04,10,0,point,2012,2351,1,2009,,,,,,,149,39,530210,4271544,1,1
+Nevada,Toiyabe,Grass Springs,GS01,10,10,point,2012,2179,1,2006,,12,,9,,,126,43,498568,4370386,1,0.857142857
+Nevada,Toiyabe,Grass Springs,GS02,10,6,point,2012,2134,1,2006,,12,,6,,,126,43,498766,4370378,1,0.857142857
+Nevada,Toiyabe,Grass Springs,GS03,10,8,point,2012,2085,1,2006,,2,,6,,,126,43,499376,4370360,1,0.857142857
+Nevada,Toiyabe,Grass Springs,GS04,10,10,point,2012,2079,1,2006,,0,,0,,,126,43,499391,4370537,1,0.857142857
+Nevada,Toiyabe,Grass Springs,GS05,10,10,point,2012,2087,1,2006,,16,,19,,,126,43,499165,4370619,1,0.857142857
+Nevada,Toiyabe,Grass Springs,GS06,10,10,point,2012,2108,1,2006,,12,,19,,,126,43,498953,4370678,1,0.857142857
+Nevada,Toiyabe,Grass Springs,GS07,10,10,point,2012,2145,1,2006,,11,,0,,,126,43,498729,4370665,1,0.857142857
+Nevada,Toiyabe,Grass Springs,GS08,10,10,point,2012,2129,1,2006,,16,,13,,,126,43,498840,4370884,1,0.857142857
+Nevada,Toiyabe,Grass Springs,GS09,10,10,point,2012,2078,1,2006,,6,,6,,,126,43,499234,4371042,1,0.857142857
+Nevada,Toiyabe,Grass Springs,GS10,10,10,point,2012,2062,1,2006,,6,,19,,,126,43,499449,4370812,1,0.857142857
+Nevada,Toiyabe,Jett,JE01.1,10,5,point,2012,1972,0,NA,,,,,,,72,20,481292,4286426,0,0
+Nevada,Toiyabe,Jett,JE01.2,10,7,point,2012,1978,0,NA,,,,,,,72,20,480943,4286510,0,0
+Nevada,Toiyabe,Jett,JE01.3,10,5,point,2012,2016,0,NA,,,,,,,72,20,480602,4286575,0,0
+Nevada,Toiyabe,Jett,JE02.1,10,4,point,2012,2051,0,NA,,,,,,,166,52,480042,4286915,0,0
+Nevada,Toiyabe,Jett,JE02.2,10,0,point,2012,2085,0,NA,,,,,,,166,52,479554,4287084,0,0
+Nevada,Toiyabe,Jett,JE02.3,10,0,point,2012,2115,0,NA,,,,,,,166,52,479032,4287356,0,0
+Nevada,Toiyabe,Jett,JE03.1,10,2,point,2012,2143,0,NA,,,,,,,166,52,478738,4287599,0,0
+Nevada,Toiyabe,Jett,JE03.2,10,0,point,2012,2156,0,NA,,,,,,,166,52,478552,4287654,0,0
+Nevada,Toiyabe,Jett,JE03.3,10,0,point,2012,2190,0,NA,,,,,,,166,52,478243,4287949,0,0
+Nevada,Toquima,Meadow,MD01.1,10,0,point,2012,2259,0,NA,,,,,,,148,41,512295,4277782,1,1
+Nevada,Toquima,Meadow,MD01.2,10,0,point,2012,2273,0,NA,,,,,,,148,41,511844,4278222,1,1
+Nevada,Toquima,Meadow,MD01.3,10,0,point,2012,2302,0,NA,,,,,,,148,41,511062,4279066,1,1
+Nevada,Toquima,Meadow,MD02.1,10,0,point,2012,2342,0,NA,,,,,,,148,41,510018,4280073,1,1
+Nevada,Toquima,Meadow,MD02.2,10,0,point,2012,2368,0,NA,,,,,,,148,41,509176,4280604,1,1
+Nevada,Toquima,Meadow,MD02.3,10,0,point,2012,2384,0,NA,,,,,,,178,49,508562,4281002,1,1
+Nevada,Toquima,Meadow,MD03.1,10,0,point,2012,2447,0,NA,,,,,,,190,53,507148,4282357,1,1
+Nevada,Toquima,Meadow,MD03.2,10,0,point,2012,2495,0,NA,,,,,,,190,53,506561,4282170,1,1
+Nevada,Toquima,Meadow,MD04.1,10,0,point,2012,2577,0,NA,,,,,,,178,49,505955,4281915,1,1
+Nevada,Toquima,Meadow,MD04.2,10,0,point,2012,2619,0,NA,,,,,,,190,53,505683,4282116,1,1
+Nevada,Toquima,Meadow,MD05.1,10,0,point,2012,2660,0,NA,,,,,,,190,53,505506,4282528,1,1
+Nevada,Toquima,Meadow,MD05.2,10,0,point,2012,2674,0,NA,,,,,,,182,51,505212,4282660,1,1
+Nevada,Toquima,Moores East,ME01.1,31,1,point,2012,2543,0,NA,21,,10,,3,,136,43,508352,4301628,1,1
+Nevada,Toquima,Moores East,ME01.2,31,0,point,2012,2509,0,NA,21,,5,,1,,136,43,508762,4301637,1,1
+Nevada,Toquima,Moores East,ME02.1,31,0,point,2012,2452,0,NA,21,,7,,7,,136,43,509541,4301985,1,1
+Nevada,Toquima,Moores East,ME02.2,25,1,point,2012,2432,0,NA,15,,3,,2,,136,43,509955,4302205,1,1
+Nevada,Toquima,Moores East,ME03.1,31,0,point,2012,2327,0,NA,21,,6,,1,,136,43,511611,4301799,1,1
+Nevada,Toquima,Moores East,ME03.2,31,0,point,2012,2303,0,NA,21,,9,,5,,136,43,511995,4301668,1,1
+Nevada,Toquima,Moores East,ME04.1,31,2,point,2012,2228,0,NA,21,,6,,4,,116,36,513245,4300632,1,1
+Nevada,Toquima,Moores East,ME04.2,31,4,point,2012,2196,0,NA,21,,15,,1,,116,36,514277,4300653,1,1
+Nevada,Toquima,Moores West,MW01.1,31,0,point,2012,2092,0,NA,21,,2,,4,,99,32,502376,4304048,1,0.714285714
+Nevada,Toquima,Moores West,MW01.2,31,0,point,2012,2186,0,NA,21,,4,,5,,99,32,503722,4303756,1,0.714285714
+Nevada,Toquima,Moores West,MW02.1,31,1,point,2012,2222,0,NA,21,,7,,3,,99,32,504135,4303463,1,0.714285714
+Nevada,Toquima,Moores West,MW02.2,31,3,point,2012,2250,0,NA,21,,4,,6,,99,32,504416,4303175,1,0.714285714
+Nevada,Toquima,Moores West,MW03.1,31,0,point,2012,2348,0,NA,21,,8,,1,,99,32,505236,4302426,1,0.714285714
+Nevada,Toquima,Moores West,MW03.2,31,0,point,2012,2405,0,NA,21,,7,,0,,136,43,505684,4301905,1,1
+Nevada,Toquima,Moores West,MW04.1,31,0,point,2012,2384,0,NA,21,,11,,5,,136,43,506482,4300881,1,1
+Nevada,Toquima,Moores West,MW04.2,30,0,point,2012,2447,0,NA,20,,6,,6,,136,43,507099,4301024,1,1
+Nevada,Toquima,Moores West,MW05.1,31,0,point,2012,2473,0,NA,21,,4,,2,,136,43,507488,4301516,1,1
+Nevada,Toquima,Moores West,MW05.2,31,0,point,2012,2506,0,NA,21,,7,,1,,136,43,507782,4301548,1,1
+Nevada,Toquima,Northumberland East,NE01.1,10,0,point,2012,2276,0,NA,,,,,,,157,49,514315,4306160,1,1
+Nevada,Toquima,Northumberland East,NE01.2,10,1,point,2012,2291,0,NA,,,,,,,157,49,513633,4306615,1,1
+Nevada,Toquima,Northumberland East,NE02.1,10,1,point,2012,2358,0,NA,,,,,,,150,48,511935,4308340,1,1
+Nevada,Toquima,Northumberland East,NE02.2,10,2,point,2012,2393,0,NA,,,,,,,150,48,512003,4309382,1,1
+Nevada,Toquima,Northumberland East,NE03.1,10,2,point,2012,2474,0,NA,,,,,,,203,62,512846,4310449,1,1
+Nevada,Toquima,Northumberland East,NE03.2,10,0,point,2012,2522,0,NA,,,,,,,203,62,513433,4310531,1,1
+Nevada,Toquima,Northumberland East,NE04.1,10,0,point,2012,2589,0,NA,,,,,,,203,62,513289,4310889,1,1
+Nevada,Toquima,Northumberland East,NE04.2,10,0,point,2012,2614,0,NA,,,,,,,203,62,513369,4311288,1,1
+Nevada,Toquima,Northumberland East,NE05.1,10,0,point,2012,2670,0,NA,,,,,,,203,62,513374,4312341,1,1
+Nevada,Toquima,Northumberland East,NE05.2,10,0,point,2012,2714,0,NA,,,,,,,203,62,513403,4313107,1,1
+Nevada,Toquima,Northumberland West,NW01.1,10,2,point,2012,2126,0,NA,,,,,,,102,34,508212,4316584,1,1
+Nevada,Toquima,Northumberland West,NW01.2,10,0,point,2012,2183,0,NA,,,,,,,145,47,509227,4315457,1,1
+Nevada,Toquima,Northumberland West,NW02.1,10,0,point,2012,2217,0,NA,,,,,,,145,47,509726,4315261,1,1
+Nevada,Toquima,Northumberland West,NW02.2,10,0,point,2012,2295,0,NA,,,,,,,145,47,511246,4314659,1,1
+Nevada,Toquima,Northumberland West,NW03.1,10,0,point,2012,2337,0,NA,,,,,,,172,56,511731,4314385,1,1
+Nevada,Toquima,Northumberland West,NW03.2,10,0,point,2012,2414,0,NA,,,,,,,172,56,512152,4313855,1,1
+Nevada,Toquima,Northumberland West,NW04.1,10,0,point,2012,2446,0,NA,,,,,,,172,56,512270,4313577,1,1
+Nevada,Toquima,Northumberland West,NW04.2,10,0,point,2012,2519,0,NA,,,,,,,172,56,512335,4312993,1,1
+Nevada,Toquima,Northumberland West,NW05.1,10,0,point,2012,2550,0,NA,,,,,,,172,56,512242,4312720,1,1
+Nevada,Toquima,Northumberland West,NW06.1,10,6,point,2012,2611,0,NA,,,,,,,203,62,512700,4312966,1,1
+Nevada,Toquima,Northumberland West,NW06.2,10,0,point,2012,2687,0,NA,,,,,,,203,62,513081,4313099,1,1
+Nevada,Toiyabe,Ophir,OP01.1,10,5,point,2012,1969,0,NA,,,,,,,92,30,478608,4310154,0,0
+Nevada,Toiyabe,Ophir,OP01.2,10,3,point,2012,2033,0,NA,,,,,,,92,30,478207,4310375,0,0
+Nevada,Toiyabe,Ophir,OP02.1,10,1,point,2012,2093,0,NA,,,,,,,92,30,477850,4310416,0,0
+Nevada,Toiyabe,Ophir,OP02.2,10,4,point,2012,2167,0,NA,,,,,,,92,30,477519,4310331,0,0
+Nevada,Toiyabe,Ophir,OP03.1,10,2,point,2012,2248,0,NA,,,,,,,92,30,477123,4310512,0,0
+Nevada,Toiyabe,Ophir,OP03.2,10,3,point,2012,2278,0,NA,,,,,,,92,30,476818,4310735,0,0
+Nevada,Toiyabe,Ophir,OP04.1,10,2,point,2012,2368,0,NA,,,,,,,194,63,475875,4310641,0,0
+Nevada,Toiyabe,Ophir,OP05.1,10,6,point,2012,2415,0,NA,,,,,,,194,63,475407,4310665,0,0
+Nevada,Toiyabe,Ophir,OP06.1,10,6,point,2012,2558,0,NA,,,,,,,194,63,474322,4310756,0,0
+Nevada,Toiyabe,Ophir,OP06.2,10,0,point,2012,2626,0,NA,,,,,,,194,63,473902,4310610,0,0
+Nevada,Toiyabe,Ophir,OP07.1,10,0,point,2012,2688,0,NA,,,,,,,194,63,473586,4310655,0,0
+Nevada,Toiyabe,Ophir,OP08.1,10,0,point,2012,2822,0,NA,,,,,,,194,63,473340,4310304,0,0
+Nevada,Toiyabe,Ophir,OP09.1,10,0,point,2012,2888,0,NA,,,,,,,194,63,473110,4310337,0,0
+Nevada,Toiyabe,Ophir,OP09.2,10,0,point,2012,2981,0,NA,,,,,,,198,66,472702,4310313,0,0
+Nevada,Shoshone,Riley,RI01.1,10,10,point,2012,2065,0,NA,,,,,,,92,34,463233,4329300,1,1
+Nevada,Shoshone,Riley,RI01.2,10,10,point,2012,2115,0,NA,,,,,,,92,34,462743,4329787,1,1
+Nevada,Shoshone,Riley,RI02.1,10,2,point,2012,2147,0,NA,,,,,,,92,34,462578,4330360,1,1
+Nevada,Shoshone,Riley,RI02.2,10,2,point,2012,2182,0,NA,,,,,,,92,34,462370,4330938,1,1
+Nevada,Shoshone,Riley,RI03.1,10,0,point,2012,2259,0,NA,,,,,,,92,34,462568,4332105,1,1
+Nevada,Shoshone,Riley,RI03.2,10,0,point,2012,2305,0,NA,,,,,,,92,34,462716,4332560,1,1
+Nevada,Shoshone,Riley,RI04.1,10,5,point,2012,2368,0,NA,,,,,,,121,44,462527,4333413,1,1
+Nevada,Shoshone,Riley,RI04.2,10,3,point,2012,2412,0,NA,,,,,,,121,44,462424,4334066,1,1
+Nevada,Shoshone,Riley,RI05.1,10,0,point,2012,2483,0,NA,,,,,,,178,63,462019,4334785,1,1
+Nevada,Shoshone,Riley,RI05.2,10,0,point,2012,2545,0,NA,,,,,,,121,44,462451,4334910,1,1
+Nevada,Monitor,Ryegrass,RY01,10,0,point,2012,2144,0,NA,,,,,,,99,26,550541,4337427,1,1
+Nevada,Monitor,Ryegrass,RY02,10,0,point,2012,2186,0,NA,,,,,,,99,26,549231,4336911,1,1
+Nevada,Monitor,Ryegrass,RY03,10,0,point,2012,2235,0,NA,,,,,,,135,37,547857,4337274,1,1
+Nevada,Monitor,Ryegrass,RY04,10,0,point,2012,2283,0,NA,,,,,,,114,31,546829,4337745,1,1
+Nevada,Monitor,Ryegrass,RY05,10,0,point,2012,2337,0,NA,,,,,,,135,37,545857,4337650,1,1
+Nevada,Monitor,Ryegrass,RY06,10,0,point,2012,2399,0,NA,,,,,,,114,31,545188,4338026,1,1
+Nevada,Monitor,Ryegrass,RY07,10,0,point,2012,2412,0,NA,,,,,,,115,32,544472,4338787,1,1
+Nevada,Toiyabe,San Juan,SJ01.1,27,11,point,2012,2104,0,NA,17,,15,,3,,70,27,475112,4333109,1,1
+Nevada,Toiyabe,San Juan,SJ01.2,31,3,point,2012,2117,0,NA,21,,12,,4,,94,36,475197,4332753,1,1
+Nevada,Toiyabe,San Juan,SJ01.3,26,4,point,2012,2160,0,NA,16,,12,,6,,94,36,475522,4331845,1,1
+Nevada,Toiyabe,San Juan,SJ02.1,31,2,point,2012,2220,0,NA,21,,18,,11,,94,36,476215,4330473,1,1
+Nevada,Toiyabe,San Juan,SJ02.2,26,4,point,2012,2230,0,NA,16,,7,,7,,94,36,476201,4330189,1,1
+Nevada,Toiyabe,San Juan,SJ02.3,31,12,point,2012,2289,0,NA,21,,13,,2,,140,55,476920,4330237,1,1
+Nevada,Toiyabe,San Juan,SJ03.1,21,2,point,2012,2338,0,NA,21,,8,,21,,140,55,477190,4330669,1,1
+Nevada,Toiyabe,San Juan,SJ03.2,21,0,point,2012,2384,0,NA,21,,3,,3,,140,55,477327,4330880,1,1
+Nevada,Toiyabe,San Juan,SJ04.1,21,3,point,2012,2401,0,NA,21,,11,,5,,140,55,477284,4331007,1,1
+Nevada,Toiyabe,San Juan,SJ04.2,21,10,point,2012,2446,0,NA,21,,11,,7,,140,55,477468,4331144,1,1
+Nevada,Toiyabe,San Juan,SJ05.1,21,2,point,2012,2504,0,NA,21,,10,,11,,140,55,477710,4331150,1,1
+Nevada,Toiyabe,San Juan,SJ05.2,21,6,point,2012,2553,0,NA,21,,10,,9,,140,55,478015,4330640,1,1
+Nevada,Toiyabe,Summit,SU01.1,10,3,point,2012,1989,0,NA,,,,,,,92,30,479257,4313358,0,0
+Nevada,Toiyabe,Summit,SU01.2,10,2,point,2012,2072,0,NA,,,,,,,92,30,478677,4313528,0,0
+Nevada,Toiyabe,Summit,SU02.1,10,6,point,2012,2125,0,NA,,,,,,,92,30,478370,4313751,0,0
+Nevada,Toiyabe,Summit,SU02.2,10,8,point,2012,2146,0,NA,,,,,,,92,30,478226,4313749,0,0
+Nevada,Toiyabe,Summit,SU03.1,10,0,point,2012,2280,0,NA,,,,,,,92,30,477620,4314075,0,0
+Nevada,Toiyabe,Summit,SU03.2,10,1,point,2012,2311,0,NA,,,,,,,92,30,477277,4314119,0,0
+Nevada,Toiyabe,Summit,SU04.1,10,0,point,2012,2350,0,NA,,,,,,,92,30,476898,4314091,0,0
+Nevada,Toiyabe,Summit,SU04.2,10,0,point,2012,2409,0,NA,,,,,,,194,63,476402,4314164,0,0
+Nevada,Toiyabe,Summit,SU05.1,10,5,point,2012,2468,0,NA,,,,,,,186,63,476069,4314635,0,0
+Nevada,Toiyabe,Summit,SU05.2,10,3,point,2012,2523,0,NA,,,,,,,186,63,475934,4314998,0,0
+Nevada,Toiyabe,Summit,SU06.1,10,1,point,2012,2575,0,NA,,,,,,,186,63,475658,4315078,0,0
+Nevada,Toiyabe,Summit,SU06.2,10,0,point,2012,2587,0,NA,,,,,,,186,63,475781,4314913,0,0
+Nevada,Toiyabe,Stewart,SW00.1,10,0,point,2012,2605,0,NA,,,,,,,160,53,467063,4305943,0,0
+Nevada,Toiyabe,Stewart,SW01.1,10,0,point,2012,2635,0,NA,,,,,,,160,53,467308,4305727,0,0
+Nevada,Toiyabe,Stewart,SW01.2,10,0,point,2012,2667,0,NA,,,,,,,160,53,467478,4305383,0,0
+Nevada,Toiyabe,Stewart,SW02.1,10,0,point,2012,2731,0,NA,,,,,,,238,82,467712,4305124,0,0
+Nevada,Toiyabe,Stewart,SW02.2,10,0,point,2012,2795,0,NA,,,,,,,238,82,467930,4304901,0,0
+Nevada,Toiyabe,Stewart,SW03.1,10,0,point,2012,2854,0,NA,,,,,,,238,82,468386,4304751,0,0
+Nevada,Toiyabe,Stewart,SW03.2,10,0,point,2012,2897,0,NA,,,,,,,238,82,468645,4304499,0,0
+Nevada,Toiyabe,Stewart,SW04.1,10,0,point,2012,2950,0,NA,,,,,,,238,82,468921,4304312,0,0
+Nevada,Toiyabe,Stewart,SW05.1,10,0,point,2012,3017,0,NA,,,,,,,238,82,469128,4304223,0,0
+Nevada,Toiyabe,Stewart,SW05.2,10,0,point,2012,3067,0,NA,,,,,,,238,82,469271,4304135,0,0
+Nevada,Toiyabe,Stewart,SW06.1,10,0,point,2012,3162,0,NA,,,,,,,236,79,469408,4303832,0,0
+Nevada,Toiyabe,Stewart,SW06.2,10,0,point,2012,3219,0,NA,,,,,,,236,79,469437,4303521,0,0
+Nevada,Shoshone,Underdown,UN01.1,10,0,point,2012,2027,0,NA,,,,,,,70,26,466955,4334270,1,1
+Nevada,Shoshone,Underdown,UN01.2,10,0,point,2012,2062,0,NA,,,,,,,70,26,466507,4334325,1,1
+Nevada,Shoshone,Underdown,UN02.1,10,1,point,2012,2114,0,NA,,,,,,,70,26,465834,4334717,1,1
+Nevada,Shoshone,Underdown,UN02.2,10,5,point,2012,2147,1,2002,,,,,,,121,44,465345,4334870,1,1
+Nevada,Shoshone,Underdown,UN03.1,10,9,point,2012,2207,1,2002,,,,,,,121,44,464392,4335151,1,1
+Nevada,Shoshone,Underdown,UN03.2,10,8,point,2012,2246,1,2005,,,,,,,121,44,463859,4335420,1,1
+Nevada,Shoshone,Underdown,UN04.1,10,8,point,2012,2296,0,NA,,,,,,,121,44,463046,4335553,1,1
+Nevada,Shoshone,Underdown,UN04.2,10,4,point,2012,2365,0,NA,,,,,,,178,63,462172,4336062,1,1
+Nevada,Shoshone,Underdown,UN05.1,10,0,point,2012,2424,0,NA,,,,,,,178,63,461858,4335606,1,1
+Nevada,Shoshone,Underdown,UN05.2,10,0,point,2012,2506,0,NA,,,,,,,178,63,461771,4334944,1,1
+Nevada,Shoshone,Underdown,UN06.1,10,0,point,2012,2569,0,NA,,,,,,,178,63,461400,4334852,1,1
+Nevada,Shoshone,Underdown,UN06.2,10,0,point,2012,2591,0,NA,,,,,,,178,63,461304,4334523,1,1
+Nevada,Shoshone,Underdown,UN07.1,10,0,point,2012,2634,0,NA,,,,,,,178,63,461094,4334514,1,1
+Nevada,Shoshone,Underdown,UN07.2,10,6,point,2012,2657,0,NA,,,,,,,178,63,461002,4334601,1,1
+Nevada,Shoshone,Underdown,UN0B1,10,7,point,2012,2083,1,2005,,20,,19,,,70,26,466208,4334493,1,1
+Nevada,Shoshone,Underdown,UN0B2,10,7,point,2012,2129,1,2005,,15,,15,,,121,44,465679,4334701,1,1
+Nevada,Shoshone,Underdown,UN0B3,10,9,point,2012,2135,1,2005,,4,,12,,,121,44,465579,4334726,1,1
+Nevada,Shoshone,Underdown,UN0B4,10,10,point,2012,2137,1,2005,,1,,13,,,121,44,465472,4334801,1,1
+Nevada,Shoshone,Underdown,UN0B5,10,10,point,2012,2231,1,2005,,18,,21,,,121,44,464142,4335228,1,1
+Nevada,Shoshone,Underdown,UN0B6,10,10,point,2012,2245,1,2005,,5,,19,,,121,44,463923,4335318,1,1
+Nevada,Shoshone,Underdown,UN0B7,10,9,point,2012,2259,1,2005,,11,,21,,,121,44,463704,4335430,1,1
+Nevada,Toiyabe,Wall,WA01.1,10,0,point,2012,1938,0,NA,,,,,,,66,18,480640,4281421,1,1
+Nevada,Toiyabe,Wall,WA01.2,10,1,point,2012,1984,0,NA,,,,,,,104,33,479744,4281663,1,1
+Nevada,Toiyabe,Wall,WA02.1,10,0,point,2012,2037,0,NA,,,,,,,104,33,478861,4281929,1,1
+Nevada,Toiyabe,Wall,WA02.2,10,0,point,2012,2087,0,NA,,,,,,,109,34,478012,4282228,1,1
+Nevada,Toiyabe,Wall,WA03.1,10,5,point,2012,2151,1,2001,,,,,,,109,34,477057,4282690,1,1
+Nevada,Toiyabe,Wall,WA03.2,10,8,point,2012,2201,1,2001,,,,,,,109,34,476504,4283065,1,1
+Nevada,Toiyabe,Wall,WA04.1,10,7,point,2012,2260,0,NA,,,,,,,148,48,475818,4283922,1,1
+Nevada,Toiyabe,Wall,WA04.2,10,7,point,2012,2303,1,2001,,,,,,,148,48,475454,4284265,1,1
+Nevada,Toiyabe,Wall,WA05.1,10,8,point,2012,2356,1,2001,,,,,,,148,48,474874,4284514,1,1
+Nevada,Toiyabe,Wall,WA05.2,10,9,point,2012,2414,1,2001,,,,,,,148,48,474577,4284907,1,1
+Nevada,Toiyabe,Wall,WA06.1,10,3,point,2012,2405,1,2001,,,,,,,148,48,474931,4284883,1,1
+Nevada,Toiyabe,Wall,WA0B1,10,10,point,2012,2174,1,2001,,,,,,,109,34,476751,4282806,1,1
+Nevada,Toiyabe,Wall,WA0B2,10,10,point,2012,2212,1,2001,,,,,,,148,48,476381,4283210,1,1
+Nevada,Toiyabe,Wall,WA0B3,10,10,point,2012,2227,1,2001,,,,,,,148,48,476328,4283496,1,1
+Nevada,Toiyabe,Wall,WA0B4,10,10,point,2012,2263,1,2001,,,,,,,148,48,475964,4283880,1,1
+Nevada,Toiyabe,Wall,WA0B5,10,10,point,2012,2267,1,2001,,,,,,,148,48,475713,4283998,1,1
+Nevada,Toiyabe,Wall,WA0B6,10,10,point,2012,2321,1,2001,,,,,,,148,48,475182,4284300,1,1
+Nevada,Toiyabe,Wall,WA0B7,10,10,point,2012,2372,1,2001,,,,,,,148,48,474706,4284574,1,1
+Nevada,Monitor,White Sage,WH08,10,0,point,2012,2320,0,NA,,,,,,,115,32,543778,4339804,1,1
+Nevada,Monitor,White Sage,WH09,10,0,point,2012,2253,0,NA,,,,,,,115,32,541940,4339565,1,1
+Nevada,Monitor,White Sage,WH10,10,0,point,2012,2205,0,NA,,,,,,,100,28,540988,4337578,1,1
+Nevada,Monitor,White Sage,WH11,10,0,point,2012,2177,0,NA,,,,,,,100,28,540694,4336326,0,0.857142857
+Nevada,Monitor,White Sage,WH12,10,0,point,2012,2163,0,NA,,,,,,,100,28,540593,4335579,0,0.857142857
+Nevada,Monitor,White Sage,WH13,10,0,point,2012,2117,0,NA,,,,,,,92,25,539964,4332918,0,0.857142857
+Nevada,Monitor,Wallace,WL01,10,0,point,2012,2134,0,NA,,,,,,,94,27,536931,4350156,0,0.857142857
+Nevada,Monitor,Wallace,WL02,10,0,point,2012,2155,0,NA,,,,,,,94,27,537285,4350420,0,0.857142857
+Nevada,Monitor,Wallace,WL03,10,0,point,2012,2164,0,NA,,,,,,,94,27,537523,4350763,0,0.857142857
+Nevada,Monitor,Wallace,WL04,10,0,point,2012,2204,0,NA,,,,,,,128,35,538368,4351727,1,1
+Nevada,Monitor,Wallace,WL05,10,0,point,2012,2313,0,NA,,,,,,,128,35,539890,4352610,1,1
+Nevada,Monitor,Wallace,WL06,10,0,point,2012,2327,0,NA,,,,,,,128,35,540147,4352583,1,1
+Nevada,Monitor,Wallace,WL07,10,0,point,2012,2347,0,NA,,,,,,,128,35,540416,4352465,1,1
+Nevada,Monitor,Wallace,WL08,10,2,point,2012,2364,0,NA,,,,,,,128,35,540747,4352367,1,1
+Nevada,Monitor,Wallace,WL09,10,4,point,2012,2423,0,NA,,,,,,,146,39,541348,4352187,1,1
+Nevada,Monitor,Wallace,WL10,10,0,point,2012,2367,0,NA,,,,,,,114,31,541107,4351457,1,1
+Nevada,Monitor,Wallace,WL11,10,0,point,2012,2279,0,NA,,,,,,,117,31,541577,4349986,1,1
+Nevada,Monitor,Wallace,WL12,10,0,point,2012,2284,0,NA,,,,,,,117,31,542209,4348896,1,1
+Nevada,Monitor,Wallace,WL13,10,0,point,2012,2272,0,NA,,,,,,,117,31,543406,4347960,1,1
+Nevada,Toiyabe,Washington,WS01.1,10,10,point,2012,2133,0,NA,,,,,,,70,27,476444,4334452,1,1
+Nevada,Toiyabe,Washington,WS01.2,10,5,point,2012,2188,0,NA,,,,,,,116,46,477267,4334221,1,1
+Nevada,Toiyabe,Washington,WS01.3,10,10,point,2012,2212,0,NA,,,,,,,116,46,477752,4334148,1,1
+Nevada,Toiyabe,Washington,WS02.1,10,10,point,2012,2252,0,NA,,,,,,,116,46,478393,4333845,1,1
+Nevada,Toiyabe,Washington,WS02.2,10,6,point,2012,2269,0,NA,,,,,,,116,46,478611,4333781,1,1
+Nevada,Toiyabe,Washington,WS02.3,10,6,point,2012,2295,0,NA,,,,,,,116,46,478989,4333756,1,1
+Nevada,Toiyabe,Washington,WS03.1,10,0,point,2012,2332,0,NA,,,,,,,116,46,479632,4333962,1,1
+Nevada,Toiyabe,Washington,WS03.2,10,0,point,2012,2352,0,NA,,,,,,,116,46,479948,4334019,1,1
+Nevada,Monitor,Allison,AL14,31,0,point,2013,2285,0,NA,21,,8,,9,,107,36,544647,4347369,1,1
+Nevada,Monitor,Allison,AL15,31,0,point,2013,2325,0,NA,21,,14,,10,,122,40,545072,4348363,1,1
+Nevada,Monitor,Allison,AL16,31,0,point,2013,2394,0,NA,21,,9,,8,,122,40,545895,4349257,1,1
+Nevada,Monitor,Allison,AL17,31,0,point,2013,2487,0,NA,21,,14,,11,,122,40,547012,4351091,1,1
+Nevada,Monitor,Allison,AL18,31,0,point,2013,2397,0,NA,21,,11,,8,,122,40,547741,4351223,1,1
+Nevada,Monitor,Allison,AL19,31,0,point,2013,2280,0,NA,21,,10,,6,,103,34,548712,4351888,1,1
+Nevada,Monitor,Allison,AL20,31,2,point,2013,2227,0,NA,21,,9,,8,,103,34,549703,4352135,1,1
+Nevada,Monitor,Allison,AL21,31,0,point,2013,2209,0,NA,21,,6,,6,,103,34,549951,4352294,1,1
+Nevada,Monitor,Allison,AL22,31,0,point,2013,2179,0,NA,21,,6,,4,,103,34,550268,4352752,1,1
+Nevada,Toquima,Antone,AN01.1,31,2,point,2013,2403,0,NA,21,,16,,13,,174,63,508271,4280080,1,1
+Nevada,Toquima,Antone,AN01.2,31,8,point,2013,2425,0,NA,21,,15,,5,,174,63,507742,4279834,1,1
+Nevada,Toquima,Antone,AN01.3,31,0,point,2013,2450,0,NA,21,,10,,14,,174,63,507392,4279847,1,1
+Nevada,Toquima,Antone,AN02.1,31,0,point,2013,2486,0,NA,21,,4,,10,,174,63,506905,4279511,1,1
+Nevada,Toquima,Antone,AN02.2,31,16,point,2013,2518,0,NA,21,,11,,3,,174,63,506461,4279457,1,1
+Nevada,Toquima,Antone,AN03.1,31,8,point,2013,2604,0,NA,21,,12,,7,,174,63,505591,4279341,1,1
+Nevada,Toquima,Antone,AN03.2,31,0,point,2013,2658,0,NA,21,,8,,8,,216,79,505178,4279056,1,1
+Nevada,Toquima,Antone,AN04.1,31,3,point,2013,2735,0,NA,21,,7,,7,,216,79,504693,4278945,1,1
+Nevada,Shoshone,Barrett,BA01.1,31,3,point,2013,2156,0,NA,21,,4,,7,,105,41,457842,4326960,1,1
+Nevada,Shoshone,Barrett,BA01.2,31,8,point,2013,2180,0,NA,21,,9,,6,,105,41,457435,4327193,1,1
+Nevada,Shoshone,Barrett,BA02.1,31,10,point,2013,2263,0,NA,21,,11,,11,,105,41,456127,4327497,1,1
+Nevada,Shoshone,Barrett,BA02.2,31,0,point,2013,2282,0,NA,21,,17,,7,,105,41,455870,4327620,1,1
+Nevada,Shoshone,Barrett,BA03.1,31,6,point,2013,2364,0,NA,21,,10,,13,,157,58,454833,4327629,1,1
+Nevada,Shoshone,Barrett,BA03.2,31,21,point,2013,2395,0,NA,21,,16,,6,,157,58,454493,4327634,1,1
+Nevada,Shoshone,Barrett,BA04.1,31,3,point,2013,2455,0,NA,21,,6,,6,,157,58,453911,4327755,1,1
+Nevada,Shoshone,Barrett,BA04.2,31,2,point,2013,2468,0,NA,21,,11,,13,,157,58,453813,4327895,1,1
+Nevada,Shoshone,Barrett,BA05.1,31,17,point,2013,2518,0,NA,21,,8,,8,,157,58,453507,4328236,1,1
+Nevada,Shoshone,Barrett,BA05.2,31,25,point,2013,2554,0,NA,21,,11,,8,,157,58,453312,4328349,1,1
+Nevada,Shoshone,Barrett,BA06.1,31,15,point,2013,2640,0,NA,21,,4,,12,,142,54,453038,4328612,1,1
+Nevada,Shoshone,Barrett,BA06.2,31,20,point,2013,2679,0,NA,21,,4,,9,,142,54,452941,4328666,1,1
+Nevada,Shoshone,Becker,BE01.1,31,14,point,2013,2166,0,NA,21,,0,,0,,64,28,459535,4327971,1,1
+Nevada,Shoshone,Becker,BE01.2,31,2,point,2013,2188,0,NA,21,,13,,4,,64,28,459363,4328408,1,1
+Nevada,Shoshone,Becker,BE02.1,31,6,point,2013,2241,0,NA,21,,11,,1,,146,55,459244,4329392,1,1
+Nevada,Shoshone,Becker,BE02.2,31,3,point,2013,2248,0,NA,21,,10,,9,,146,55,459307,4329527,1,1
+Nevada,Shoshone,Becker,BE03.1,31,0,point,2013,2359,0,NA,21,,15,,0,,146,55,459789,4330635,1,1
+Nevada,Shoshone,Becker,BE03.2,31,0,point,2013,2373,0,NA,21,,10,,6,,146,55,459844,4330725,1,1
+Nevada,Toiyabe,Birch,BI01.1,30,7,point,2013,1966,0,NA,20,,3,,2,,98,38,498887,4358987,1,0.875
+Nevada,Toiyabe,Birch,BI01.2,31,13,point,2013,1991,0,NA,21,,7,,4,,98,38,498570,4359048,1,0.875
+Nevada,Toiyabe,Birch,BI02.1,31,8,point,2013,2058,0,NA,21,,5,,2,,236,89,497584,4359812,1,0.875
+Nevada,Toiyabe,Birch,BI02.2,25,9,point,2013,2105,0,NA,15,,6,,6,,236,89,497212,4360036,1,0.875
+Nevada,Toiyabe,Birch,BI03.1,30,4,point,2013,2122,0,NA,20,,3,,3,,236,89,497171,4360414,1,0.875
+Nevada,Toiyabe,Birch,BI03.2,31,10,point,2013,2153,0,NA,21,,2,,6,,214,80,496976,4360740,1,0.875
+Nevada,Toiyabe,Birch,BI03.3,31,2,point,2013,2158,0,NA,21,,19,,14,,214,80,496572,4361012,1,0.875
+Nevada,Toiyabe,Birch,BI04.1,31,2,point,2013,2211,0,NA,21,,5,,6,,214,80,496016,4362190,1,0.875
+Nevada,Toiyabe,Birch,BI04.2,31,2,point,2013,2231,0,NA,21,,7,,7,,214,80,495899,4362638,1,0.875
+Nevada,Toiyabe,Birch,BI04.3,31,6,point,2013,2324,0,NA,21,,16,,4,,214,80,496025,4363900,1,0.875
+Nevada,Toiyabe,Birch,BI05.1,31,9,point,2013,2376,0,NA,21,,6,,8,,214,80,496070,4364329,1,0.875
+Nevada,Toiyabe,Birch,BI05.2,31,9,point,2013,2410,0,NA,21,,3,,6,,214,80,495912,4364636,1,0.875
+Nevada,Toiyabe,Birch,BI06.1,31,2,point,2013,2484,0,NA,21,,5,,5,,214,80,495419,4364918,1,0.875
+Nevada,Toiyabe,Birch,BI06.2,31,6,point,2013,2524,0,NA,21,,6,,11,,214,80,495236,4365279,1,0.875
+Nevada,Toiyabe,Birch,BI07.1,31,3,point,2013,2555,0,NA,21,,16,,14,,182,68,495466,4365710,1,0.75
+Nevada,Toiyabe,Birch,BI07.2,31,2,point,2013,2586,0,NA,21,,5,,13,,182,68,495570,4366063,1,0.75
+Nevada,Toiyabe,Birch,BI0B1,31,22,point,2013,1900,1,2007,21,,2,,10,,98,38,499898,4358107,1,0.875
+Nevada,Toiyabe,Birch,BI0B2,52,45,point,2013,1920,1,2007,21,,4,,8,,98,38,499642,4358265,1,0.875
+Nevada,Toiyabe,Birch,BI0B3,31,26,point,2013,1929,1,2007,21,,0,,10,,98,38,499332,4358458,1,0.875
+Nevada,Toiyabe,Birch,BI0B4,31,17,point,2013,1960,1,2007,21,,8,,9,,98,38,499077,4358851,1,0.875
+Nevada,Toiyabe,Birch,BISG01,31,31,point,2013,1923,1,2007,21,,4,,21,,98,38,499415,4358456,1,0.875
+Nevada,Toiyabe,Birch,BISG02,31,31,point,2013,1919,1,2007,21,,2,,16,,98,38,499499,4358407,1,0.875
+Nevada,Toiyabe,Birch,BISG03,31,28,point,2013,1905,1,2007,21,,1,,10,,98,38,499618,4358276,1,0.875
+Nevada,Toiyabe,Birch,BISG04,31,14,point,2013,1904,1,2007,21,,3,,7,,98,38,499704,4358234,1,0.875
+Nevada,Toiyabe,Birch,BISG05,31,30,point,2013,1898,1,2007,21,,1,,17,,98,38,499786,4358187,1,0.875
+Nevada,Toiyabe,Birch,BISG06,31,27,point,2013,1894,1,2007,21,,1,,16,,98,38,499869,4358135,1,0.875
+Nevada,Toiyabe,Birch,BISG07,31,21,point,2013,1894,1,2007,21,,3,,14,,98,38,499925,4358107,1,0.875
+Nevada,Toiyabe,Birch,BISG08,31,24,point,2013,1886,1,2007,21,,1,,18,,98,38,500026,4358096,1,0.875
+Nevada,Monitor,Barley,BL01,31,2,point,2013,2249,0,NA,21,,5,,4,,100,36,526371,4274731,1,1
+Nevada,Monitor,Barley,BL02,31,0,point,2013,2240,0,NA,21,,7,,2,,100,36,526460,4275079,1,1
+Nevada,Monitor,Barley,BL03,31,5,point,2013,2225,0,NA,21,,5,,2,,100,36,526524,4275434,1,1
+Nevada,Monitor,Barley,BL04,28,5,point,2013,2241,0,NA,21,,14,,3,,160,55,527520,4275949,1,1
+Nevada,Monitor,Barley,BL05,26,2,point,2013,2245,0,NA,16,,9,,1,,160,55,527839,4276098,1,1
+Nevada,Monitor,Barley,BL06,31,0,point,2013,2256,0,NA,21,,8,,6,,160,55,528178,4276244,1,1
+Nevada,Monitor,Barley,BL07,31,0,point,2013,2258,0,NA,21,,11,,4,,160,55,528540,4276183,1,1
+Nevada,Monitor,Barley,BL08,31,1,point,2013,2275,0,NA,21,,14,,8,,160,55,529291,4276396,1,1
+Nevada,Monitor,Barley,BL09,31,3,point,2013,2283,0,NA,21,,9,,8,,160,55,529636,4276547,1,1
+Nevada,Monitor,Barley,BL10,31,0,point,2013,2309,0,NA,21,,3,,0,,160,55,530218,4277084,1,1
+Nevada,Monitor,Barley,BL11,30,6,point,2013,2318,0,NA,20,,12,,7,,160,55,530677,4277376,1,1
+Nevada,Monitor,Barley,BL12,31,10,point,2013,2345,0,NA,21,,8,,6,,214,69,531363,4278415,1,1
+Nevada,Monitor,Barley,BL13,31,1,point,2013,2359,0,NA,21,,15,,11,,214,69,531457,4278622,1,1
+Nevada,Monitor,Barley,BL14,31,1,point,2013,2376,0,NA,21,,11,,6,,214,69,531603,4278935,1,1
+Nevada,Monitor,Barley,BL15,31,1,point,2013,2389,0,NA,21,,9,,6,,214,69,531506,4279427,1,1
+Nevada,Monitor,Barley,BL16,31,0,point,2013,2398,0,NA,21,,15,,7,,214,69,531518,4279788,1,1
+Nevada,Monitor,Charnoc North,CBN01,31,0,point,2013,2422,0,NA,21,,19,,17,,122,40,546194,4349269,1,1
+Nevada,Monitor,Charnoc North,CBN02,31,2,point,2013,2457,0,NA,21,,8,,6,,122,40,546476,4349215,1,1
+Nevada,Monitor,Charnoc North,CBN04,31,0,point,2013,2425,0,NA,21,,15,,13,,122,40,546131,4350086,1,1
+Nevada,Monitor,Charnoc North,CBN05,31,0,point,2013,2413,0,NA,21,,11,,10,,122,40,546053,4349771,1,1
+Nevada,Monitor,Charnoc North,CBNSG01,31,0,point,2013,2446,0,NA,21,,17,,14,,122,40,546077,4349281,1,1
+Nevada,Monitor,Charnoc North,CBNSG02,31,0,point,2013,2446,0,NA,21,,16,,15,,122,40,546176,4349266,1,1
+Nevada,Monitor,Charnoc North,CBNSG03,31,0,point,2013,2446,0,NA,21,,17,,17,,122,40,546070,4349248,1,1
+Nevada,Monitor,Charnoc North,CBNSG04,31,0,point,2013,2446,0,NA,21,,20,,19,,122,40,546169,4349237,1,1
+Nevada,Monitor,Charnoc North,CBNSG05,31,0,point,2013,2446,0,NA,21,,19,,15,,122,40,546221,4349275,1,1
+Nevada,Monitor,Charnoc North,CBNSG06,31,0,point,2013,2446,0,NA,21,,20,,19,,122,40,546311,4349239,1,1
+Nevada,Monitor,Charnoc North,CBNSG07,31,0,point,2013,2445,0,NA,21,,20,,20,,122,40,546221,4349242,1,1
+Nevada,Monitor,Charnoc North,CBNSG08,31,0,point,2013,2446,0,NA,21,,17,,18,,122,40,546312,4349205,1,1
+Nevada,Monitor,Charnoc North,CBNSG09,31,0,point,2013,2446,0,NA,21,,20,,16,,122,40,546120,4350090,1,1
+Nevada,Monitor,Charnoc North,CBNSG10,31,0,point,2013,2446,0,NA,21,,18,,19,,122,40,546108,4349991,1,1
+Nevada,Monitor,Charnoc North,CBNSG11,31,0,point,2013,2445,0,NA,21,,17,,10,,122,40,546083,4350089,1,1
+Nevada,Monitor,Charnoc North,CBNSG12,31,0,point,2013,2445,0,NA,21,,19,,12,,122,40,546079,4349994,1,1
+Nevada,Monitor,Charnoc North,CBNSG13,31,0,point,2013,2446,0,NA,21,,12,,11,,122,40,546054,4349785,1,1
+Nevada,Monitor,Charnoc North,CBNSG14,31,0,point,2013,2446,0,NA,21,,16,,17,,122,40,546035,4349684,1,1
+Nevada,Monitor,Charnoc North,CBNSG15,31,0,point,2013,2446,0,NA,21,,15,,13,,122,40,546048,4349787,1,1
+Nevada,Monitor,Charnoc North,CBNSG16,31,0,point,2013,2447,0,NA,21,,16,,13,,122,40,546022,4349688,1,1
+Nevada,Monitor,Charnoc South,CBS01,31,0,point,2013,2341,0,NA,21,,18,,5,,119,39,545790,4345796,1,1
+Nevada,Monitor,Charnoc South,CBS02,31,0,point,2013,2339,0,NA,21,,16,,5,,119,39,545551,4345989,1,1
+Nevada,Monitor,Charnoc South,CBS03,31,0,point,2013,2328,0,NA,21,,16,,11,,119,39,545275,4346025,1,1
+Nevada,Monitor,Charnoc South,CBS04,31,0,point,2013,2330,0,NA,21,,13,,10,,119,39,545075,4346243,1,1
+Nevada,Monitor,Charnoc South,CBS05,31,0,point,2013,2336,0,NA,21,,14,,9,,119,39,544990,4346534,1,1
+Nevada,Monitor,Charnoc South,CBSSG01,31,0,point,2013,2414,0,NA,21,,21,,13,,119,39,545790,4345796,1,1
+Nevada,Monitor,Charnoc South,CBSSG02,31,0,point,2013,2414,0,NA,21,,21,,8,,119,39,545720,4345865,1,1
+Nevada,Monitor,Charnoc South,CBSSG03,31,0,point,2013,2414,0,NA,21,,19,,13,,119,39,545769,4345787,1,1
+Nevada,Monitor,Charnoc South,CBSSG04,31,0,point,2013,2414,0,NA,21,,21,,11,,119,39,545692,4345851,1,1
+Nevada,Monitor,Charnoc South,CBSSG05,31,0,point,2013,2386,0,NA,21,,20,,12,,119,39,545686,4345898,1,1
+Nevada,Monitor,Charnoc South,CBSSG06,31,0,point,2013,2388,0,NA,21,,19,,8,,119,39,545606,4345967,1,1
+Nevada,Monitor,Charnoc South,CBSSG07,31,0,point,2013,2391,0,NA,21,,20,,14,,119,39,545681,4345895,1,1
+Nevada,Monitor,Charnoc South,CBSSG08,31,0,point,2013,2392,0,NA,21,,18,,7,,119,39,545608,4345956,1,1
+Nevada,Monitor,Charnoc South,CBSSG09,31,0,point,2013,2393,0,NA,21,,20,,12,,119,39,545553,4345981,1,1
+Nevada,Monitor,Charnoc South,CBSSG10,31,0,point,2013,2393,0,NA,21,,10,,3,,119,39,545475,4346035,1,1
+Nevada,Monitor,Charnoc South,CBSSG11,31,0,point,2013,2394,0,NA,21,,17,,11,,119,39,545565,4346000,1,1
+Nevada,Monitor,Charnoc South,CBSSG12,31,0,point,2013,2395,0,NA,21,,14,,7,,119,39,545485,4346054,1,1
+Nevada,Monitor,Charnoc South,CBSSG13,31,0,point,2013,2396,0,NA,21,,18,,12,,119,39,545077,4346261,1,1
+Nevada,Monitor,Charnoc South,CBSSG14,31,0,point,2013,2396,0,NA,21,,17,,18,,119,39,545099,4346352,1,1
+Nevada,Monitor,Charnoc South,CBSSG15,31,0,point,2013,2397,0,NA,21,,15,,6,,119,39,545098,4346257,1,1
+Nevada,Monitor,Charnoc South,CBSSG16,31,0,point,2013,2397,0,NA,21,,17,,8,,119,39,545119,4346352,1,1
+Nevada,Monitor,Dobbin East,DE05.1,31,0,point,2013,2640,0,NA,21,,4,,4,,202,62,542202,4310091,0,0.125
+Nevada,Monitor,Dobbin East,DE05.2,31,0,point,2013,2614,0,NA,21,,5,,3,,168,54,542034,4309778,0,0.125
+Nevada,Monitor,Dobbin East,DE05.3,31,7,point,2013,2546,0,NA,21,,5,,14,,168,54,542287,4309074,0,0.125
+Nevada,Monitor,Dobbin East,DE06.1,31,6,point,2013,2486,0,NA,21,,6,,8,,168,54,542619,4308317,0,0.125
+Nevada,Monitor,Dobbin East,DE06.2,31,0,point,2013,2437,0,NA,21,,10,,6,,168,54,543285,4307564,0,0.125
+Nevada,Monitor,Dobbin East,DE06.3,31,0,point,2013,2375,0,NA,21,,4,,3,,168,54,544055,4306636,0,0.125
+Nevada,Monitor,Dobbin East,DE07.1,31,0,point,2013,2334,0,NA,21,,0,,0,,168,54,544410,4306641,0,0.125
+Nevada,Monitor,Dobbin East,DE07.2,31,0,point,2013,2279,0,NA,21,,0,,2,,168,54,544812,4306347,0,0.125
+Nevada,Monitor,Dobbin East,DE07.3,31,0,point,2013,2283,0,NA,21,,0,,0,,168,54,544582,4305903,0,0.125
+Nevada,Monitor,Dobbin West,DW01.1,31,0,point,2013,2258,0,NA,21,,10,,2,,90,31,537501,4315491,0,0.125
+Nevada,Monitor,Dobbin West,DW01.2,31,0,point,2013,2311,0,NA,21,,10,,10,,135,44,538162,4314128,0,0.125
+Nevada,Monitor,Dobbin West,DW02.1,31,0,point,2013,2356,0,NA,21,,7,,6,,135,44,538838,4313180,0,0.125
+Nevada,Monitor,Dobbin West,DW02.2,31,0,point,2013,2394,0,NA,21,,3,,7,,135,44,539670,4312535,0,0.125
+Nevada,Monitor,Dobbin West,DW03.1,31,0,point,2013,2416,0,NA,21,,5,,1,,135,44,539960,4312319,0,0.125
+Nevada,Monitor,Dobbin West,DW03.2,31,0,point,2013,2438,0,NA,21,,10,,8,,135,44,540419,4312155,0,0.125
+Nevada,Monitor,Dobbin West,DW03.3,31,0,point,2013,2480,0,NA,21,,5,,6,,202,62,541818,4311882,0,0.125
+Nevada,Monitor,Dobbin West,DW04.1,31,0,point,2013,2568,0,NA,21,,11,,9,,202,62,542293,4310862,0,0.125
+Nevada,Monitor,Dobbin West,DW04.2,31,0,point,2013,2611,0,NA,21,,11,,2,,202,62,542325,4310390,0,0.125
+Nevada,Monitor,Elkhorn,EH01,31,18,point,2013,2275,1,2009,21,,3,,18,,144,51,530390,4271303,1,1
+Nevada,Monitor,Elkhorn,EH02,31,18,point,2013,2318,1,2009,21,,3,,19,,144,51,530128,4271033,1,1
+Nevada,Monitor,Elkhorn,EH03,31,19,point,2013,2334,1,2009,21,,2,,19,,144,51,530010,4271331,1,1
+Nevada,Monitor,Elkhorn,EH04,31,2,point,2013,2351,1,2009,21,,0,,20,,144,51,530210,4271544,1,1
+Nevada,Monitor,Elkhorn,EHSG01,31,20,point,2013,2307,1,2009,21,,7,,19,,144,51,530111,4271108,1,1
+Nevada,Monitor,Elkhorn,EHSG02,31,17,point,2013,2302,1,2009,21,,7,,20,,144,51,530200,4271151,1,1
+Nevada,Monitor,Elkhorn,EHSG03,31,24,point,2013,2307,1,2009,21,,1,,21,,144,51,530086,4271145,1,1
+Nevada,Monitor,Elkhorn,EHSG04,31,14,point,2013,2297,1,2009,21,,3,,20,,144,51,530178,4271179,1,1
+Nevada,Monitor,Elkhorn,EHSG05,31,21,point,2013,2319,1,2009,21,,1,,19,,144,51,530018,4271269,1,1
+Nevada,Monitor,Elkhorn,EHSG06,31,22,point,2013,2304,1,2009,21,,0,,20,,144,51,530114,4271251,1,1
+Nevada,Monitor,Elkhorn,EHSG07,31,16,point,2013,2320,1,2009,21,,3,,19,,144,51,530069,4271532,1,1
+Nevada,Monitor,Elkhorn,EHSG08,31,17,point,2013,2305,1,2009,21,,2,,19,,144,51,530110,4271438,1,1
+Nevada,Monitor,Elkhorn,EHSG09,31,3,point,2013,2325,1,2009,21,,1,,21,,144,51,530100,4271548,1,1
+Nevada,Monitor,Elkhorn,EHSG10,31,14,point,2013,2314,1,2009,21,,1,,19,,144,51,530130,4271450,1,1
+Nevada,Toiyabe,Grass Springs,GS01,21,13,point,2013,2179,1,2006,21,12,16,9,8,,122,47,498568,4370386,1,0.875
+Nevada,Toiyabe,Grass Springs,GS02,21,13,point,2013,2134,1,2006,21,12,14,6,13,,122,47,498766,4370378,1,0.875
+Nevada,Toiyabe,Grass Springs,GS03,31,26,point,2013,2085,1,2006,21,2,13,6,5,,122,47,499376,4370360,1,0.875
+Nevada,Toiyabe,Grass Springs,GS04,31,31,point,2013,2079,1,2006,21,0,5,0,9,,122,47,499391,4370537,1,0.875
+Nevada,Toiyabe,Grass Springs,GS05,31,30,point,2013,2087,1,2006,21,16,7,19,8,,122,47,499165,4370619,1,0.875
+Nevada,Toiyabe,Grass Springs,GS06,21,21,point,2013,2108,1,2006,21,12,8,19,7,,122,47,498953,4370678,1,0.875
+Nevada,Toiyabe,Grass Springs,GS07,21,18,point,2013,2145,1,2006,21,11,10,0,15,,122,47,498729,4370665,1,0.875
+Nevada,Toiyabe,Grass Springs,GS08,21,17,point,2013,2129,1,2006,21,16,9,13,11,,122,47,498840,4370884,1,0.875
+Nevada,Toiyabe,Grass Springs,GS09,21,18,point,2013,2078,1,2006,21,6,2,6,2,,122,47,499234,4371042,1,0.875
+Nevada,Toiyabe,Grass Springs,GS10,30,29,point,2013,2062,1,2006,20,6,3,19,6,,122,47,499449,4370812,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG01,31,15,point,2013,2089,1,2006,21,,14,,15,,122,47,499141,4370513,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG02,31,27,point,2013,2091,1,2006,21,,6,,4,,122,47,499116,4370414,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG03,31,11,point,2013,2090,1,2006,21,,20,,13,,122,47,499107,4370515,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG04,31,27,point,2013,2095,1,2006,21,,5,,9,,122,47,499080,4370419,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG05,31,23,point,2013,2097,1,2006,21,,11,,15,,122,47,499043,4370518,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG06,31,31,point,2013,2099,1,2006,21,,4,,10,,122,47,499014,4370426,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG07,31,26,point,2013,2099,1,2006,21,,13,,8,,122,47,499008,4370531,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG08,31,31,point,2013,2104,1,2006,21,,5,,7,,122,47,498976,4370428,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG09,31,31,point,2013,2112,1,2006,21,,6,,8,,122,47,498935,4370523,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG10,31,30,point,2013,2109,1,2006,21,,10,,4,,122,47,498927,4370418,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG11,31,31,point,2013,2117,1,2006,21,,9,,0,,122,47,498902,4370511,1,0.875
+Nevada,Toiyabe,Grass Springs,GSSG12,31,30,point,2013,2110,1,2006,21,,12,,7,,122,47,498892,4370412,1,0.875
+Nevada,Toiyabe,Jett,JE01.1,31,3,point,2013,1972,0,NA,21,,2,,2,,63,18,481292,4286426,0,0
+Nevada,Toiyabe,Jett,JE01.2,31,9,point,2013,1978,0,NA,21,,3,,10,,63,18,480943,4286510,0,0
+Nevada,Toiyabe,Jett,JE01.3,30,1,point,2013,2016,0,NA,20,,1,,3,,63,18,480602,4286575,0,0
+Nevada,Toiyabe,Jett,JE02.1,31,0,point,2013,2051,0,NA,21,,1,,4,,155,58,480042,4286915,0,0
+Nevada,Toiyabe,Jett,JE02.2,31,1,point,2013,2085,0,NA,21,,4,,4,,155,58,479554,4287084,0,0
+Nevada,Toiyabe,Jett,JE02.3,31,0,point,2013,2115,0,NA,21,,5,,8,,155,58,479032,4287356,0,0
+Nevada,Toiyabe,Jett,JE03.1,31,2,point,2013,2143,0,NA,21,,3,,3,,155,58,478738,4287599,0,0
+Nevada,Toiyabe,Jett,JE03.2,30,3,point,2013,2156,0,NA,20,,6,,4,,155,58,478552,4287654,0,0
+Nevada,Toiyabe,Jett,JE03.3,31,2,point,2013,2190,0,NA,21,,5,,1,,155,58,478243,4287949,0,0
+Nevada,Toquima,Meadow,MD01.1,19,0,point,2013,2259,0,NA,9,,6,,3,,144,52,512295,4277782,1,1
+Nevada,Toquima,Meadow,MD01.2,31,2,point,2013,2273,0,NA,21,,16,,4,,144,52,511844,4278222,1,1
+Nevada,Toquima,Meadow,MD01.3,31,0,point,2013,2302,0,NA,21,,3,,5,,144,52,511062,4279066,1,1
+Nevada,Toquima,Meadow,MD02.1,31,0,point,2013,2342,0,NA,21,,11,,5,,144,52,510018,4280073,1,1
+Nevada,Toquima,Meadow,MD02.2,31,0,point,2013,2368,0,NA,21,,17,,10,,144,52,509176,4280604,1,1
+Nevada,Toquima,Meadow,MD02.3,31,0,point,2013,2384,0,NA,21,,9,,7,,174,63,508562,4281002,1,1
+Nevada,Toquima,Meadow,MD03.1,31,0,point,2013,2447,0,NA,21,,15,,18,,190,67,507148,4282357,1,1
+Nevada,Toquima,Meadow,MD03.2,31,0,point,2013,2495,0,NA,21,,16,,14,,190,67,506561,4282170,1,1
+Nevada,Toquima,Meadow,MD04.1,31,0,point,2013,2577,0,NA,21,,12,,15,,174,63,505955,4281915,1,1
+Nevada,Toquima,Meadow,MD04.2,31,0,point,2013,2619,0,NA,21,,14,,10,,190,67,505683,4282116,1,1
+Nevada,Toquima,Meadow,MD05.1,31,0,point,2013,2660,0,NA,21,,20,,13,,190,67,505506,4282528,1,1
+Nevada,Toquima,Meadow,MD05.2,31,0,point,2013,2674,0,NA,21,,19,,17,,177,64,505212,4282660,1,1
+Nevada,Toquima,Moores East,ME01.1,31,1,point,2013,2543,0,NA,21,,10,,13,,133,49,508352,4301628,1,1
+Nevada,Toquima,Moores East,ME01.2,31,1,point,2013,2509,0,NA,21,,1,,1,,133,49,508762,4301637,1,1
+Nevada,Toquima,Moores East,ME02.1,31,0,point,2013,2452,0,NA,21,,3,,4,,133,49,509541,4301985,1,1
+Nevada,Toquima,Moores East,ME02.2,31,0,point,2013,2432,0,NA,21,,2,,1,,133,49,509955,4302205,1,1
+Nevada,Toquima,Moores East,ME03.1,31,0,point,2013,2327,0,NA,21,,6,,5,,133,49,511611,4301799,1,1
+Nevada,Toquima,Moores East,ME03.2,31,0,point,2013,2303,0,NA,21,,0,,3,,133,49,511995,4301668,1,1
+Nevada,Toquima,Moores East,ME04.1,31,1,point,2013,2228,0,NA,21,,7,,3,,110,41,513245,4300632,1,1
+Nevada,Toquima,Moores East,ME04.2,31,1,point,2013,2196,0,NA,21,,3,,4,,110,41,514277,4300653,1,1
+Nevada,Toquima,Moores West,MW01.1,31,0,point,2013,2092,0,NA,21,,1,,1,,93,34,502376,4304048,0,0.625
+Nevada,Toquima,Moores West,MW01.2,31,0,point,2013,2186,0,NA,21,,6,,0,,93,34,503722,4303756,0,0.625
+Nevada,Toquima,Moores West,MW02.1,31,0,point,2013,2222,0,NA,21,,5,,2,,93,34,504135,4303463,0,0.625
+Nevada,Toquima,Moores West,MW02.2,31,0,point,2013,2250,0,NA,21,,5,,2,,93,34,504416,4303175,0,0.625
+Nevada,Toquima,Moores West,MW03.1,31,0,point,2013,2348,0,NA,21,,5,,2,,93,34,505236,4302426,0,0.625
+Nevada,Toquima,Moores West,MW03.2,31,0,point,2013,2405,0,NA,21,,7,,1,,133,49,505684,4301905,1,1
+Nevada,Toquima,Moores West,MW04.1,31,0,point,2013,2384,0,NA,21,,5,,3,,133,49,506482,4300881,1,1
+Nevada,Toquima,Moores West,MW04.2,31,0,point,2013,2447,0,NA,21,,9,,8,,133,49,507099,4301024,1,1
+Nevada,Toquima,Moores West,MW05.1,31,0,point,2013,2473,0,NA,21,,1,,2,,133,49,507488,4301516,1,1
+Nevada,Toquima,Moores West,MW05.2,31,1,point,2013,2506,0,NA,21,,6,,4,,133,49,507782,4301548,1,1
+Nevada,Toquima,Northumberland East,NE01.1,31,0,point,2013,2276,0,NA,21,,0,,1,,153,56,514315,4306160,1,1
+Nevada,Toquima,Northumberland East,NE01.2,31,0,point,2013,2291,0,NA,21,,0,,9,,153,56,513633,4306615,1,1
+Nevada,Toquima,Northumberland East,NE02.1,31,0,point,2013,2358,0,NA,21,,0,,5,,147,54,511935,4308340,1,1
+Nevada,Toquima,Northumberland East,NE02.2,31,1,point,2013,2393,0,NA,21,,5,,7,,147,54,512003,4309382,1,1
+Nevada,Toquima,Northumberland East,NE03.1,31,3,point,2013,2474,0,NA,21,,10,,7,,201,70,512846,4310449,1,1
+Nevada,Toquima,Northumberland East,NE03.2,31,0,point,2013,2522,0,NA,21,,7,,6,,201,70,513433,4310531,1,1
+Nevada,Toquima,Northumberland East,NE04.1,31,0,point,2013,2589,0,NA,21,,1,,2,,201,70,513289,4310889,1,1
+Nevada,Toquima,Northumberland East,NE04.2,31,0,point,2013,2614,0,NA,21,,5,,7,,201,70,513369,4311288,1,1
+Nevada,Toquima,Northumberland East,NE05.1,31,0,point,2013,2670,0,NA,21,,11,,10,,201,70,513374,4312341,1,1
+Nevada,Toquima,Northumberland East,NE05.2,31,0,point,2013,2714,0,NA,21,,10,,15,,201,70,513403,4313107,1,1
+Nevada,Toquima,Northumberland West,NW01.1,31,3,point,2013,2126,0,NA,21,,5,,1,,93,35,508212,4316584,1,1
+Nevada,Toquima,Northumberland West,NW01.2,31,5,point,2013,2183,0,NA,21,,5,,7,,140,51,509227,4315457,1,1
+Nevada,Toquima,Northumberland West,NW02.1,31,1,point,2013,2217,0,NA,21,,5,,7,,140,51,509726,4315261,1,1
+Nevada,Toquima,Northumberland West,NW02.2,31,0,point,2013,2295,0,NA,21,,6,,6,,140,51,511246,4314659,1,1
+Nevada,Toquima,Northumberland West,NW03.1,31,0,point,2013,2337,0,NA,21,,5,,7,,172,61,511731,4314385,1,1
+Nevada,Toquima,Northumberland West,NW03.2,31,0,point,2013,2414,0,NA,21,,2,,3,,172,61,512152,4313855,1,1
+Nevada,Toquima,Northumberland West,NW04.1,31,0,point,2013,2446,0,NA,21,,7,,4,,172,61,512270,4313577,1,1
+Nevada,Toquima,Northumberland West,NW04.2,24,1,point,2013,2519,0,NA,14,,0,,8,,172,61,512335,4312993,1,1
+Nevada,Toquima,Northumberland West,NW05.1,31,0,point,2013,2550,0,NA,21,,1,,11,,172,61,512242,4312720,1,1
+Nevada,Toquima,Northumberland West,NW06.1,31,0,point,2013,2611,0,NA,21,,9,,9,,201,70,512700,4312966,1,1
+Nevada,Toquima,Northumberland West,NW06.2,31,1,point,2013,2687,0,NA,21,,11,,7,,201,70,513081,4313099,1,1
+Nevada,Toiyabe,Ophir,OP01.1,31,0,point,2013,1969,0,NA,21,,6,,5,,82,31,478608,4310154,0,0
+Nevada,Toiyabe,Ophir,OP01.2,31,0,point,2013,2033,0,NA,21,,3,,1,,82,31,478207,4310375,0,0
+Nevada,Toiyabe,Ophir,OP02.1,31,1,point,2013,2093,0,NA,21,,2,,8,,82,31,477850,4310416,0,0
+Nevada,Toiyabe,Ophir,OP02.2,31,0,point,2013,2167,0,NA,21,,2,,3,,82,31,477519,4310331,0,0
+Nevada,Toiyabe,Ophir,OP03.1,31,3,point,2013,2248,0,NA,21,,1,,8,,82,31,477123,4310512,0,0
+Nevada,Toiyabe,Ophir,OP03.2,31,0,point,2013,2278,0,NA,21,,8,,0,,82,31,476818,4310735,0,0
+Nevada,Toiyabe,Ophir,OP04.1,31,7,point,2013,2368,0,NA,21,,3,,8,,200,71,475875,4310641,0,0
+Nevada,Toiyabe,Ophir,OP05.1,31,3,point,2013,2415,0,NA,21,,7,,9,,200,71,475407,4310665,0,0
+Nevada,Toiyabe,Ophir,OP05.2,31,0,point,2013,2477,0,NA,21,,3,,8,,200,71,474938,4310724,0,0
+Nevada,Toiyabe,Ophir,OP06.1,31,1,point,2013,2558,0,NA,21,,10,,7,,200,71,474322,4310756,0,0
+Nevada,Toiyabe,Ophir,OP06.2,31,8,point,2013,2626,0,NA,21,,9,,19,,200,71,473902,4310610,0,0
+Nevada,Toiyabe,Ophir,OP07.1,31,0,point,2013,2688,0,NA,21,,1,,8,,200,71,473586,4310655,0,0
+Nevada,Toiyabe,Ophir,OP08.1,31,0,point,2013,2822,0,NA,21,,12,,15,,200,71,473340,4310304,0,0
+Nevada,Toiyabe,Ophir,OP09.1,31,0,point,2013,2888,0,NA,21,,13,,12,,200,71,473110,4310337,0,0
+Nevada,Toiyabe,Ophir,OP09.2,31,0,point,2013,2981,0,NA,21,,19,,0,,204,73,472702,4310313,0,0
+Nevada,Shoshone,Riley,RI01.1,31,24,point,2013,2065,0,NA,21,,2,,0,,83,35,463233,4329300,1,1
+Nevada,Shoshone,Riley,RI01.2,31,7,point,2013,2115,0,NA,21,,8,,6,,83,35,462743,4329787,1,1
+Nevada,Shoshone,Riley,RI02.1,31,1,point,2013,2147,0,NA,21,,17,,2,,83,35,462578,4330360,1,1
+Nevada,Shoshone,Riley,RI02.2,31,0,point,2013,2182,0,NA,21,,11,,1,,83,35,462370,4330938,1,1
+Nevada,Shoshone,Riley,RI03.1,31,1,point,2013,2259,0,NA,21,,16,,4,,83,35,462568,4332105,1,1
+Nevada,Shoshone,Riley,RI03.2,31,0,point,2013,2305,0,NA,21,,7,,4,,83,35,462716,4332560,1,1
+Nevada,Shoshone,Riley,RI04.1,31,1,point,2013,2368,0,NA,21,,12,,13,,121,48,462527,4333413,1,1
+Nevada,Shoshone,Riley,RI04.2,31,0,point,2013,2412,0,NA,21,,18,,6,,121,48,462424,4334066,1,1
+Nevada,Shoshone,Riley,RI05.1,31,0,point,2013,2483,0,NA,21,,9,,16,,198,71,462019,4334785,1,1
+Nevada,Shoshone,Riley,RI05.2,31,0,point,2013,2545,0,NA,21,,8,,9,,121,48,462451,4334910,1,1
+Nevada,Monitor,Ryegrass,RY01,31,0,point,2013,2144,0,NA,21,,1,,2,,89,30,550541,4337427,1,1
+Nevada,Monitor,Ryegrass,RY02,31,0,point,2013,2186,0,NA,21,,1,,4,,89,30,549231,4336911,1,1
+Nevada,Monitor,Ryegrass,RY03,31,0,point,2013,2235,0,NA,21,,7,,2,,126,42,547857,4337274,1,1
+Nevada,Monitor,Ryegrass,RY04,31,0,point,2013,2283,0,NA,21,,4,,6,,104,35,546829,4337745,1,1
+Nevada,Monitor,Ryegrass,RY05,31,0,point,2013,2337,0,NA,21,,8,,4,,126,42,545857,4337650,1,1
+Nevada,Monitor,Ryegrass,RY06,31,0,point,2013,2399,0,NA,21,,11,,4,,104,35,545188,4338026,1,1
+Nevada,Monitor,Ryegrass,RY07,31,0,point,2013,2412,0,NA,21,,18,,18,,106,36,544472,4338787,1,1
+Nevada,Toiyabe,San Juan,SJ01.1,31,5,point,2013,2104,0,NA,21,,11,,8,,58,27,475112,4333109,1,1
+Nevada,Toiyabe,San Juan,SJ01.2,31,0,point,2013,2117,0,NA,21,,10,,2,,85,37,475197,4332753,1,1
+Nevada,Toiyabe,San Juan,SJ01.3,31,1,point,2013,2160,0,NA,21,,14,,10,,85,37,475522,4331845,1,1
+Nevada,Toiyabe,San Juan,SJ02.1,31,6,point,2013,2220,0,NA,21,,11,,9,,85,37,476215,4330473,1,1
+Nevada,Toiyabe,San Juan,SJ02.2,31,3,point,2013,2230,0,NA,21,,9,,6,,85,37,476201,4330189,1,1
+Nevada,Toiyabe,San Juan,SJ02.3,31,5,point,2013,2289,0,NA,21,,10,,0,,142,56,476920,4330237,1,1
+Nevada,Toiyabe,San Juan,SJ03.1,31,0,point,2013,2338,0,NA,21,,10,,2,,142,56,477190,4330669,1,1
+Nevada,Toiyabe,San Juan,SJ03.2,31,1,point,2013,2384,0,NA,21,,2,,2,,142,56,477327,4330880,1,1
+Nevada,Toiyabe,San Juan,SJ04.1,31,6,point,2013,2401,0,NA,21,,8,,6,,142,56,477284,4331007,1,1
+Nevada,Toiyabe,San Juan,SJ04.2,31,11,point,2013,2446,0,NA,21,,8,,5,,142,56,477468,4331144,1,1
+Nevada,Toiyabe,San Juan,SJ05.1,31,0,point,2013,2504,0,NA,21,,8,,10,,142,56,477710,4331150,1,1
+Nevada,Toiyabe,San Juan,SJ05.2,31,1,point,2013,2553,0,NA,21,,8,,10,,142,56,478015,4330640,1,1
+Nevada,Toiyabe,Summit,SU01.1,31,1,point,2013,1989,0,NA,21,,3,,7,,82,31,479257,4313358,0,0
+Nevada,Toiyabe,Summit,SU01.2,31,0,point,2013,2072,0,NA,21,,8,,3,,82,31,478677,4313528,0,0
+Nevada,Toiyabe,Summit,SU02.1,31,1,point,2013,2125,0,NA,21,,5,,4,,82,31,478370,4313751,0,0
+Nevada,Toiyabe,Summit,SU02.2,31,0,point,2013,2146,0,NA,21,,3,,2,,82,31,478226,4313749,0,0
+Nevada,Toiyabe,Summit,SU03.1,31,5,point,2013,2280,0,NA,21,,4,,4,,82,31,477620,4314075,0,0
+Nevada,Toiyabe,Summit,SU03.2,31,0,point,2013,2311,0,NA,21,,5,,4,,82,31,477277,4314119,0,0
+Nevada,Toiyabe,Summit,SU04.1,31,0,point,2013,2350,0,NA,21,,8,,7,,82,31,476898,4314091,0,0
+Nevada,Toiyabe,Summit,SU04.2,31,0,point,2013,2409,0,NA,21,,2,,9,,200,71,476402,4314164,0,0
+Nevada,Toiyabe,Summit,SU05.1,31,6,point,2013,2468,0,NA,21,,10,,9,,196,70,476069,4314635,0,0
+Nevada,Toiyabe,Summit,SU05.2,31,7,point,2013,2523,0,NA,21,,7,,8,,196,70,475934,4314998,0,0
+Nevada,Toiyabe,Summit,SU06.1,29,1,point,2013,2575,0,NA,21,,8,,10,,196,70,475658,4315078,0,0
+Nevada,Toiyabe,Summit,SU06.2,31,2,point,2013,2587,0,NA,21,,6,,4,,196,70,475781,4314913,0,0
+Nevada,Toiyabe,Stewart,SW00.1,31,0,point,2013,2605,0,NA,21,,13,,12,,156,59,467063,4305943,0,0
+Nevada,Toiyabe,Stewart,SW01.1,31,0,point,2013,2635,0,NA,21,,21,,15,,156,59,467308,4305727,0,0
+Nevada,Toiyabe,Stewart,SW01.2,31,0,point,2013,2667,0,NA,21,,15,,14,,156,59,467478,4305383,0,0
+Nevada,Toiyabe,Stewart,SW02.1,31,0,point,2013,2731,0,NA,21,,16,,11,,237,89,467712,4305124,0,0
+Nevada,Toiyabe,Stewart,SW02.2,31,0,point,2013,2795,0,NA,21,,16,,16,,237,89,467930,4304901,0,0
+Nevada,Toiyabe,Stewart,SW03.1,31,0,point,2013,2854,0,NA,21,,20,,13,,237,89,468386,4304751,0,0
+Nevada,Toiyabe,Stewart,SW03.2,31,4,point,2013,2897,0,NA,21,,17,,10,,237,89,468645,4304499,0,0
+Nevada,Toiyabe,Stewart,SW04.1,31,0,point,2013,2950,0,NA,21,,10,,10,,237,89,468921,4304312,0,0
+Nevada,Toiyabe,Stewart,SW05.1,31,0,point,2013,3017,0,NA,21,,6,,0,,237,89,469128,4304223,0,0
+Nevada,Toiyabe,Stewart,SW05.2,31,1,point,2013,3067,0,NA,21,,12,,11,,237,89,469271,4304135,0,0
+Nevada,Toiyabe,Stewart,SW06.1,31,9,point,2013,3162,0,NA,21,,11,,6,,234,88,469408,4303832,0,0
+Nevada,Toiyabe,Stewart,SW06.2,31,0,point,2013,3219,0,NA,21,,18,,7,,234,88,469437,4303521,0,0
+Nevada,Shoshone,Underdown,UN01.1,31,0,point,2013,2027,0,NA,21,,0,,2,,55,27,466955,4334270,1,1
+Nevada,Shoshone,Underdown,UN01.2,31,0,point,2013,2062,0,NA,21,,5,,0,,55,27,466507,4334325,1,1
+Nevada,Shoshone,Underdown,UN02.1,31,1,point,2013,2114,0,NA,21,,13,,6,,55,27,465834,4334717,1,1
+Nevada,Shoshone,Underdown,UN02.2,31,11,point,2013,2147,1,2002,21,,8,,3,,121,48,465345,4334870,1,1
+Nevada,Shoshone,Underdown,UN03.1,31,22,point,2013,2207,1,2002,21,,12,,7,,121,48,464392,4335151,1,1
+Nevada,Shoshone,Underdown,UN03.2,31,13,point,2013,2246,1,2005,21,,16,,4,,121,48,463859,4335420,1,1
+Nevada,Shoshone,Underdown,UN04.1,31,13,point,2013,2296,0,NA,21,,15,,6,,121,48,463046,4335553,1,1
+Nevada,Shoshone,Underdown,UN04.2,31,1,point,2013,2365,0,NA,21,,15,,5,,198,71,462172,4336062,1,1
+Nevada,Shoshone,Underdown,UN05.1,31,0,point,2013,2424,0,NA,21,,18,,13,,198,71,461858,4335606,1,1
+Nevada,Shoshone,Underdown,UN05.2,31,0,point,2013,2506,0,NA,21,,14,,17,,198,71,461771,4334944,1,1
+Nevada,Shoshone,Underdown,UN06.1,31,0,point,2013,2569,0,NA,21,,16,,18,,198,71,461400,4334852,1,1
+Nevada,Shoshone,Underdown,UN06.2,31,0,point,2013,2591,0,NA,21,,18,,15,,198,71,461304,4334523,1,1
+Nevada,Shoshone,Underdown,UN07.1,31,0,point,2013,2634,0,NA,21,,19,,14,,198,71,461094,4334514,1,1
+Nevada,Shoshone,Underdown,UN07.2,31,3,point,2013,2657,0,NA,21,,15,,7,,198,71,461002,4334601,1,1
+Nevada,Shoshone,Underdown,UN0B1,31,11,point,2013,2083,1,2005,21,20,8,19,8,,55,27,466208,4334493,1,1
+Nevada,Shoshone,Underdown,UN0B2,31,18,point,2013,2129,1,2005,21,15,12,15,11,,121,48,465679,4334701,1,1
+Nevada,Shoshone,Underdown,UN0B3,31,23,point,2013,2135,1,2005,21,4,9,12,13,,121,48,465579,4334726,1,1
+Nevada,Shoshone,Underdown,UN0B4,31,27,point,2013,2137,1,2005,21,1,8,13,4,,121,48,465472,4334801,1,1
+Nevada,Shoshone,Underdown,UN0B5,31,21,point,2013,2231,1,2005,21,18,12,21,14,,121,48,464142,4335228,1,1
+Nevada,Shoshone,Underdown,UN0B6,31,15,point,2013,2245,1,2005,21,5,17,19,3,,121,48,463923,4335318,1,1
+Nevada,Shoshone,Underdown,UN0B7,31,24,point,2013,2259,1,2005,21,11,15,21,7,,121,48,463704,4335430,1,1
+Nevada,Toiyabe,Wall,WA01.1,31,6,point,2013,1938,0,NA,21,,1,,0,,55,16,480640,4281421,1,1
+Nevada,Toiyabe,Wall,WA01.2,31,0,point,2013,1984,0,NA,21,,7,,11,,93,34,479744,4281663,1,1
+Nevada,Toiyabe,Wall,WA02.1,31,1,point,2013,2037,0,NA,21,,3,,0,,93,34,478861,4281929,1,1
+Nevada,Toiyabe,Wall,WA02.2,31,0,point,2013,2087,0,NA,21,,5,,2,,100,35,478012,4282228,1,1
+Nevada,Toiyabe,Wall,WA03.1,31,13,point,2013,2151,1,2001,21,,5,,4,,100,35,477057,4282690,1,1
+Nevada,Toiyabe,Wall,WA03.2,31,22,point,2013,2201,1,2001,21,,8,,8,,100,35,476504,4283065,1,1
+Nevada,Toiyabe,Wall,WA04.1,31,21,point,2013,2260,0,NA,21,,5,,5,,137,52,475818,4283922,1,1
+Nevada,Toiyabe,Wall,WA04.2,31,19,point,2013,2303,1,2001,21,,7,,3,,137,52,475454,4284265,1,1
+Nevada,Toiyabe,Wall,WA05.1,31,26,point,2013,2356,1,2001,21,,0,,11,,137,52,474874,4284514,1,1
+Nevada,Toiyabe,Wall,WA05.2,31,24,point,2013,2414,1,2001,21,,2,,11,,137,52,474577,4284907,1,1
+Nevada,Toiyabe,Wall,WA06.1,31,11,point,2013,2405,1,2001,21,,3,,12,,137,52,474931,4284883,1,1
+Nevada,Toiyabe,Wall,WA0B1,31,27,point,2013,2174,1,2001,21,,4,,5,,100,35,476751,4282806,1,1
+Nevada,Toiyabe,Wall,WA0B2,31,31,point,2013,2212,1,2001,21,,8,,11,,137,52,476381,4283210,1,1
+Nevada,Toiyabe,Wall,WA0B3,31,24,point,2013,2227,1,2001,21,,0,,1,,137,52,476328,4283496,1,1
+Nevada,Toiyabe,Wall,WA0B4,31,21,point,2013,2263,1,2001,21,,11,,10,,137,52,475964,4283880,1,1
+Nevada,Toiyabe,Wall,WA0B5,31,27,point,2013,2267,1,2001,21,,6,,11,,137,52,475713,4283998,1,1
+Nevada,Toiyabe,Wall,WA0B6,31,28,point,2013,2321,1,2001,21,,5,,8,,137,52,475182,4284300,1,1
+Nevada,Toiyabe,Wall,WA0B7,31,26,point,2013,2372,1,2001,21,,5,,7,,137,52,474706,4284574,1,1
+Nevada,Toiyabe,Wall,WASG01,31,28,point,2013,2191,1,2001,21,,3,,14,,100,35,476468,4282887,1,1
+Nevada,Toiyabe,Wall,WASG02,31,24,point,2013,2203,1,2001,21,,4,,6,,100,35,476418,4282970,1,1
+Nevada,Toiyabe,Wall,WASG03,31,26,point,2013,2192,1,2001,21,,1,,12,,100,35,476446,4282875,1,1
+Nevada,Toiyabe,Wall,WASG04,31,30,point,2013,2198,1,2001,21,,2,,2,,100,35,476388,4282949,1,1
+Nevada,Toiyabe,Wall,WASG05,31,26,point,2013,2207,1,2001,21,,2,,14,,100,35,476385,4282641,1,1
+Nevada,Toiyabe,Wall,WASG06,31,31,point,2013,2206,1,2001,21,,1,,17,,100,35,476441,4282701,1,1
+Nevada,Toiyabe,Wall,WASG07,31,27,point,2013,2208,1,2001,21,,3,,6,,100,35,476388,4282739,1,1
+Nevada,Toiyabe,Wall,WASG08,31,27,point,2013,2214,1,2001,21,,3,,10,,100,35,476355,4282651,1,1
+Nevada,Toiyabe,Wall,WASG09,31,21,point,2013,2243,1,2001,21,,1,,3,,137,52,475918,4283782,1,1
+Nevada,Toiyabe,Wall,WASG10,31,28,point,2013,2265,1,2001,21,,6,,16,,137,52,475822,4283733,1,1
+Nevada,Toiyabe,Wall,WASG11,31,29,point,2013,2254,1,2001,21,,8,,17,,137,52,475820,4283864,1,1
+Nevada,Toiyabe,Wall,WASG12,31,31,point,2013,2268,1,2001,21,,4,,13,,137,52,475741,4283805,1,1
+Nevada,Monitor,White Sage,WH08,31,0,point,2013,2320,0,NA,21,,11,,5,,106,36,543778,4339804,1,1
+Nevada,Monitor,White Sage,WH09,31,0,point,2013,2253,0,NA,21,,13,,13,,106,36,541940,4339565,1,1
+Nevada,Monitor,White Sage,WH10,31,0,point,2013,2205,0,NA,21,,12,,3,,91,31,540988,4337578,1,1
+Nevada,Monitor,White Sage,WH11,31,0,point,2013,2177,0,NA,21,,10,,4,,91,31,540694,4336326,1,0.875
+Nevada,Monitor,White Sage,WH12,31,0,point,2013,2163,0,NA,21,,4,,0,,91,31,540593,4335579,1,0.875
+Nevada,Monitor,White Sage,WH13,10,0,point,2013,2117,0,NA,,,,,,,83,28,539964,4332918,1,0.875
+Nevada,Monitor,Wallace,WL01,31,4,point,2013,2134,0,NA,21,,13,,3,,86,30,536931,4350156,1,0.875
+Nevada,Monitor,Wallace,WL02,17,2,point,2013,2155,0,NA,21,,7,,0,,86,30,537285,4350420,1,0.875
+Nevada,Monitor,Wallace,WL03,31,0,point,2013,2164,0,NA,21,,9,,6,,86,30,537523,4350763,1,0.875
+Nevada,Monitor,Wallace,WL04,31,10,point,2013,2204,0,NA,21,,9,,4,,117,39,538368,4351727,1,1
+Nevada,Monitor,Wallace,WL05,31,1,point,2013,2313,0,NA,21,,9,,6,,117,39,539890,4352610,1,1
+Nevada,Monitor,Wallace,WL06,31,4,point,2013,2327,0,NA,21,,5,,9,,117,39,540147,4352583,1,1
+Nevada,Monitor,Wallace,WL07,31,9,point,2013,2347,0,NA,21,,9,,8,,117,39,540416,4352465,1,1
+Nevada,Monitor,Wallace,WL08,31,7,point,2013,2364,0,NA,21,,13,,13,,117,39,540747,4352367,1,1
+Nevada,Monitor,Wallace,WL09,31,9,point,2013,2423,0,NA,21,,11,,16,,136,43,541348,4352187,1,1
+Nevada,Monitor,Wallace,WL10,31,0,point,2013,2367,0,NA,21,,8,,11,,104,35,541107,4351457,1,1
+Nevada,Monitor,Wallace,WL11,31,0,point,2013,2279,0,NA,21,,19,,7,,107,36,541577,4349986,1,1
+Nevada,Monitor,Wallace,WL12,31,0,point,2013,2284,0,NA,21,,15,,13,,107,36,542209,4348896,1,1
+Nevada,Monitor,Wallace,WL13,31,0,point,2013,2272,0,NA,21,,9,,6,,107,36,543406,4347960,1,1
+Nevada,Toiyabe,Washington,WS01.1,31,16,point,2013,2133,0,NA,21,,11,,9,,58,27,476444,4334452,1,1
+Nevada,Toiyabe,Washington,WS01.2,31,7,point,2013,2188,0,NA,21,,9,,7,,112,48,477267,4334221,1,1
+Nevada,Toiyabe,Washington,WS01.3,31,5,point,2013,2212,0,NA,21,,5,,0,,112,48,477752,4334148,1,1
+Nevada,Toiyabe,Washington,WS02.1,31,7,point,2013,2252,0,NA,21,,9,,3,,112,48,478393,4333845,1,1
+Nevada,Toiyabe,Washington,WS02.2,31,14,point,2013,2269,0,NA,21,,9,,7,,112,48,478611,4333781,1,1
+Nevada,Toiyabe,Washington,WS02.3,31,5,point,2013,2295,0,NA,21,,5,,2,,112,48,478989,4333756,1,1
+Nevada,Toiyabe,Washington,WS03.1,31,9,point,2013,2332,0,NA,21,,5,,10,,112,48,479632,4333962,1,1
+Nevada,Toiyabe,Washington,WS03.2,31,11,point,2013,2352,0,NA,21,,12,,11,,112,48,479948,4334019,1,1
+Nevada,Toiyabe,Washington,WS03.3,31,1,point,2013,2395,0,NA,21,,8,,11,,218,81,480513,4334115,1,1
+Nevada,Toiyabe,Washington,WS04.1,31,4,point,2013,2443,0,NA,21,,13,,6,,218,81,481133,4333911,1,1
+Nevada,Toiyabe,Washington,WS04.2,31,3,point,2013,2485,0,NA,21,,17,,10,,218,81,481610,4333749,1,1
+Nevada,Toiyabe,Washington,WS04.3,31,5,point,2013,2503,0,NA,21,,12,,9,,218,81,481887,4333717,1,1
+Nevada,Toiyabe,Washington,WS05.1,31,0,point,2013,2539,0,NA,21,,9,,9,,218,81,482186,4333581,1,1
+Nevada,Toiyabe,Washington,WS05.2,31,0,point,2013,2570,0,NA,21,,15,,12,,218,81,482533,4333633,1,1
+Nevada,Toiyabe,Washington,WS05.3,31,5,point,2013,2585,0,NA,21,,13,,12,,218,81,482662,4333665,1,1
+Nevada,Monitor,Allison,AL14,10,0,point,2014,2285,0,NA,,,,,,,151,55,544647,4347369,1,1
+Nevada,Monitor,Allison,AL15,10,0,point,2014,2325,0,NA,,,,,,,165,60,545072,4348363,1,1
+Nevada,Monitor,Allison,AL16,10,0,point,2014,2394,0,NA,,,,,,,165,60,545895,4349257,1,1
+Nevada,Monitor,Allison,AL17,10,0,point,2014,2487,0,NA,,,,,,,165,60,547012,4351091,1,1
+Nevada,Monitor,Allison,AL18,10,0,point,2014,2397,0,NA,,,,,,,165,60,547741,4351223,1,1
+Nevada,Monitor,Allison,AL19,10,0,point,2014,2280,0,NA,,,,,,,144,52,548712,4351888,1,1
+Nevada,Monitor,Allison,AL20,10,1,point,2014,2227,0,NA,,,,,,,144,52,549703,4352135,1,1
+Nevada,Monitor,Allison,AL21,10,0,point,2014,2209,0,NA,,,,,,,144,52,549951,4352294,1,1
+Nevada,Monitor,Allison,AL22,10,0,point,2014,2179,0,NA,,,,,,,144,52,550268,4352752,1,1
+Nevada,Toquima,Antone,AN01.1,10,0,point,2014,2403,0,NA,,,,,,,202,86,508271,4280080,1,1
+Nevada,Toquima,Antone,AN01.2,10,1,point,2014,2425,0,NA,,,,,,,202,86,507742,4279834,1,1
+Nevada,Toquima,Antone,AN01.3,10,0,point,2014,2450,0,NA,,,,,,,202,86,507392,4279847,1,1
+Nevada,Toquima,Antone,AN02.1,10,0,point,2014,2486,0,NA,,,,,,,202,86,506905,4279511,1,1
+Nevada,Toquima,Antone,AN02.2,10,6,point,2014,2518,0,NA,,,,,,,202,86,506461,4279457,1,1
+Nevada,Toquima,Antone,AN03.1,10,5,point,2014,2604,0,NA,,,,,,,202,86,505591,4279341,1,1
+Nevada,Toquima,Antone,AN03.2,10,0,point,2014,2658,0,NA,,,,,,,253,114,505178,4279056,1,1
+Nevada,Toquima,Antone,AN04.1,10,0,point,2014,2735,0,NA,,,,,,,253,114,504693,4278945,1,1
+Nevada,Shoshone,Barrett,BA01.1,10,1,point,2014,2156,0,NA,,,,,,,158,60,457842,4326960,1,1
+Nevada,Shoshone,Barrett,BA01.2,10,3,point,2014,2180,0,NA,,,,,,,158,60,457435,4327193,1,1
+Nevada,Shoshone,Barrett,BA02.1,10,2,point,2014,2263,0,NA,,,,,,,158,60,456127,4327497,1,1
+Nevada,Shoshone,Barrett,BA02.2,10,0,point,2014,2282,0,NA,,,,,,,158,60,455870,4327620,1,1
+Nevada,Shoshone,Barrett,BA03.1,10,0,point,2014,2364,0,NA,,,,,,,211,80,454833,4327629,1,1
+Nevada,Shoshone,Barrett,BA03.2,10,0,point,2014,2395,0,NA,,,,,,,211,80,454493,4327634,1,1
+Nevada,Shoshone,Barrett,BA04.1,10,0,point,2014,2455,0,NA,,,,,,,211,80,453911,4327755,1,1
+Nevada,Shoshone,Barrett,BA04.2,10,0,point,2014,2468,0,NA,,,,,,,211,80,453813,4327895,1,1
+Nevada,Shoshone,Barrett,BA05.1,10,0,point,2014,2518,0,NA,,,,,,,211,80,453507,4328236,1,1
+Nevada,Shoshone,Barrett,BA05.2,10,3,point,2014,2554,0,NA,,,,,,,211,80,453312,4328349,1,1
+Nevada,Shoshone,Barrett,BA06.1,10,0,point,2014,2640,0,NA,,,,,,,194,73,453038,4328612,1,1
+Nevada,Shoshone,Barrett,BA06.2,10,3,point,2014,2679,0,NA,,,,,,,194,73,452941,4328666,1,1
+Nevada,Toiyabe,Birch,BI01.1,10,3,point,2014,1966,0,NA,,,,,,,164,60,498887,4358987,1,0.888888889
+Nevada,Toiyabe,Birch,BI01.2,10,3,point,2014,1991,0,NA,,,,,,,164,60,498570,4359048,1,0.888888889
+Nevada,Toiyabe,Birch,BI02.1,10,2,point,2014,2058,0,NA,,,,,,,266,100,497584,4359812,1,0.888888889
+Nevada,Toiyabe,Birch,BI02.2,10,4,point,2014,2105,0,NA,,,,,,,266,100,497212,4360036,1,0.888888889
+Nevada,Toiyabe,Birch,BI03.1,10,2,point,2014,2122,0,NA,,,,,,,266,100,497171,4360414,1,0.888888889
+Nevada,Toiyabe,Birch,BI03.2,10,5,point,2014,2153,0,NA,,,,,,,254,100,496976,4360740,1,0.888888889
+Nevada,Toiyabe,Birch,BI04.1,10,1,point,2014,2211,0,NA,,,,,,,254,100,496016,4362190,1,0.888888889
+Nevada,Toiyabe,Birch,BI04.2,10,5,point,2014,2231,0,NA,,,,,,,254,100,495899,4362638,1,0.888888889
+Nevada,Toiyabe,Birch,BI04.3,10,3,point,2014,2324,0,NA,,,,,,,254,100,496025,4363900,1,0.888888889
+Nevada,Toiyabe,Birch,BI0B1,10,10,point,2014,1900,1,2007,,,,,,,164,60,499898,4358107,1,0.888888889
+Nevada,Toiyabe,Birch,BI0B2,10,9,point,2014,1920,1,2007,,,,,,,164,60,499642,4358265,1,0.888888889
+Nevada,Toiyabe,Birch,BI0B3,10,10,point,2014,1929,1,2007,,,,,,,164,60,499332,4358458,1,0.888888889
+Nevada,Toiyabe,Birch,BI0B4,10,10,point,2014,1960,1,2007,,,,,,,164,60,499077,4358851,1,0.888888889
+Nevada,Toiyabe,Birch,BISG01,10,10,point,2014,1923,1,2007,,,,,,,164,60,499415,4358456,1,0.888888889
+Nevada,Toiyabe,Birch,BISG02,10,10,point,2014,1919,1,2007,,,,,,,164,60,499499,4358407,1,0.888888889
+Nevada,Toiyabe,Birch,BISG03,10,8,point,2014,1905,1,2007,,,,,,,164,60,499618,4358276,1,0.888888889
+Nevada,Toiyabe,Birch,BISG04,10,6,point,2014,1904,1,2007,,,,,,,164,60,499704,4358234,1,0.888888889
+Nevada,Toiyabe,Birch,BISG05,10,10,point,2014,1898,1,2007,,,,,,,164,60,499786,4358187,1,0.888888889
+Nevada,Toiyabe,Birch,BISG06,10,10,point,2014,1894,1,2007,,,,,,,164,60,499869,4358135,1,0.888888889
+Nevada,Toiyabe,Birch,BISG07,10,10,point,2014,1894,1,2007,,,,,,,164,60,499925,4358107,1,0.888888889
+Nevada,Toiyabe,Birch,BISG08,10,8,point,2014,1886,1,2007,,,,,,,164,60,500026,4358096,1,0.888888889
+Nevada,Monitor,Barley,BL01,10,0,point,2014,2249,0,NA,,,,,,,124,50,526371,4274731,1,1
+Nevada,Monitor,Barley,BL02,10,0,point,2014,2240,0,NA,,,,,,,124,50,526460,4275079,1,1
+Nevada,Monitor,Barley,BL03,10,0,point,2014,2225,0,NA,,,,,,,124,50,526524,4275434,1,1
+Nevada,Monitor,Barley,BL04,10,0,point,2014,2241,0,NA,,,,,,,179,69,527520,4275949,1,1
+Nevada,Monitor,Barley,BL05,10,0,point,2014,2245,0,NA,,,,,,,179,69,527839,4276098,1,1
+Nevada,Monitor,Barley,BL06,10,0,point,2014,2256,0,NA,,,,,,,179,69,528178,4276244,1,1
+Nevada,Monitor,Barley,BL07,10,0,point,2014,2258,0,NA,,,,,,,179,69,528540,4276183,1,1
+Nevada,Monitor,Barley,BL08,10,0,point,2014,2275,0,NA,,,,,,,179,69,529291,4276396,1,1
+Nevada,Monitor,Barley,BL09,10,0,point,2014,2283,0,NA,,,,,,,179,69,529636,4276547,1,1
+Nevada,Monitor,Barley,BL10,10,0,point,2014,2309,0,NA,,,,,,,179,69,530218,4277084,1,1
+Nevada,Monitor,Barley,BL11,10,0,point,2014,2318,0,NA,,,,,,,179,69,530677,4277376,1,1
+Nevada,Monitor,Barley,BL12,10,0,point,2014,2345,0,NA,,,,,,,228,83,531363,4278415,1,1
+Nevada,Monitor,Barley,BL13,10,0,point,2014,2359,0,NA,,,,,,,228,83,531457,4278622,1,1
+Nevada,Monitor,Barley,BL14,10,0,point,2014,2376,0,NA,,,,,,,228,83,531603,4278935,1,1
+Nevada,Monitor,Barley,BL15,10,0,point,2014,2389,0,NA,,,,,,,228,83,531506,4279427,1,1
+Nevada,Monitor,Charnoc North,CBN01,10,0,point,2014,2422,0,NA,,,,,,,165,60,546194,4349269,1,1
+Nevada,Monitor,Charnoc North,CBN02,10,0,point,2014,2457,0,NA,,,,,,,165,60,546476,4349215,1,1
+Nevada,Monitor,Charnoc North,CBN04,10,0,point,2014,2425,0,NA,,,,,,,165,60,546131,4350086,1,1
+Nevada,Monitor,Charnoc North,CBN05,10,0,point,2014,2413,0,NA,,,,,,,165,60,546053,4349771,1,1
+Nevada,Monitor,Charnoc North,CBNSG01,10,0,point,2014,2446,0,NA,,,,,,,165,60,546077,4349281,1,1
+Nevada,Monitor,Charnoc North,CBNSG02,10,0,point,2014,2446,0,NA,,,,,,,165,60,546176,4349266,1,1
+Nevada,Monitor,Charnoc North,CBNSG03,10,0,point,2014,2446,0,NA,,,,,,,165,60,546070,4349248,1,1
+Nevada,Monitor,Charnoc North,CBNSG04,10,0,point,2014,2446,0,NA,,,,,,,165,60,546169,4349237,1,1
+Nevada,Monitor,Charnoc North,CBNSG05,10,0,point,2014,2446,0,NA,,,,,,,165,60,546221,4349275,1,1
+Nevada,Monitor,Charnoc North,CBNSG06,10,0,point,2014,2446,0,NA,,,,,,,165,60,546311,4349239,1,1
+Nevada,Monitor,Charnoc North,CBNSG07,10,0,point,2014,2445,0,NA,,,,,,,165,60,546221,4349242,1,1
+Nevada,Monitor,Charnoc North,CBNSG08,10,0,point,2014,2446,0,NA,,,,,,,165,60,546312,4349205,1,1
+Nevada,Monitor,Charnoc North,CBNSG09,10,0,point,2014,2446,0,NA,,,,,,,165,60,546120,4350090,1,1
+Nevada,Monitor,Charnoc North,CBNSG10,10,0,point,2014,2446,0,NA,,,,,,,165,60,546108,4349991,1,1
+Nevada,Monitor,Charnoc North,CBNSG11,10,0,point,2014,2445,0,NA,,,,,,,165,60,546083,4350089,1,1
+Nevada,Monitor,Charnoc North,CBNSG12,10,0,point,2014,2445,0,NA,,,,,,,165,60,546079,4349994,1,1
+Nevada,Monitor,Charnoc North,CBNSG13,10,0,point,2014,2446,0,NA,,,,,,,165,60,546054,4349785,1,1
+Nevada,Monitor,Charnoc North,CBNSG14,10,0,point,2014,2446,0,NA,,,,,,,165,60,546035,4349684,1,1
+Nevada,Monitor,Charnoc North,CBNSG15,10,0,point,2014,2446,0,NA,,,,,,,165,60,546048,4349787,1,1
+Nevada,Monitor,Charnoc North,CBNSG16,10,0,point,2014,2447,0,NA,,,,,,,165,60,546022,4349688,1,1
+Nevada,Monitor,Charnoc South,CBS01,10,0,point,2014,2341,0,NA,,,,,,,162,59,545790,4345796,1,1
+Nevada,Monitor,Charnoc South,CBS02,10,0,point,2014,2339,0,NA,,,,,,,162,59,545551,4345989,1,1
+Nevada,Monitor,Charnoc South,CBS03,10,0,point,2014,2328,0,NA,,,,,,,162,59,545275,4346025,1,1
+Nevada,Monitor,Charnoc South,CBS04,10,0,point,2014,2330,0,NA,,,,,,,162,59,545075,4346243,1,1
+Nevada,Monitor,Charnoc South,CBS05,10,0,point,2014,2336,0,NA,,,,,,,162,59,544990,4346534,1,1
+Nevada,Monitor,Charnoc South,CBSSG01,10,0,point,2014,2414,0,NA,,,,,,,162,59,545790,4345796,1,1
+Nevada,Monitor,Charnoc South,CBSSG02,10,0,point,2014,2414,0,NA,,,,,,,162,59,545720,4345865,1,1
+Nevada,Monitor,Charnoc South,CBSSG03,10,0,point,2014,2414,0,NA,,,,,,,162,59,545769,4345787,1,1
+Nevada,Monitor,Charnoc South,CBSSG04,10,0,point,2014,2414,0,NA,,,,,,,162,59,545692,4345851,1,1
+Nevada,Monitor,Charnoc South,CBSSG05,10,0,point,2014,2386,0,NA,,,,,,,162,59,545686,4345898,1,1
+Nevada,Monitor,Charnoc South,CBSSG06,10,0,point,2014,2388,0,NA,,,,,,,162,59,545606,4345967,1,1
+Nevada,Monitor,Charnoc South,CBSSG07,10,0,point,2014,2391,0,NA,,,,,,,162,59,545681,4345895,1,1
+Nevada,Monitor,Charnoc South,CBSSG08,10,0,point,2014,2392,0,NA,,,,,,,162,59,545608,4345956,1,1
+Nevada,Monitor,Charnoc South,CBSSG09,10,0,point,2014,2393,0,NA,,,,,,,162,59,545553,4345981,1,1
+Nevada,Monitor,Charnoc South,CBSSG10,10,0,point,2014,2393,0,NA,,,,,,,162,59,545475,4346035,1,1
+Nevada,Monitor,Charnoc South,CBSSG11,10,0,point,2014,2394,0,NA,,,,,,,162,59,545565,4346000,1,1
+Nevada,Monitor,Charnoc South,CBSSG12,10,0,point,2014,2395,0,NA,,,,,,,162,59,545485,4346054,1,1
+Nevada,Monitor,Charnoc South,CBSSG13,10,0,point,2014,2396,0,NA,,,,,,,162,59,545077,4346261,1,1
+Nevada,Monitor,Charnoc South,CBSSG14,10,0,point,2014,2396,0,NA,,,,,,,162,59,545099,4346352,1,1
+Nevada,Monitor,Charnoc South,CBSSG15,10,0,point,2014,2397,0,NA,,,,,,,162,59,545098,4346257,1,1
+Nevada,Monitor,Charnoc South,CBSSG16,10,0,point,2014,2397,0,NA,,,,,,,162,59,545119,4346352,1,1
+Nevada,Monitor,Dobbin East,DE05.1,10,0,point,2014,2640,0,NA,,,,,,,218,81,542202,4310091,0,0.111111111
+Nevada,Monitor,Dobbin East,DE05.2,10,0,point,2014,2614,0,NA,,,,,,,188,72,542034,4309778,0,0.111111111
+Nevada,Monitor,Dobbin East,DE05.3,10,4,point,2014,2546,0,NA,,,,,,,188,72,542287,4309074,0,0.111111111
+Nevada,Monitor,Dobbin East,DE06.1,10,3,point,2014,2486,0,NA,,,,,,,188,72,542619,4308317,0,0.111111111
+Nevada,Monitor,Dobbin East,DE06.2,10,0,point,2014,2437,0,NA,,,,,,,188,72,543285,4307564,0,0.111111111
+Nevada,Monitor,Dobbin East,DE06.3,10,0,point,2014,2375,0,NA,,,,,,,188,72,544055,4306636,0,0.111111111
+Nevada,Monitor,Dobbin East,DE07.1,10,0,point,2014,2334,0,NA,,,,,,,188,72,544410,4306641,0,0.111111111
+Nevada,Monitor,Dobbin East,DE07.2,10,0,point,2014,2279,0,NA,,,,,,,188,72,544812,4306347,0,0.111111111
+Nevada,Monitor,Dobbin East,DE07.3,10,0,point,2014,2283,0,NA,,,,,,,188,72,544582,4305903,0,0.111111111
+Nevada,Monitor,Dobbin West,DW01.1,10,0,point,2014,2258,0,NA,,,,,,,120,48,537501,4315491,0,0.111111111
+Nevada,Monitor,Dobbin West,DW01.2,10,0,point,2014,2311,0,NA,,,,,,,162,63,538162,4314128,0,0.111111111
+Nevada,Monitor,Dobbin West,DW02.1,10,0,point,2014,2356,0,NA,,,,,,,162,63,538838,4313180,0,0.111111111
+Nevada,Monitor,Dobbin West,DW02.2,10,0,point,2014,2394,0,NA,,,,,,,162,63,539670,4312535,0,0.111111111
+Nevada,Monitor,Dobbin West,DW03.1,10,0,point,2014,2416,0,NA,,,,,,,162,63,539960,4312319,0,0.111111111
+Nevada,Monitor,Dobbin West,DW03.2,10,0,point,2014,2438,0,NA,,,,,,,162,63,540419,4312155,0,0.111111111
+Nevada,Monitor,Dobbin West,DW03.3,10,0,point,2014,2480,0,NA,,,,,,,218,81,541818,4311882,0,0.111111111
+Nevada,Monitor,Dobbin West,DW04.1,10,0,point,2014,2568,0,NA,,,,,,,218,81,542293,4310862,0,0.111111111
+Nevada,Monitor,Dobbin West,DW04.2,10,0,point,2014,2611,0,NA,,,,,,,218,81,542325,4310390,0,0.111111111
+Nevada,Monitor,Elkhorn,EH01,10,9,point,2014,2275,1,2009,,,,,,,163,65,530390,4271303,1,1
+Nevada,Monitor,Elkhorn,EH02,10,10,point,2014,2318,1,2009,,,,,,,163,65,530128,4271033,1,1
+Nevada,Monitor,Elkhorn,EH03,10,9,point,2014,2334,1,2009,,,,,,,163,65,530010,4271331,1,1
+Nevada,Monitor,Elkhorn,EH04,10,7,point,2014,2351,1,2009,,,,,,,163,65,530210,4271544,1,1
+Nevada,Monitor,Elkhorn,EHSG01,10,8,point,2014,2307,1,2009,,,,,,,163,65,530111,4271108,1,1
+Nevada,Monitor,Elkhorn,EHSG02,10,10,point,2014,2302,1,2009,,,,,,,163,65,530200,4271151,1,1
+Nevada,Monitor,Elkhorn,EHSG03,10,10,point,2014,2307,1,2009,,,,,,,163,65,530086,4271145,1,1
+Nevada,Monitor,Elkhorn,EHSG04,10,10,point,2014,2297,1,2009,,,,,,,163,65,530178,4271179,1,1
+Nevada,Monitor,Elkhorn,EHSG05,10,10,point,2014,2319,1,2009,,,,,,,163,65,530018,4271269,1,1
+Nevada,Monitor,Elkhorn,EHSG06,10,10,point,2014,2304,1,2009,,,,,,,163,65,530114,4271251,1,1
+Nevada,Monitor,Elkhorn,EHSG07,10,10,point,2014,2320,1,2009,,,,,,,163,65,530069,4271532,1,1
+Nevada,Monitor,Elkhorn,EHSG08,10,10,point,2014,2305,1,2009,,,,,,,163,65,530110,4271438,1,1
+Nevada,Monitor,Elkhorn,EHSG09,10,8,point,2014,2325,1,2009,,,,,,,163,65,530100,4271548,1,1
+Nevada,Monitor,Elkhorn,EHSG10,10,8,point,2014,2314,1,2009,,,,,,,163,65,530130,4271450,1,1
+Nevada,Toiyabe,Grass Springs,GS01,10,10,point,2014,2179,1,2006,,12,,9,,,182,73,498568,4370386,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GS02,10,10,point,2014,2134,1,2006,,12,,6,,,182,73,498766,4370378,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GS03,10,8,point,2014,2085,1,2006,,2,,6,,,182,73,499376,4370360,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GS04,10,9,point,2014,2079,1,2006,,0,,0,,,182,73,499391,4370537,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GS05,10,10,point,2014,2087,1,2006,,16,,19,,,182,73,499165,4370619,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GS06,10,10,point,2014,2108,1,2006,,12,,19,,,182,73,498953,4370678,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GS07,10,10,point,2014,2145,1,2006,,11,,0,,,182,73,498729,4370665,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GS08,10,10,point,2014,2129,1,2006,,16,,13,,,182,73,498840,4370884,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GS09,10,10,point,2014,2078,1,2006,,6,,6,,,182,73,499234,4371042,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GS10,10,10,point,2014,2062,1,2006,,6,,19,,,182,73,499449,4370812,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG01,10,7,point,2014,2089,1,2006,,,,,,,182,73,499141,4370513,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG02,10,10,point,2014,2091,1,2006,,,,,,,182,73,499116,4370414,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG03,10,10,point,2014,2090,1,2006,,,,,,,182,73,499107,4370515,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG04,10,10,point,2014,2095,1,2006,,,,,,,182,73,499080,4370419,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG05,10,10,point,2014,2097,1,2006,,,,,,,182,73,499043,4370518,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG06,10,10,point,2014,2099,1,2006,,,,,,,182,73,499014,4370426,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG07,10,9,point,2014,2099,1,2006,,,,,,,182,73,499008,4370531,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG08,10,10,point,2014,2104,1,2006,,,,,,,182,73,498976,4370428,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG09,10,10,point,2014,2112,1,2006,,,,,,,182,73,498935,4370523,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG10,10,10,point,2014,2109,1,2006,,,,,,,182,73,498927,4370418,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG11,10,10,point,2014,2117,1,2006,,,,,,,182,73,498902,4370511,1,0.888888889
+Nevada,Toiyabe,Grass Springs,GSSG12,10,10,point,2014,2110,1,2006,,,,,,,182,73,498892,4370412,1,0.888888889
+Nevada,Toiyabe,Jett,JE01.1,10,3,point,2014,1972,0,NA,,,,,,,88,30,481292,4286426,0,0
+Nevada,Toiyabe,Jett,JE01.2,10,2,point,2014,1978,0,NA,,,,,,,88,30,480943,4286510,0,0
+Nevada,Toiyabe,Jett,JE01.3,10,0,point,2014,2016,0,NA,,,,,,,88,30,480602,4286575,0,0
+Nevada,Toiyabe,Jett,JE02.1,10,0,point,2014,2051,0,NA,,,,,,,191,100,480042,4286915,0,0
+Nevada,Toiyabe,Jett,JE02.2,10,0,point,2014,2085,0,NA,,,,,,,191,100,479554,4287084,0,0
+Nevada,Toiyabe,Jett,JE02.3,10,0,point,2014,2115,0,NA,,,,,,,191,100,479032,4287356,0,0
+Nevada,Toiyabe,Jett,JE03.1,10,0,point,2014,2143,0,NA,,,,,,,191,100,478738,4287599,0,0
+Nevada,Toiyabe,Jett,JE03.2,10,0,point,2014,2156,0,NA,,,,,,,191,100,478552,4287654,0,0
+Nevada,Toiyabe,Jett,JE03.3,10,0,point,2014,2190,0,NA,,,,,,,191,100,478243,4287949,0,0
+Nevada,Toquima,Meadow,MD01.1,10,0,point,2014,2259,0,NA,,,,,,,169,72,512295,4277782,1,1
+Nevada,Toquima,Meadow,MD01.2,10,2,point,2014,2273,0,NA,,,,,,,169,72,511844,4278222,1,1
+Nevada,Toquima,Meadow,MD01.3,10,0,point,2014,2302,0,NA,,,,,,,169,72,511062,4279066,1,1
+Nevada,Toquima,Meadow,MD02.1,10,0,point,2014,2342,0,NA,,,,,,,169,72,510018,4280073,1,1
+Nevada,Toquima,Meadow,MD02.2,10,0,point,2014,2368,0,NA,,,,,,,169,72,509176,4280604,1,1
+Nevada,Toquima,Meadow,MD02.3,10,0,point,2014,2384,0,NA,,,,,,,202,86,508562,4281002,1,1
+Nevada,Toquima,Meadow,MD03.1,10,0,point,2014,2447,0,NA,,,,,,,214,91,507148,4282357,1,1
+Nevada,Toquima,Meadow,MD03.2,10,0,point,2014,2495,0,NA,,,,,,,214,91,506561,4282170,1,1
+Nevada,Toquima,Meadow,MD04.1,10,0,point,2014,2577,0,NA,,,,,,,202,86,505955,4281915,1,1
+Nevada,Toquima,Meadow,MD04.2,10,0,point,2014,2619,0,NA,,,,,,,214,91,505683,4282116,1,1
+Nevada,Toquima,Meadow,MD05.1,10,0,point,2014,2660,0,NA,,,,,,,214,91,505506,4282528,1,1
+Nevada,Toquima,Meadow,MD05.2,10,0,point,2014,2674,0,NA,,,,,,,206,91,505212,4282660,1,1
+Nevada,Toiyabe,Ophir,OP01.1,10,5,point,2014,1969,0,NA,,,,,,,125,51,478608,4310154,0,0
+Nevada,Toiyabe,Ophir,OP01.2,10,2,point,2014,2033,0,NA,,,,,,,125,51,478207,4310375,0,0
+Nevada,Toiyabe,Ophir,OP02.1,10,1,point,2014,2093,0,NA,,,,,,,125,51,477850,4310416,0,0
+Nevada,Toiyabe,Ophir,OP02.2,10,1,point,2014,2167,0,NA,,,,,,,125,51,477519,4310331,0,0
+Nevada,Toiyabe,Ophir,OP03.1,10,1,point,2014,2248,0,NA,,,,,,,125,51,477123,4310512,0,0
+Nevada,Toiyabe,Ophir,OP03.2,10,1,point,2014,2278,0,NA,,,,,,,125,51,476818,4310735,0,0
+Nevada,Toiyabe,Ophir,OP04.1,10,3,point,2014,2368,0,NA,,,,,,,252,99,475875,4310641,0,0
+Nevada,Toiyabe,Ophir,OP05.1,10,5,point,2014,2415,0,NA,,,,,,,252,99,475407,4310665,0,0
+Nevada,Toiyabe,Ophir,OP05.2,10,0,point,2014,2477,0,NA,,,,,,,252,99,474938,4310724,0,0
+Nevada,Toiyabe,Ophir,OP06.1,10,0,point,2014,2558,0,NA,,,,,,,252,99,474322,4310756,0,0
+Nevada,Toiyabe,Ophir,OP06.2,10,0,point,2014,2626,0,NA,,,,,,,252,99,473902,4310610,0,0
+Nevada,Toiyabe,Ophir,OP07.1,10,0,point,2014,2688,0,NA,,,,,,,252,99,473586,4310655,0,0
+Nevada,Toiyabe,Ophir,OP08.1,10,0,point,2014,2822,0,NA,,,,,,,252,99,473340,4310304,0,0
+Nevada,Toiyabe,Ophir,OP09.1,10,0,point,2014,2888,0,NA,,,,,,,252,99,473110,4310337,0,0
+Nevada,Toiyabe,Ophir,OP09.2,10,0,point,2014,2981,0,NA,,,,,,,254,102,472702,4310313,0,0
+Nevada,Shoshone,Riley,RI01.1,10,7,point,2014,2065,0,NA,,,,,,,140,53,463233,4329300,1,1
+Nevada,Shoshone,Riley,RI01.2,10,3,point,2014,2115,0,NA,,,,,,,140,53,462743,4329787,1,1
+Nevada,Shoshone,Riley,RI02.1,10,0,point,2014,2147,0,NA,,,,,,,140,53,462578,4330360,1,1
+Nevada,Shoshone,Riley,RI02.2,10,0,point,2014,2182,0,NA,,,,,,,140,53,462370,4330938,1,1
+Nevada,Shoshone,Riley,RI03.1,10,0,point,2014,2259,0,NA,,,,,,,140,53,462568,4332105,1,1
+Nevada,Shoshone,Riley,RI03.2,10,0,point,2014,2305,0,NA,,,,,,,140,53,462716,4332560,1,1
+Nevada,Shoshone,Riley,RI04.1,10,0,point,2014,2368,0,NA,,,,,,,182,68,462527,4333413,1,1
+Nevada,Shoshone,Riley,RI04.2,10,0,point,2014,2412,0,NA,,,,,,,182,68,462424,4334066,1,1
+Nevada,Shoshone,Riley,RI05.1,10,0,point,2014,2483,0,NA,,,,,,,249,92,462019,4334785,1,1
+Nevada,Shoshone,Riley,RI05.2,10,1,point,2014,2545,0,NA,,,,,,,182,68,462451,4334910,1,1
+Nevada,Monitor,Ryegrass,RY01,10,0,point,2014,2144,0,NA,,,,,,,127,47,550541,4337427,1,1
+Nevada,Monitor,Ryegrass,RY02,10,0,point,2014,2186,0,NA,,,,,,,127,47,549231,4336911,1,1
+Nevada,Monitor,Ryegrass,RY03,10,0,point,2014,2235,0,NA,,,,,,,165,61,547857,4337274,1,1
+Nevada,Monitor,Ryegrass,RY04,10,0,point,2014,2283,0,NA,,,,,,,148,54,546829,4337745,1,1
+Nevada,Monitor,Ryegrass,RY05,10,0,point,2014,2337,0,NA,,,,,,,165,61,545857,4337650,1,1
+Nevada,Monitor,Ryegrass,RY06,10,0,point,2014,2399,0,NA,,,,,,,148,54,545188,4338026,1,1
+Nevada,Monitor,Ryegrass,RY07,10,0,point,2014,2412,0,NA,,,,,,,149,55,544472,4338787,1,1
+Nevada,Toiyabe,Summit,SU01.1,10,2,point,2014,1989,0,NA,,,,,,,125,51,479257,4313358,0,0
+Nevada,Toiyabe,Summit,SU01.2,8,0,point,2014,2072,0,NA,,,,,,,125,51,478677,4313528,0,0
+Nevada,Toiyabe,Summit,SU02.1,10,4,point,2014,2125,0,NA,,,,,,,125,51,478370,4313751,0,0
+Nevada,Toiyabe,Summit,SU02.2,10,0,point,2014,2146,0,NA,,,,,,,125,51,478226,4313749,0,0
+Nevada,Toiyabe,Summit,SU03.1,10,3,point,2014,2280,0,NA,,,,,,,125,51,477620,4314075,0,0
+Nevada,Toiyabe,Summit,SU03.2,10,0,point,2014,2311,0,NA,,,,,,,125,51,477277,4314119,0,0
+Nevada,Toiyabe,Summit,SU04.1,10,0,point,2014,2350,0,NA,,,,,,,125,51,476898,4314091,0,0
+Nevada,Toiyabe,Summit,SU04.2,10,0,point,2014,2409,0,NA,,,,,,,252,99,476402,4314164,0,0
+Nevada,Toiyabe,Summit,SU05.1,10,6,point,2014,2468,0,NA,,,,,,,250,95,476069,4314635,0,0
+Nevada,Toiyabe,Summit,SU05.2,10,0,point,2014,2523,0,NA,,,,,,,250,95,475934,4314998,0,0
+Nevada,Toiyabe,Summit,SU06.1,10,0,point,2014,2575,0,NA,,,,,,,250,95,475658,4315078,0,0
+Nevada,Toiyabe,Summit,SU06.2,6,2,point,2014,2587,0,NA,,,,,,,250,95,475781,4314913,0,0
+Nevada,Toiyabe,Stewart,SW00.1,10,2,point,2014,2605,0,NA,,,,,,,203,86,467063,4305943,0,0
+Nevada,Toiyabe,Stewart,SW01.1,10,0,point,2014,2635,0,NA,,,,,,,203,86,467308,4305727,0,0
+Nevada,Toiyabe,Stewart,SW01.2,10,0,point,2014,2667,0,NA,,,,,,,203,86,467478,4305383,0,0
+Nevada,Toiyabe,Stewart,SW02.1,10,0,point,2014,2731,0,NA,,,,,,,285,130,467712,4305124,0,0
+Nevada,Toiyabe,Stewart,SW02.2,10,0,point,2014,2795,0,NA,,,,,,,285,130,467930,4304901,0,0
+Nevada,Toiyabe,Stewart,SW03.1,10,0,point,2014,2854,0,NA,,,,,,,285,130,468386,4304751,0,0
+Nevada,Toiyabe,Stewart,SW03.2,10,0,point,2014,2897,0,NA,,,,,,,285,130,468645,4304499,0,0
+Nevada,Toiyabe,Stewart,SW04.1,10,0,point,2014,2950,0,NA,,,,,,,285,130,468921,4304312,0,0
+Nevada,Toiyabe,Stewart,SW05.1,10,0,point,2014,3017,0,NA,,,,,,,285,130,469128,4304223,0,0
+Nevada,Toiyabe,Stewart,SW05.2,10,0,point,2014,3067,0,NA,,,,,,,285,130,469271,4304135,0,0
+Nevada,Toiyabe,Stewart,SW06.1,10,0,point,2014,3162,0,NA,,,,,,,280,132,469408,4303832,0,0
+Nevada,Toiyabe,Stewart,SW06.2,10,0,point,2014,3219,0,NA,,,,,,,280,132,469437,4303521,0,0
+Nevada,Shoshone,Underdown,UN01.1,10,0,point,2014,2027,0,NA,,,,,,,111,46,466955,4334270,1,1
+Nevada,Shoshone,Underdown,UN01.2,10,0,point,2014,2062,0,NA,,,,,,,111,46,466507,4334325,1,1
+Nevada,Shoshone,Underdown,UN02.1,10,1,point,2014,2114,0,NA,,,,,,,111,46,465834,4334717,1,1
+Nevada,Shoshone,Underdown,UN02.2,10,4,point,2014,2147,1,2002,,,,,,,182,68,465345,4334870,1,1
+Nevada,Shoshone,Underdown,UN03.1,10,9,point,2014,2207,1,2002,,,,,,,182,68,464392,4335151,1,1
+Nevada,Shoshone,Underdown,UN03.2,10,4,point,2014,2246,1,2005,,,,,,,182,68,463859,4335420,1,1
+Nevada,Shoshone,Underdown,UN04.1,10,2,point,2014,2296,0,NA,,,,,,,182,68,463046,4335553,1,1
+Nevada,Shoshone,Underdown,UN04.2,10,2,point,2014,2365,0,NA,,,,,,,249,92,462172,4336062,1,1
+Nevada,Shoshone,Underdown,UN05.1,10,0,point,2014,2424,0,NA,,,,,,,249,92,461858,4335606,1,1
+Nevada,Shoshone,Underdown,UN05.2,10,0,point,2014,2506,0,NA,,,,,,,249,92,461771,4334944,1,1
+Nevada,Shoshone,Underdown,UN06.1,10,0,point,2014,2569,0,NA,,,,,,,249,92,461400,4334852,1,1
+Nevada,Shoshone,Underdown,UN06.2,10,0,point,2014,2591,0,NA,,,,,,,249,92,461304,4334523,1,1
+Nevada,Shoshone,Underdown,UN07.1,10,0,point,2014,2634,0,NA,,,,,,,249,92,461094,4334514,1,1
+Nevada,Shoshone,Underdown,UN07.2,10,0,point,2014,2657,0,NA,,,,,,,249,92,461002,4334601,1,1
+Nevada,Shoshone,Underdown,UN0B1,10,5,point,2014,2083,1,2005,,20,,19,,,111,46,466208,4334493,1,1
+Nevada,Shoshone,Underdown,UN0B2,10,4,point,2014,2129,1,2005,,15,,15,,,182,68,465679,4334701,1,1
+Nevada,Shoshone,Underdown,UN0B3,10,7,point,2014,2135,1,2005,,4,,12,,,182,68,465579,4334726,1,1
+Nevada,Shoshone,Underdown,UN0B4,10,9,point,2014,2137,1,2005,,1,,13,,,182,68,465472,4334801,1,1
+Nevada,Shoshone,Underdown,UN0B5,10,8,point,2014,2231,1,2005,,18,,21,,,182,68,464142,4335228,1,1
+Nevada,Shoshone,Underdown,UN0B6,10,1,point,2014,2245,1,2005,,5,,19,,,182,68,463923,4335318,1,1
+Nevada,Shoshone,Underdown,UN0B7,10,8,point,2014,2259,1,2005,,11,,21,,,182,68,463704,4335430,1,1
+Nevada,Toiyabe,Wall,WA01.1,10,1,point,2014,1938,0,NA,,,,,,,79,26,480640,4281421,1,1
+Nevada,Toiyabe,Wall,WA01.2,10,0,point,2014,1984,0,NA,,,,,,,124,56,479744,4281663,1,1
+Nevada,Toiyabe,Wall,WA02.1,10,1,point,2014,2037,0,NA,,,,,,,124,56,478861,4281929,1,1
+Nevada,Toiyabe,Wall,WA02.2,10,0,point,2014,2087,0,NA,,,,,,,130,60,478012,4282228,1,1
+Nevada,Toiyabe,Wall,WA03.1,10,4,point,2014,2151,1,2001,,,,,,,130,60,477057,4282690,1,1
+Nevada,Toiyabe,Wall,WA03.2,10,8,point,2014,2201,1,2001,,,,,,,130,60,476504,4283065,1,1
+Nevada,Toiyabe,Wall,WA04.1,10,8,point,2014,2260,0,NA,,,,,,,172,85,475818,4283922,1,1
+Nevada,Toiyabe,Wall,WA05.1,10,8,point,2014,2356,1,2001,,,,,,,172,85,474874,4284514,1,1
+Nevada,Toiyabe,Wall,WA06.1,10,2,point,2014,2405,1,2001,,,,,,,172,85,474931,4284883,1,1
+Nevada,Toiyabe,Wall,WA0B1,10,10,point,2014,2174,1,2001,,,,,,,130,60,476751,4282806,1,1
+Nevada,Toiyabe,Wall,WA0B2,10,8,point,2014,2212,1,2001,,,,,,,172,85,476381,4283210,1,1
+Nevada,Toiyabe,Wall,WA0B3,10,4,point,2014,2227,1,2001,,,,,,,172,85,476328,4283496,1,1
+Nevada,Toiyabe,Wall,WA0B4,10,2,point,2014,2263,1,2001,,,,,,,172,85,475964,4283880,1,1
+Nevada,Toiyabe,Wall,WA0B5,10,8,point,2014,2267,1,2001,,,,,,,172,85,475713,4283998,1,1
+Nevada,Toiyabe,Wall,WA0B6,10,9,point,2014,2321,1,2001,,,,,,,172,85,475182,4284300,1,1
+Nevada,Toiyabe,Wall,WA0B7,10,8,point,2014,2372,1,2001,,,,,,,172,85,474706,4284574,1,1
+Nevada,Toiyabe,Wall,WASG01,10,10,point,2014,2191,1,2001,,,,,,,130,60,476468,4282887,1,1
+Nevada,Toiyabe,Wall,WASG02,10,9,point,2014,2203,1,2001,,,,,,,130,60,476418,4282970,1,1
+Nevada,Toiyabe,Wall,WASG03,10,9,point,2014,2192,1,2001,,,,,,,130,60,476446,4282875,1,1
+Nevada,Toiyabe,Wall,WASG04,10,10,point,2014,2198,1,2001,,,,,,,130,60,476388,4282949,1,1
+Nevada,Toiyabe,Wall,WASG05,10,8,point,2014,2207,1,2001,,,,,,,130,60,476385,4282641,1,1
+Nevada,Toiyabe,Wall,WASG06,10,8,point,2014,2206,1,2001,,,,,,,130,60,476441,4282701,1,1
+Nevada,Toiyabe,Wall,WASG07,10,10,point,2014,2208,1,2001,,,,,,,130,60,476388,4282739,1,1
+Nevada,Toiyabe,Wall,WASG08,10,8,point,2014,2214,1,2001,,,,,,,130,60,476355,4282651,1,1
+Nevada,Toiyabe,Wall,WASG09,10,10,point,2014,2243,1,2001,,,,,,,172,85,475918,4283782,1,1
+Nevada,Toiyabe,Wall,WASG10,10,9,point,2014,2265,1,2001,,,,,,,172,85,475822,4283733,1,1
+Nevada,Toiyabe,Wall,WASG11,10,8,point,2014,2254,1,2001,,,,,,,172,85,475820,4283864,1,1
+Nevada,Toiyabe,Wall,WASG12,10,10,point,2014,2268,1,2001,,,,,,,172,85,475741,4283805,1,1
+Nevada,Monitor,White Sage,WH08,10,0,point,2014,2320,0,NA,,,,,,,149,55,543778,4339804,1,1
+Nevada,Monitor,White Sage,WH09,10,0,point,2014,2253,0,NA,,,,,,,149,55,541940,4339565,1,1
+Nevada,Monitor,White Sage,WH10,10,0,point,2014,2205,0,NA,,,,,,,134,49,540988,4337578,1,1
+Nevada,Monitor,White Sage,WH11,10,0,point,2014,2177,0,NA,,,,,,,134,49,540694,4336326,1,0.888888889
+Nevada,Monitor,White Sage,WH12,10,0,point,2014,2163,0,NA,,,,,,,134,49,540593,4335579,1,0.888888889
+Nevada,Monitor,White Sage,WH13,10,0,point,2014,2117,0,NA,,,,,,,123,46,539964,4332918,1,0.888888889
+Nevada,Monitor,Wallace,WL01,10,1,point,2014,2134,0,NA,,,,,,,129,48,536931,4350156,1,0.888888889
+Nevada,Monitor,Wallace,WL02,10,1,point,2014,2155,0,NA,,,,,,,129,48,537285,4350420,1,0.888888889
+Nevada,Monitor,Wallace,WL03,10,0,point,2014,2164,0,NA,,,,,,,129,48,537523,4350763,1,0.888888889
+Nevada,Monitor,Wallace,WL04,10,0,point,2014,2204,0,NA,,,,,,,163,58,538368,4351727,1,1
+Nevada,Monitor,Wallace,WL05,10,2,point,2014,2313,0,NA,,,,,,,163,58,539890,4352610,1,1
+Nevada,Monitor,Wallace,WL06,10,0,point,2014,2327,0,NA,,,,,,,163,58,540147,4352583,1,1
+Nevada,Monitor,Wallace,WL07,10,3,point,2014,2347,0,NA,,,,,,,163,58,540416,4352465,1,1
+Nevada,Monitor,Wallace,WL08,10,3,point,2014,2364,0,NA,,,,,,,163,58,540747,4352367,1,1
+Nevada,Monitor,Wallace,WL09,10,1,point,2014,2423,0,NA,,,,,,,178,64,541348,4352187,1,1
+Nevada,Monitor,Wallace,WL10,10,0,point,2014,2367,0,NA,,,,,,,148,54,541107,4351457,1,1
+Nevada,Monitor,Wallace,WL11,10,0,point,2014,2279,0,NA,,,,,,,151,55,541577,4349986,1,1
+Nevada,Monitor,Wallace,WL12,10,0,point,2014,2284,0,NA,,,,,,,151,55,542209,4348896,1,1
+Nevada,Monitor,Wallace,WL13,10,0,point,2014,2272,0,NA,,,,,,,151,55,543406,4347960,1,1
+Nevada,Monitor,Allison,AL14,10,0,point,2015,2285,0,NA,,,,,,,68,102,544647,4347369,1,1
+Nevada,Monitor,Allison,AL15,10,0,point,2015,2325,0,NA,,,,,,,79,108,545072,4348363,1,1
+Nevada,Monitor,Allison,AL16,10,0,point,2015,2394,0,NA,,,,,,,79,108,545895,4349257,1,1
+Nevada,Monitor,Allison,AL17,10,0,point,2015,2487,0,NA,,,,,,,79,108,547012,4351091,1,1
+Nevada,Monitor,Allison,AL18,10,0,point,2015,2397,0,NA,,,,,,,79,108,547741,4351223,1,1
+Nevada,Monitor,Allison,AL19,10,0,point,2015,2280,0,NA,,,,,,,65,98,548712,4351888,1,1
+Nevada,Monitor,Allison,AL20,10,0,point,2015,2227,0,NA,,,,,,,65,98,549703,4352135,1,1
+Nevada,Monitor,Allison,AL21,10,0,point,2015,2209,0,NA,,,,,,,65,98,549951,4352294,1,1
+Nevada,Monitor,Allison,AL22,10,0,point,2015,2179,0,NA,,,,,,,65,98,550268,4352752,1,1
+Nevada,Toquima,Antone,AN01.1,10,0,point,2015,2403,0,NA,,,,,,,129,135,508271,4280080,1,1
+Nevada,Toquima,Antone,AN01.2,10,0,point,2015,2425,0,NA,,,,,,,129,135,507742,4279834,1,1
+Nevada,Toquima,Antone,AN01.3,10,0,point,2015,2450,0,NA,,,,,,,129,135,507392,4279847,1,1
+Nevada,Toquima,Antone,AN02.1,10,0,point,2015,2486,0,NA,,,,,,,129,135,506905,4279511,1,1
+Nevada,Toquima,Antone,AN02.2,10,4,point,2015,2518,0,NA,,,,,,,129,135,506461,4279457,1,1
+Nevada,Toquima,Antone,AN03.1,10,5,point,2015,2604,0,NA,,,,,,,129,135,505591,4279341,1,1
+Nevada,Toquima,Antone,AN03.2,10,0,point,2015,2658,0,NA,,,,,,,164,164,505178,4279056,1,1
+Nevada,Toquima,Antone,AN04.1,10,0,point,2015,2735,0,NA,,,,,,,164,164,504693,4278945,1,1
+Nevada,Shoshone,Barrett,BA01.1,10,0,point,2015,2156,0,NA,,,,,,,82,117,457842,4326960,1,1
+Nevada,Shoshone,Barrett,BA01.2,10,4,point,2015,2180,0,NA,,,,,,,82,117,457435,4327193,1,1
+Nevada,Shoshone,Barrett,BA02.1,10,3,point,2015,2263,0,NA,,,,,,,82,117,456127,4327497,1,1
+Nevada,Shoshone,Barrett,BA02.2,10,2,point,2015,2282,0,NA,,,,,,,82,117,455870,4327620,1,1
+Nevada,Shoshone,Barrett,BA03.1,10,0,point,2015,2364,0,NA,,,,,,,122,142,454833,4327629,1,1
+Nevada,Shoshone,Barrett,BA03.2,10,2,point,2015,2395,0,NA,,,,,,,122,142,454493,4327634,1,1
+Nevada,Shoshone,Barrett,BA04.1,10,0,point,2015,2455,0,NA,,,,,,,122,142,453911,4327755,1,1
+Nevada,Shoshone,Barrett,BA04.2,10,0,point,2015,2468,0,NA,,,,,,,122,142,453813,4327895,1,1
+Nevada,Shoshone,Barrett,BA05.1,10,0,point,2015,2518,0,NA,,,,,,,122,142,453507,4328236,1,1
+Nevada,Shoshone,Barrett,BA05.2,10,2,point,2015,2554,0,NA,,,,,,,122,142,453312,4328349,1,1
+Nevada,Shoshone,Barrett,BA06.1,10,8,point,2015,2640,0,NA,,,,,,,109,136,453038,4328612,1,1
+Nevada,Shoshone,Barrett,BA06.2,10,5,point,2015,2679,0,NA,,,,,,,109,136,452941,4328666,1,1
+Nevada,Toiyabe,Birch,BI01.1,10,6,point,2015,1966,0,NA,,,,,,,69,96,498887,4358987,0,0.8
+Nevada,Toiyabe,Birch,BI01.2,10,5,point,2015,1991,0,NA,,,,,,,69,96,498570,4359048,0,0.8
+Nevada,Toiyabe,Birch,BI02.1,10,4,point,2015,2058,0,NA,,,,,,,166,144,497584,4359812,0,0.8
+Nevada,Toiyabe,Birch,BI02.2,10,6,point,2015,2105,0,NA,,,,,,,166,144,497212,4360036,0,0.8
+Nevada,Toiyabe,Birch,BI03.1,10,7,point,2015,2122,0,NA,,,,,,,166,144,497171,4360414,0,0.8
+Nevada,Toiyabe,Birch,BI03.2,10,10,point,2015,2153,0,NA,,,,,,,149,134,496976,4360740,0,0.8
+Nevada,Toiyabe,Birch,BI03.3,10,0,point,2015,2158,0,NA,,,,,,,149,134,496572,4361012,0,0.8
+Nevada,Toiyabe,Birch,BI04.1,10,0,point,2015,2211,0,NA,,,,,,,149,134,496016,4362190,0,0.8
+Nevada,Toiyabe,Birch,BI04.2,10,8,point,2015,2231,0,NA,,,,,,,149,134,495899,4362638,0,0.8
+Nevada,Toiyabe,Birch,BI04.3,10,5,point,2015,2324,0,NA,,,,,,,149,134,496025,4363900,0,0.8
+Nevada,Toiyabe,Birch,BI05.1,10,4,point,2015,2376,0,NA,,,,,,,149,134,496070,4364329,0,0.8
+Nevada,Toiyabe,Birch,BI05.2,10,6,point,2015,2410,0,NA,,,,,,,149,134,495912,4364636,0,0.8
+Nevada,Toiyabe,Birch,BI06.1,10,2,point,2015,2484,0,NA,,,,,,,149,134,495419,4364918,0,0.8
+Nevada,Toiyabe,Birch,BI06.2,10,8,point,2015,2524,0,NA,,,,,,,149,134,495236,4365279,0,0.8
+Nevada,Toiyabe,Birch,BI07.1,10,9,point,2015,2555,0,NA,,,,,,,126,123,495466,4365710,1,0.8
+Nevada,Toiyabe,Birch,BI07.2,10,4,point,2015,2586,0,NA,,,,,,,126,123,495570,4366063,1,0.8
+Nevada,Toiyabe,Birch,BI0B1,10,9,point,2015,1900,1,2007,,,,,,,69,96,499898,4358107,0,0.8
+Nevada,Toiyabe,Birch,BI0B2,10,10,point,2015,1920,1,2007,,,,,,,69,96,499642,4358265,0,0.8
+Nevada,Toiyabe,Birch,BI0B3,10,10,point,2015,1929,1,2007,,,,,,,69,96,499332,4358458,0,0.8
+Nevada,Toiyabe,Birch,BI0B4,10,8,point,2015,1960,1,2007,,,,,,,69,96,499077,4358851,0,0.8
+Nevada,Monitor,Barley,BL01,10,0,point,2015,2249,0,NA,,,,,,,67,88,526371,4274731,1,1
+Nevada,Monitor,Barley,BL02,10,0,point,2015,2240,0,NA,,,,,,,67,88,526460,4275079,1,1
+Nevada,Monitor,Barley,BL03,10,2,point,2015,2225,0,NA,,,,,,,67,88,526524,4275434,1,1
+Nevada,Monitor,Barley,BL04,10,0,point,2015,2241,0,NA,,,,,,,113,109,527520,4275949,1,1
+Nevada,Monitor,Barley,BL05,10,0,point,2015,2245,0,NA,,,,,,,113,109,527839,4276098,1,1
+Nevada,Monitor,Barley,BL06,10,0,point,2015,2256,0,NA,,,,,,,113,109,528178,4276244,1,1
+Nevada,Monitor,Barley,BL07,10,0,point,2015,2258,0,NA,,,,,,,113,109,528540,4276183,1,1
+Nevada,Monitor,Barley,BL08,10,1,point,2015,2275,0,NA,,,,,,,113,109,529291,4276396,1,1
+Nevada,Monitor,Barley,BL09,10,2,point,2015,2283,0,NA,,,,,,,113,109,529636,4276547,1,1
+Nevada,Monitor,Barley,BL10,10,0,point,2015,2309,0,NA,,,,,,,113,109,530218,4277084,1,1
+Nevada,Monitor,Barley,BL11,10,0,point,2015,2318,0,NA,,,,,,,113,109,530677,4277376,1,1
+Nevada,Monitor,Barley,BL12,10,0,point,2015,2345,0,NA,,,,,,,152,126,531363,4278415,1,1
+Nevada,Monitor,Barley,BL13,10,2,point,2015,2359,0,NA,,,,,,,152,126,531457,4278622,1,1
+Nevada,Monitor,Barley,BL14,10,0,point,2015,2376,0,NA,,,,,,,152,126,531603,4278935,1,1
+Nevada,Monitor,Barley,BL15,10,0,point,2015,2389,0,NA,,,,,,,152,126,531506,4279427,1,1
+Nevada,Monitor,Barley,BL16,10,0,point,2015,2398,0,NA,,,,,,,152,126,531518,4279788,1,1
+Nevada,Monitor,Charnoc North,CBN01,10,0,point,2015,2422,0,NA,,,,,,,79,108,546194,4349269,1,1
+Nevada,Monitor,Charnoc North,CBN02,10,0,point,2015,2457,0,NA,,,,,,,79,108,546476,4349215,1,1
+Nevada,Monitor,Charnoc North,CBN04,10,0,point,2015,2425,0,NA,,,,,,,79,108,546131,4350086,1,1
+Nevada,Monitor,Charnoc North,CBN05,10,0,point,2015,2413,0,NA,,,,,,,79,108,546053,4349771,1,1
+Nevada,Monitor,Charnoc South,CBS01,10,0,point,2015,2341,0,NA,,,,,,,76,103,545790,4345796,1,1
+Nevada,Monitor,Charnoc South,CBS02,10,0,point,2015,2339,0,NA,,,,,,,76,103,545551,4345989,1,1
+Nevada,Monitor,Charnoc South,CBS03,10,0,point,2015,2328,0,NA,,,,,,,76,103,545275,4346025,1,1
+Nevada,Monitor,Charnoc South,CBS04,10,0,point,2015,2330,0,NA,,,,,,,76,103,545075,4346243,1,1
+Nevada,Monitor,Charnoc South,CBS05,10,0,point,2015,2336,0,NA,,,,,,,76,103,544990,4346534,1,1
+Nevada,Monitor,Dobbin East,DE05.1,10,0,point,2015,2640,0,NA,,,,,,,137,129,542202,4310091,1,0.2
+Nevada,Monitor,Dobbin East,DE05.2,10,0,point,2015,2614,0,NA,,,,,,,113,116,542034,4309778,1,0.2
+Nevada,Monitor,Dobbin East,DE05.3,10,5,point,2015,2546,0,NA,,,,,,,113,116,542287,4309074,1,0.2
+Nevada,Monitor,Dobbin East,DE06.1,10,3,point,2015,2486,0,NA,,,,,,,113,116,542619,4308317,1,0.2
+Nevada,Monitor,Dobbin East,DE06.2,10,0,point,2015,2437,0,NA,,,,,,,113,116,543285,4307564,1,0.2
+Nevada,Monitor,Dobbin East,DE06.3,10,0,point,2015,2375,0,NA,,,,,,,113,116,544055,4306636,1,0.2
+Nevada,Monitor,Dobbin East,DE07.1,10,0,point,2015,2334,0,NA,,,,,,,113,116,544410,4306641,1,0.2
+Nevada,Monitor,Dobbin East,DE07.2,10,0,point,2015,2279,0,NA,,,,,,,113,116,544812,4306347,1,0.2
+Nevada,Monitor,Dobbin East,DE07.3,10,0,point,2015,2283,0,NA,,,,,,,113,116,544582,4305903,1,0.2
+Nevada,Monitor,Dobbin West,DW01.1,10,0,point,2015,2258,0,NA,,,,,,,56,90,537501,4315491,1,0.2
+Nevada,Monitor,Dobbin West,DW01.2,10,0,point,2015,2311,0,NA,,,,,,,89,105,538162,4314128,1,0.2
+Nevada,Monitor,Dobbin West,DW02.1,10,0,point,2015,2356,0,NA,,,,,,,89,105,538838,4313180,1,0.2
+Nevada,Monitor,Dobbin West,DW02.2,10,0,point,2015,2394,0,NA,,,,,,,89,105,539670,4312535,1,0.2
+Nevada,Monitor,Dobbin West,DW03.1,10,0,point,2015,2416,0,NA,,,,,,,89,105,539960,4312319,1,0.2
+Nevada,Monitor,Dobbin West,DW03.2,10,0,point,2015,2438,0,NA,,,,,,,89,105,540419,4312155,1,0.2
+Nevada,Monitor,Dobbin West,DW03.3,10,0,point,2015,2480,0,NA,,,,,,,137,129,541818,4311882,1,0.2
+Nevada,Monitor,Dobbin West,DW04.1,10,0,point,2015,2568,0,NA,,,,,,,137,129,542293,4310862,1,0.2
+Nevada,Monitor,Dobbin West,DW04.2,10,0,point,2015,2611,0,NA,,,,,,,137,129,542325,4310390,1,0.2
+Nevada,Monitor,Elkhorn,EH01,10,10,point,2015,2275,1,2009,,,,,,,101,108,530390,4271303,1,1
+Nevada,Monitor,Elkhorn,EH02,10,10,point,2015,2318,1,2009,,,,,,,101,108,530128,4271033,1,1
+Nevada,Monitor,Elkhorn,EH03,10,10,point,2015,2334,1,2009,,,,,,,101,108,530010,4271331,1,1
+Nevada,Monitor,Elkhorn,EH04,10,10,point,2015,2351,1,2009,,,,,,,101,108,530210,4271544,1,1
+Nevada,Toiyabe,Grass Springs,GS01,10,10,point,2015,2179,1,2006,,12,,9,,,87,105,498568,4370386,1,0.9
+Nevada,Toiyabe,Grass Springs,GS03,10,10,point,2015,2085,1,2006,,2,,6,,,87,105,499376,4370360,1,0.9
+Nevada,Toiyabe,Grass Springs,GS04,10,10,point,2015,2079,1,2006,,0,,0,,,87,105,499391,4370537,1,0.9
+Nevada,Toiyabe,Grass Springs,GS05,10,10,point,2015,2087,1,2006,,16,,19,,,87,105,499165,4370619,1,0.9
+Nevada,Toiyabe,Grass Springs,GS09,10,10,point,2015,2078,1,2006,,6,,6,,,87,105,499234,4371042,1,0.9
+Nevada,Toiyabe,Grass Springs,GS10,10,10,point,2015,2062,1,2006,,6,,19,,,87,105,499449,4370812,1,0.9
+Nevada,Toquima,Meadow,MD01.1,10,0,point,2015,2259,0,NA,,,,,,,104,114,512295,4277782,1,1
+Nevada,Toquima,Meadow,MD01.2,10,0,point,2015,2273,0,NA,,,,,,,104,114,511844,4278222,1,1
+Nevada,Toquima,Meadow,MD01.3,10,0,point,2015,2302,0,NA,,,,,,,104,114,511062,4279066,1,1
+Nevada,Toquima,Meadow,MD02.1,10,0,point,2015,2342,0,NA,,,,,,,104,114,510018,4280073,1,1
+Nevada,Toquima,Meadow,MD02.2,10,0,point,2015,2368,0,NA,,,,,,,104,114,509176,4280604,1,1
+Nevada,Toquima,Meadow,MD02.3,10,0,point,2015,2384,0,NA,,,,,,,129,135,508562,4281002,1,1
+Nevada,Toquima,Meadow,MD03.1,10,0,point,2015,2447,0,NA,,,,,,,140,141,507148,4282357,1,1
+Nevada,Toquima,Meadow,MD03.2,10,0,point,2015,2495,0,NA,,,,,,,140,141,506561,4282170,1,1
+Nevada,Toquima,Meadow,MD04.1,10,0,point,2015,2577,0,NA,,,,,,,129,135,505955,4281915,1,1
+Nevada,Toquima,Meadow,MD04.2,10,0,point,2015,2619,0,NA,,,,,,,140,141,505683,4282116,1,1
+Nevada,Toquima,Meadow,MD05.1,10,0,point,2015,2660,0,NA,,,,,,,140,141,505506,4282528,1,1
+Nevada,Toquima,Meadow,MD05.2,10,0,point,2015,2674,0,NA,,,,,,,131,135,505212,4282660,1,1
+Nevada,Toquima,Moores East,ME01.1,10,2,point,2015,2543,0,NA,,,,,,,97,121,508352,4301628,1,1
+Nevada,Toquima,Moores East,ME01.2,10,0,point,2015,2509,0,NA,,,,,,,97,121,508762,4301637,1,1
+Nevada,Toquima,Moores East,ME02.1,10,0,point,2015,2452,0,NA,,,,,,,96,120,509541,4301985,1,1
+Nevada,Toquima,Moores East,ME02.2,10,0,point,2015,2432,0,NA,,,,,,,96,120,509955,4302205,1,1
+Nevada,Toquima,Moores East,ME03.1,10,0,point,2015,2327,0,NA,,,,,,,96,120,511611,4301799,1,1
+Nevada,Toquima,Moores East,ME03.2,10,0,point,2015,2303,0,NA,,,,,,,96,120,511995,4301668,1,1
+Nevada,Toquima,Moores East,ME04.1,10,0,point,2015,2228,0,NA,,,,,,,77,109,513245,4300632,1,1
+Nevada,Toquima,Moores East,ME04.2,10,0,point,2015,2196,0,NA,,,,,,,77,109,514277,4300653,1,1
+Nevada,Toquima,Moores West,MW01.1,10,0,point,2015,2092,0,NA,,,,,,,65,99,502376,4304048,0,0.5
+Nevada,Toquima,Moores West,MW01.2,10,0,point,2015,2186,0,NA,,,,,,,65,99,503722,4303756,0,0.5
+Nevada,Toquima,Moores West,MW02.1,10,0,point,2015,2222,0,NA,,,,,,,65,99,504135,4303463,0,0.5
+Nevada,Toquima,Moores West,MW02.2,10,0,point,2015,2250,0,NA,,,,,,,65,99,504416,4303175,0,0.5
+Nevada,Toquima,Moores West,MW03.1,10,0,point,2015,2348,0,NA,,,,,,,65,99,505236,4302426,0,0.5
+Nevada,Toquima,Moores West,MW03.2,10,0,point,2015,2405,0,NA,,,,,,,97,121,505684,4301905,1,1
+Nevada,Toquima,Moores West,MW04.1,10,0,point,2015,2384,0,NA,,,,,,,97,121,506482,4300881,1,1
+Nevada,Toquima,Moores West,MW04.2,10,0,point,2015,2447,0,NA,,,,,,,97,121,507099,4301024,1,1
+Nevada,Toquima,Moores West,MW05.1,10,0,point,2015,2473,0,NA,,,,,,,97,121,507488,4301516,1,1
+Nevada,Toquima,Moores West,MW05.2,10,0,point,2015,2506,0,NA,,,,,,,97,121,507782,4301548,1,1
+Nevada,Toquima,Northumberland East,NE01.1,10,0,point,2015,2276,0,NA,,,,,,,112,128,514315,4306160,0,0.8
+Nevada,Toquima,Northumberland East,NE01.2,10,0,point,2015,2291,0,NA,,,,,,,112,128,513633,4306615,0,0.8
+Nevada,Toquima,Northumberland East,NE02.1,10,0,point,2015,2358,0,NA,,,,,,,108,127,511935,4308340,0,0.8
+Nevada,Toquima,Northumberland East,NE02.2,10,0,point,2015,2393,0,NA,,,,,,,108,127,512003,4309382,0,0.8
+Nevada,Toquima,Northumberland East,NE03.1,10,0,point,2015,2474,0,NA,,,,,,,147,146,512846,4310449,0,0.8
+Nevada,Toquima,Northumberland East,NE03.2,10,0,point,2015,2522,0,NA,,,,,,,147,146,513433,4310531,0,0.8
+Nevada,Toquima,Northumberland East,NE04.1,10,0,point,2015,2589,0,NA,,,,,,,147,146,513289,4310889,0,0.8
+Nevada,Toquima,Northumberland East,NE04.2,10,0,point,2015,2614,0,NA,,,,,,,147,146,513369,4311288,0,0.8
+Nevada,Toquima,Northumberland East,NE05.1,10,0,point,2015,2670,0,NA,,,,,,,147,146,513374,4312341,0,0.8
+Nevada,Toquima,Northumberland East,NE05.2,10,0,point,2015,2714,0,NA,,,,,,,147,146,513403,4313107,0,0.8
+Nevada,Toquima,Northumberland West,NW01.1,10,2,point,2015,2126,0,NA,,,,,,,67,104,508212,4316584,0,0.9
+Nevada,Toquima,Northumberland West,NW01.2,10,0,point,2015,2183,0,NA,,,,,,,101,124,509227,4315457,0,0.9
+Nevada,Toquima,Northumberland West,NW02.1,10,0,point,2015,2217,0,NA,,,,,,,101,124,509726,4315261,0,0.9
+Nevada,Toquima,Northumberland West,NW02.2,10,0,point,2015,2295,0,NA,,,,,,,101,124,511246,4314659,0,0.9
+Nevada,Toquima,Northumberland West,NW03.1,10,0,point,2015,2337,0,NA,,,,,,,127,137,511731,4314385,0,0.9
+Nevada,Toquima,Northumberland West,NW03.2,10,0,point,2015,2414,0,NA,,,,,,,127,137,512152,4313855,0,0.9
+Nevada,Toquima,Northumberland West,NW04.1,10,1,point,2015,2446,0,NA,,,,,,,127,137,512270,4313577,0,0.9
+Nevada,Toquima,Northumberland West,NW04.2,10,1,point,2015,2519,0,NA,,,,,,,127,137,512335,4312993,0,0.9
+Nevada,Toquima,Northumberland West,NW05.1,10,0,point,2015,2550,0,NA,,,,,,,127,137,512242,4312720,0,0.9
+Nevada,Toquima,Northumberland West,NW06.1,10,1,point,2015,2611,0,NA,,,,,,,147,146,512700,4312966,0,0.9
+Nevada,Toquima,Northumberland West,NW06.2,10,0,point,2015,2687,0,NA,,,,,,,147,146,513081,4313099,0,0.9
+Nevada,Shoshone,Riley,RI01.1,10,3,point,2015,2065,0,NA,,,,,,,69,111,463233,4329300,1,1
+Nevada,Shoshone,Riley,RI01.2,10,3,point,2015,2115,0,NA,,,,,,,69,111,462743,4329787,1,1
+Nevada,Shoshone,Riley,RI02.1,10,0,point,2015,2147,0,NA,,,,,,,69,111,462578,4330360,1,1
+Nevada,Shoshone,Riley,RI02.2,10,0,point,2015,2182,0,NA,,,,,,,69,111,462370,4330938,1,1
+Nevada,Shoshone,Riley,RI03.1,10,0,point,2015,2259,0,NA,,,,,,,69,111,462568,4332105,1,1
+Nevada,Shoshone,Riley,RI03.2,10,0,point,2015,2305,0,NA,,,,,,,69,111,462716,4332560,1,1
+Nevada,Shoshone,Riley,RI04.1,10,0,point,2015,2368,0,NA,,,,,,,98,127,462527,4333413,1,1
+Nevada,Shoshone,Riley,RI04.2,10,1,point,2015,2412,0,NA,,,,,,,98,127,462424,4334066,1,1
+Nevada,Shoshone,Riley,RI05.1,10,0,point,2015,2483,0,NA,,,,,,,159,157,462019,4334785,1,1
+Nevada,Shoshone,Riley,RI05.2,10,0,point,2015,2545,0,NA,,,,,,,98,127,462451,4334910,1,1
+Nevada,Monitor,Ryegrass,RY01,10,0,point,2015,2144,0,NA,,,,,,,54,88,550541,4337427,1,1
+Nevada,Monitor,Ryegrass,RY02,10,0,point,2015,2186,0,NA,,,,,,,54,88,549231,4336911,1,1
+Nevada,Monitor,Ryegrass,RY03,10,0,point,2015,2235,0,NA,,,,,,,81,105,547857,4337274,1,1
+Nevada,Monitor,Ryegrass,RY04,10,0,point,2015,2283,0,NA,,,,,,,66,98,546829,4337745,1,1
+Nevada,Monitor,Ryegrass,RY05,10,0,point,2015,2337,0,NA,,,,,,,81,105,545857,4337650,1,1
+Nevada,Monitor,Ryegrass,RY06,10,0,point,2015,2399,0,NA,,,,,,,66,98,545188,4338026,1,1
+Nevada,Monitor,Ryegrass,RY07,10,0,point,2015,2412,0,NA,,,,,,,67,99,544472,4338787,1,1
+Nevada,Toiyabe,San Juan,SJ01.1,10,5,point,2015,2104,0,NA,,,,,,,52,101,475112,4333109,1,1
+Nevada,Toiyabe,San Juan,SJ01.2,10,1,point,2015,2117,0,NA,,,,,,,76,115,475197,4332753,1,1
+Nevada,Toiyabe,San Juan,SJ01.3,10,2,point,2015,2160,0,NA,,,,,,,76,115,475522,4331845,1,1
+Nevada,Toiyabe,San Juan,SJ02.1,10,6,point,2015,2220,0,NA,,,,,,,76,115,476215,4330473,1,1
+Nevada,Toiyabe,San Juan,SJ02.2,10,3,point,2015,2230,0,NA,,,,,,,76,115,476201,4330189,1,1
+Nevada,Toiyabe,San Juan,SJ02.3,10,2,point,2015,2289,0,NA,,,,,,,123,141,476920,4330237,1,1
+Nevada,Toiyabe,San Juan,SJ03.1,10,0,point,2015,2338,0,NA,,,,,,,123,141,477190,4330669,1,1
+Nevada,Toiyabe,San Juan,SJ03.2,10,0,point,2015,2384,0,NA,,,,,,,123,141,477327,4330880,1,1
+Nevada,Toiyabe,San Juan,SJ04.1,10,0,point,2015,2401,0,NA,,,,,,,123,141,477284,4331007,1,1
+Nevada,Toiyabe,San Juan,SJ04.2,10,3,point,2015,2446,0,NA,,,,,,,123,141,477468,4331144,1,1
+Nevada,Toiyabe,San Juan,SJ05.1,10,0,point,2015,2504,0,NA,,,,,,,123,141,477710,4331150,1,1
+Nevada,Toiyabe,San Juan,SJ05.2,10,0,point,2015,2553,0,NA,,,,,,,123,141,478015,4330640,1,1
+Nevada,Toiyabe,Summit,SU01.1,10,0,point,2015,1989,0,NA,,,,,,,63,100,479257,4313358,0,0
+Nevada,Toiyabe,Summit,SU01.2,10,0,point,2015,2072,0,NA,,,,,,,63,100,478677,4313528,0,0
+Nevada,Toiyabe,Summit,SU02.1,10,0,point,2015,2125,0,NA,,,,,,,63,100,478370,4313751,0,0
+Nevada,Toiyabe,Summit,SU02.2,10,0,point,2015,2146,0,NA,,,,,,,63,100,478226,4313749,0,0
+Nevada,Toiyabe,Summit,SU03.1,10,0,point,2015,2280,0,NA,,,,,,,63,100,477620,4314075,0,0
+Nevada,Toiyabe,Summit,SU03.2,10,0,point,2015,2311,0,NA,,,,,,,63,100,477277,4314119,0,0
+Nevada,Toiyabe,Summit,SU04.1,10,0,point,2015,2350,0,NA,,,,,,,63,100,476898,4314091,0,0
+Nevada,Toiyabe,Summit,SU04.2,10,0,point,2015,2409,0,NA,,,,,,,160,157,476402,4314164,0,0
+Nevada,Toiyabe,Summit,SU05.1,10,2,point,2015,2468,0,NA,,,,,,,159,157,476069,4314635,0,0
+Nevada,Toiyabe,Summit,SU05.2,10,0,point,2015,2523,0,NA,,,,,,,159,157,475934,4314998,0,0
+Nevada,Toiyabe,Summit,SU06.1,10,0,point,2015,2575,0,NA,,,,,,,159,157,475658,4315078,0,0
+Nevada,Toiyabe,Summit,SU06.2,10,1,point,2015,2587,0,NA,,,,,,,159,157,475781,4314913,0,0
+Nevada,Toiyabe,Stewart,SW00.1,10,0,point,2015,2605,0,NA,,,,,,,122,141,467063,4305943,0,0
+Nevada,Toiyabe,Stewart,SW01.1,10,0,point,2015,2635,0,NA,,,,,,,122,141,467308,4305727,0,0
+Nevada,Toiyabe,Stewart,SW01.2,10,0,point,2015,2667,0,NA,,,,,,,122,141,467478,4305383,0,0
+Nevada,Toiyabe,Stewart,SW02.1,10,0,point,2015,2731,0,NA,,,,,,,191,179,467712,4305124,0,0
+Nevada,Toiyabe,Stewart,SW02.2,10,0,point,2015,2795,0,NA,,,,,,,191,179,467930,4304901,0,0
+Nevada,Toiyabe,Stewart,SW03.1,10,0,point,2015,2854,0,NA,,,,,,,191,179,468386,4304751,0,0
+Nevada,Toiyabe,Stewart,SW03.2,10,0,point,2015,2897,0,NA,,,,,,,191,179,468645,4304499,0,0
+Nevada,Toiyabe,Stewart,SW04.1,10,0,point,2015,2950,0,NA,,,,,,,191,179,468921,4304312,0,0
+Nevada,Toiyabe,Stewart,SW05.1,10,0,point,2015,3017,0,NA,,,,,,,191,179,469128,4304223,0,0
+Nevada,Toiyabe,Stewart,SW05.2,10,0,point,2015,3067,0,NA,,,,,,,191,179,469271,4304135,0,0
+Nevada,Toiyabe,Stewart,SW06.1,10,0,point,2015,3162,0,NA,,,,,,,186,177,469408,4303832,0,0
+Nevada,Toiyabe,Stewart,SW06.2,10,0,point,2015,3219,0,NA,,,,,,,186,177,469437,4303521,0,0
+Nevada,Shoshone,Underdown,UN01.1,10,0,point,2015,2027,0,NA,,,,,,,48,99,466955,4334270,1,1
+Nevada,Shoshone,Underdown,UN01.2,10,0,point,2015,2062,0,NA,,,,,,,48,99,466507,4334325,1,1
+Nevada,Shoshone,Underdown,UN02.1,10,1,point,2015,2114,0,NA,,,,,,,48,99,465834,4334717,1,1
+Nevada,Shoshone,Underdown,UN02.2,10,3,point,2015,2147,1,2002,,,,,,,98,127,465345,4334870,1,1
+Nevada,Shoshone,Underdown,UN03.1,10,8,point,2015,2207,1,2002,,,,,,,98,127,464392,4335151,1,1
+Nevada,Shoshone,Underdown,UN03.2,10,6,point,2015,2246,1,2005,,,,,,,98,127,463859,4335420,1,1
+Nevada,Shoshone,Underdown,UN04.1,10,9,point,2015,2296,0,NA,,,,,,,98,127,463046,4335553,1,1
+Nevada,Shoshone,Underdown,UN04.2,10,1,point,2015,2365,0,NA,,,,,,,159,157,462172,4336062,1,1
+Nevada,Shoshone,Underdown,UN05.1,10,0,point,2015,2424,0,NA,,,,,,,159,157,461858,4335606,1,1
+Nevada,Shoshone,Underdown,UN05.2,10,0,point,2015,2506,0,NA,,,,,,,159,157,461771,4334944,1,1
+Nevada,Shoshone,Underdown,UN06.1,10,0,point,2015,2569,0,NA,,,,,,,159,157,461400,4334852,1,1
+Nevada,Shoshone,Underdown,UN06.2,10,0,point,2015,2591,0,NA,,,,,,,159,157,461304,4334523,1,1
+Nevada,Shoshone,Underdown,UN07.1,10,0,point,2015,2634,0,NA,,,,,,,159,157,461094,4334514,1,1
+Nevada,Shoshone,Underdown,UN07.2,10,0,point,2015,2657,0,NA,,,,,,,159,157,461002,4334601,1,1
+Nevada,Shoshone,Underdown,UN0B1,10,2,point,2015,2083,1,2005,20,,19,,,,48,99,466208,4334493,1,1
+Nevada,Shoshone,Underdown,UN0B2,10,6,point,2015,2129,1,2005,15,,15,,,,98,127,465679,4334701,1,1
+Nevada,Shoshone,Underdown,UN0B3,10,9,point,2015,2135,1,2005,4,,12,,,,98,127,465579,4334726,1,1
+Nevada,Shoshone,Underdown,UN0B4,10,10,point,2015,2137,1,2005,1,,13,,,,98,127,465472,4334801,1,1
+Nevada,Shoshone,Underdown,UN0B5,10,10,point,2015,2231,1,2005,18,,21,,,,98,127,464142,4335228,1,1
+Nevada,Shoshone,Underdown,UN0B6,10,10,point,2015,2245,1,2005,5,,19,,,,98,127,463923,4335318,1,1
+Nevada,Shoshone,Underdown,UN0B7,10,8,point,2015,2259,1,2005,11,,21,,,,98,127,463704,4335430,1,1
+Nevada,Toiyabe,Wall,WA01.1,10,0,point,2015,1938,0,NA,,,,,,,33,76,480640,4281421,1,1
+Nevada,Toiyabe,Wall,WA01.2,10,0,point,2015,1984,0,NA,,,,,,,66,106,479744,4281663,1,1
+Nevada,Toiyabe,Wall,WA02.1,10,1,point,2015,2037,0,NA,,,,,,,66,106,478861,4281929,1,1
+Nevada,Toiyabe,Wall,WA02.2,10,0,point,2015,2087,0,NA,,,,,,,71,106,478012,4282228,1,1
+Nevada,Toiyabe,Wall,WA03.1,10,6,point,2015,2151,1,2001,,,,,,,71,106,477057,4282690,1,1
+Nevada,Toiyabe,Wall,WA03.2,10,7,point,2015,2201,1,2001,,,,,,,71,106,476504,4283065,1,1
+Nevada,Toiyabe,Wall,WA04.1,10,7,point,2015,2260,0,NA,,,,,,,104,129,475818,4283922,1,1
+Nevada,Toiyabe,Wall,WA04.2,10,8,point,2015,2303,1,2001,,,,,,,104,129,475454,4284265,1,1
+Nevada,Toiyabe,Wall,WA05.1,10,9,point,2015,2356,1,2001,,,,,,,104,129,474874,4284514,1,1
+Nevada,Toiyabe,Wall,WA05.2,10,8,point,2015,2414,1,2001,,,,,,,104,129,474577,4284907,1,1
+Nevada,Toiyabe,Wall,WA06.1,10,3,point,2015,2405,1,2001,,,,,,,104,129,474931,4284883,1,1
+Nevada,Toiyabe,Wall,WA0B1,10,10,point,2015,2174,1,2001,,,,,,,71,106,476751,4282806,1,1
+Nevada,Toiyabe,Wall,WA0B2,10,9,point,2015,2212,1,2001,,,,,,,104,129,476381,4283210,1,1
+Nevada,Toiyabe,Wall,WA0B3,10,7,point,2015,2227,1,2001,,,,,,,104,129,476328,4283496,1,1
+Nevada,Toiyabe,Wall,WA0B4,10,2,point,2015,2263,1,2001,,,,,,,104,129,475964,4283880,1,1
+Nevada,Toiyabe,Wall,WA0B5,10,7,point,2015,2267,1,2001,,,,,,,104,129,475713,4283998,1,1
+Nevada,Toiyabe,Wall,WA0B6,10,10,point,2015,2321,1,2001,,,,,,,104,129,475182,4284300,1,1
+Nevada,Toiyabe,Wall,WA0B7,10,10,point,2015,2372,1,2001,,,,,,,104,129,474706,4284574,1,1
+Nevada,Monitor,White Sage,WH08,10,0,point,2015,2320,0,NA,,,,,,,67,99,543778,4339804,1,1
+Nevada,Monitor,White Sage,WH09,10,0,point,2015,2253,0,NA,,,,,,,67,99,541940,4339565,1,1
+Nevada,Monitor,White Sage,WH10,10,0,point,2015,2205,0,NA,,,,,,,57,93,540988,4337578,1,1
+Nevada,Monitor,White Sage,WH11,10,0,point,2015,2177,0,NA,,,,,,,57,93,540694,4336326,1,0.9
+Nevada,Monitor,Wallace,WL01,10,0,point,2015,2134,0,NA,,,,,,,54,95,536931,4350156,1,0.9
+Nevada,Monitor,Wallace,WL02,10,0,point,2015,2155,0,NA,,,,,,,54,95,537285,4350420,1,0.9
+Nevada,Monitor,Wallace,WL03,10,0,point,2015,2164,0,NA,,,,,,,54,95,537523,4350763,1,0.9
+Nevada,Monitor,Wallace,WL04,10,2,point,2015,2204,0,NA,,,,,,,77,108,538368,4351727,1,1
+Nevada,Monitor,Wallace,WL05,10,1,point,2015,2313,0,NA,,,,,,,77,108,539890,4352610,1,1
+Nevada,Monitor,Wallace,WL06,10,5,point,2015,2327,0,NA,,,,,,,77,108,540147,4352583,1,1
+Nevada,Monitor,Wallace,WL07,10,5,point,2015,2347,0,NA,,,,,,,77,108,540416,4352465,1,1
+Nevada,Monitor,Wallace,WL09,10,3,point,2015,2423,0,NA,,,,,,,91,113,541348,4352187,1,1
+Nevada,Monitor,Wallace,WL10,10,0,point,2015,2367,0,NA,,,,,,,66,102,541107,4351457,1,1
+Nevada,Monitor,Wallace,WL11,10,0,point,2015,2279,0,NA,,,,,,,68,102,541577,4349986,1,1
+Nevada,Monitor,Wallace,WL12,10,0,point,2015,2284,0,NA,,,,,,,68,102,542209,4348896,1,1
+Nevada,Monitor,Wallace,WL13,10,0,point,2015,2272,0,NA,,,,,,,68,102,543406,4347960,1,1
+Nevada,Toiyabe,Washington,WS01.1,10,0,point,2015,2133,0,NA,,,,,,,52,101,476444,4334452,1,1
+Nevada,Toiyabe,Washington,WS01.2,10,1,point,2015,2188,0,NA,,,,,,,98,128,477267,4334221,1,1
+Nevada,Toiyabe,Washington,WS01.3,10,0,point,2015,2212,0,NA,,,,,,,98,128,477752,4334148,1,1
+Nevada,Toiyabe,Washington,WS02.1,10,3,point,2015,2252,0,NA,,,,,,,98,128,478393,4333845,1,1
+Nevada,Toiyabe,Washington,WS02.2,10,0,point,2015,2269,0,NA,,,,,,,98,128,478611,4333781,1,1
+Nevada,Toiyabe,Washington,WS02.3,10,0,point,2015,2295,0,NA,,,,,,,98,128,478989,4333756,1,1
+Nevada,Toiyabe,Washington,WS03.1,10,2,point,2015,2332,0,NA,,,,,,,98,128,479632,4333962,1,1
+Nevada,Toiyabe,Washington,WS03.2,10,5,point,2015,2352,0,NA,,,,,,,98,128,479948,4334019,1,1
+Nevada,Toiyabe,Washington,WS03.3,10,0,point,2015,2395,0,NA,,,,,,,179,165,480513,4334115,1,1
+Nevada,Toiyabe,Washington,WS04.1,10,2,point,2015,2443,0,NA,,,,,,,179,165,481133,4333911,1,1
+Nevada,Toiyabe,Washington,WS04.2,10,0,point,2015,2485,0,NA,,,,,,,179,165,481610,4333749,1,1
+Nevada,Toiyabe,Washington,WS04.3,10,0,point,2015,2503,0,NA,,,,,,,179,165,481887,4333717,1,1
+Nevada,Toiyabe,Washington,WS05.1,10,0,point,2015,2539,0,NA,,,,,,,179,165,482186,4333581,1,1
+Nevada,Toiyabe,Washington,WS05.2,10,0,point,2015,2570,0,NA,,,,,,,179,165,482533,4333633,1,1
+Nevada,Toiyabe,Washington,WS05.3,10,0,point,2015,2585,0,NA,,,,,,,179,165,482662,4333665,1,1
