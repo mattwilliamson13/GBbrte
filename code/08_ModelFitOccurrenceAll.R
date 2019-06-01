@@ -3,10 +3,10 @@ library(rstan)
 library(shinystan)
 rstan_options(auto_write = TRUE)
 options(mc.cores = parallel::detectCores())
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/" #data is already processed so both inputs and outputs in processed folder
-outfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/model_fits/"
-stanfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/stan_models/"
-db.stan <- read.csv(file=paste0(infolder,"occurence_model_all_hillshade.csv"), stringsAsFactors = FALSE)
+infolder <- here::here("processed_data/") #data is already processed so both inputs and outputs in processed folder
+outfolder <- here::here("model_fits/")
+stanfolder <- here::here("stan_models/")
+db.stan <- read.csv(file=paste0(infolder,"/occurence_model_all_hillshade.csv"), stringsAsFactors = FALSE)
 #set up indices for nested effects
 can.rg <- db.stan[,13:14]
 can.rg.u <- unique(can.rg[,c('area_id','range_id')])
