@@ -2,10 +2,10 @@
 library(rethinking) #for coerce_index function
 library(tidyverse)
 
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/" #data is already processed so both inputs and outputs in processed folder
-outfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/"
+infolder <- here::here("processed_data/") #data is already processed so both inputs and outputs in processed folder
+outfolder <- here::here("processed_data/")
 # load original data frame
-db.or <-read.csv(file =paste0(infolder,"alldatamerged.csv"))
+db.or <-read.csv(file =paste0(infolder,"/alldatamerged.csv"))
 db.or <- db.or[order(db.or$yr),] #order by year
 
 #Subset dataframe for occurrence analysis
@@ -46,13 +46,13 @@ db.mod.2 <- db.mod[complete.cases(db.mod),] #none of these are correlated in the
 
 db.occ.merge <- db.mod.2
 
-pt_covs <- read.csv(file=paste0(infolder,"med_pcp_hillshade.csv"))
+pt_covs <- read.csv(file=paste0(infolder,"/med_pcp_hillshade.csv"))
 
 #Join mean values of precip and aspect
 db_join <- db.occ.merge %>% left_join(pt_covs, by=c("range", "area","pt"))
 db_join <- db_join[,-c(9:11)] #eliminate "observation level" precip estimates
 
-write.csv(db_join, paste0(outfolder,"occurence_model_all_hillshade_noscale.csv"), row.names=FALSE) #updated for new models
+write.csv(db_join, paste0(outfolder,"/occurence_model_all_hillshade_noscale.csv"), row.names=FALSE) #updated for new models
 
 #scale covs
 db_join$elev <- scale(db_join$elev)
@@ -66,4 +66,4 @@ db.mod.2$range_id<- coerce_index(db.mod.2$range)
 db.mod.2$area_id<- coerce_index(db.mod.2$area)
 db.mod.2$point_id<- coerce_index(db.mod.2$pt)
 
-write.csv(db.mod.2, paste0(outfolder,"occurence_model_all_hillshade.csv"), row.names=FALSE) #updated for new models
+write.csv(db.mod.2, paste0(outfolder,"/occurence_model_all_hillshade.csv"), row.names=FALSE) #updated for new models
