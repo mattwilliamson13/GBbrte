@@ -1,11 +1,11 @@
 #This code subsets the data for a binomial model of reporting rate. This analysis is aimed at understanding what drives local BRTE prevalence given that it occurs (based on the Occurrence analysis) on burned sites.
 library(tidyverse)
 library(rethinking) #for coerce_index function
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/" #data is already processed so both inputs and outputs in processed folder
-outfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/"
+infolder <- here::here("processed_data/") #data is already processed so both inputs and outputs in processed folder
+outfolder <- here::here("processed_data/")
 
 # load original data frame
-db.or <-read.csv(file =paste0(infolder,"alldatamerged.csv"))
+db.or <-read.csv(file =paste0(infolder,"/alldatamerged.csv"))
 db.or <- db.or[order(db.or$yr),] #order by year
 
 #Subset dataframe for relative rate analysis
@@ -33,12 +33,12 @@ db.rr.cc <- db.rr.b[complete.cases(db.rr.b),] #no major correlations, retaining 
 db.rr.cc$tburn2 <- db.rr.cc$tburn * db.rr.cc$tburn
 db.sub <- db.rr.cc
 
-pt_covs <- read.csv(file=paste0(infolder,"med_pcp_hillshade.csv"))
+pt_covs <- read.csv(file=paste0(infolder,"/med_pcp_hillshade.csv"))
 
 #Join mean values of precip and aspect
 db_join <- db.sub %>% left_join(pt_covs, by=c("range", "area","pt")) #no correlations
 
-
+write.csv(db_join, paste0(outfolder, "/reprate_model_burned_noscale_hillshade.csv" ), row.names=FALSE)
 #scale covs
 db_join$elev <- scale(db_join$elev)
 db_join$wtpr <- scale(db_join$wtpr)
@@ -62,4 +62,4 @@ db_join$point_id<- coerce_index(db_join$pt)
 db_join$obs_id <- seq(1,nrow(db_join))
 
 #write out the data
-write.csv(db_join, paste0(outfolder, "reprate_model_burned_hillshade.csv" ), row.names=FALSE) #updated for new models
+write.csv(db_join, paste0(outfolder, "/reprate_model_burned_hillshade.csv" ), row.names=FALSE) #updated for new models
