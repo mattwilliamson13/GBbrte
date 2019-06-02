@@ -1,12 +1,13 @@
 library(rstan)
 library(shinystan)
 rstan_options(auto_write = TRUE)
+Sys.setenv(LOCAL_CPPFLAGS = '-march=native')
 options(mc.cores = parallel::detectCores())
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/" #data is already processed so both inputs and outputs in processed folder
-outfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/model_fits/"
-stanfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/stan_models/"
+infolder <- here::here("processed_data/") #data is already processed so both inputs and outputs in processed folder
+outfolder <- here::here("model_fits/")
+stanfolder <- here::here("stan_models/")
 
-db.stan <- read.csv(file=paste0(infolder,"reprate_model_unburned_hillshade.csv"), stringsAsFactors = FALSE)
+db.stan <- read.csv(file=paste0(infolder,"/reprate_model_unburned_hillshade.csv"), stringsAsFactors = FALSE)
 
 #set up indices for nested effects
 can.rg <- db.stan[,14:15]
@@ -21,6 +22,6 @@ reprate_data_unburned <- list(N=nrow(db.stan),R=length(unique(db.stan$range_id))
                 nsamp = db.stan$nsamp, y=db.stan$brte, W = as.matrix(pt.can.u[,c(3:6)]), X = as.matrix(db.stan[,c(7:10)]), J = ncol(pt.can.u[,c(3:6)]), K = ncol(db.stan[,c(7:10)]))
 y <- db.stan$brte
 
-reprate_fit_ub <- stan(paste0(stanfolder,"reporting_rate_asp.stan"), data=reprate_data_unburned, seed=082980, control=list(adapt_delta = 0.999, max_treedepth = 16))
+reprate_fit_ub <- stan(paste0(stanfolder,"/reporting_rate_asp.stan"), data=reprate_data_unburned, seed=082980, control=list(adapt_delta = 0.999, max_treedepth = 16))
 
-save(reprate_fit_ub, file=paste0(outfolder,"reprate_fit_ub_hillshade.RData"))
+save(reprate_fit_ub, file=paste0(outfolder,"/reprate_fit_ub_hillshade.RData"))
