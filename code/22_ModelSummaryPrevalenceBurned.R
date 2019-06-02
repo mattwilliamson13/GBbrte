@@ -1,10 +1,10 @@
 library(rstan)
 library(bayesplot)
 library(gridExtra)
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/model_fits/"
-outfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/par_est_reprate/"
-load(paste0(infolder, "reprate_fit_b_hillshade2.RData")) #load model fit data
-db.stan <- read.csv("/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/reprate_model_burned_hillshade.csv")
+infolder <- here::here("model_fits/")
+outfolder <- here::here("param_est/")
+load(paste0(infolder, "/reprate_fit_b_hillshade2.RData")) #load model fit data
+db.stan <- read.csv(here::here("processed_data/reprate_model_burned_hillshade.csv"))
 
 #rename slope estimates (beta's)
 names(reprate_fit_b)[114:125] <- c("Elevation", "Hillshade","Med. Winter precip.", "Med. Spring precip.", "Med. Winter precip./Total precip." ,"Grazed", "Time Since Burn", "Time Since Burn2", "Perennial grass frequency", "Spring precip.", "Winter precip.","Winter precip./Total precip.")
@@ -12,7 +12,7 @@ names(reprate_fit_b)[114:125] <- c("Elevation", "Hillshade","Med. Winter precip.
 #Create tabular slope results
 s <- summary(reprate_fit_b, pars=c("beta_p", "beta_o"), probs = c(0.1, 0.5, 0.9))
 beta_sum <- as.data.frame(s$summary)
-write.csv(beta_sum, file=paste0(outfolder,"reprate_fit_b_slopes_hillshade2.csv"))
+write.csv(beta_sum, file=paste0(outfolder,"/reprate_fit_b_slopes_hillshade2.csv"))
 
 #plot slope estimates
 posterior <- as.array(reprate_fit_b)
@@ -28,7 +28,7 @@ slopes_area <- mcmc_areas(
 )
 
 g <- grid.arrange(slopes, slopes_area)
-ggsave(g, filename = paste0(outfolder,"reprate_fit_b_slopes_hillshade2.tiff"))
+ggsave(g, filename = paste0(outfolder,"/reprate_fit_b_slopes_hillshade2.tiff"))
 
 #INTERCEPTS
 #rename range intercepts
@@ -49,12 +49,12 @@ cans.in.r.3 <- paste0("a_",as.character(cr.u[cr.u$range_id==3, 2]))
 #Create tabular range intercept results
 s <- summary(reprate_fit_b, pars=c("alpha_rg"), probs = c(0.1, 0.5, 0.9))
 alpha_rg_sum <- as.data.frame(s$summary)
-write.csv(alpha_rg_sum, file=paste0(outfolder,"reprate_fit_b_int_rg_hillshade2.csv"))
+write.csv(alpha_rg_sum, file=paste0(outfolder,"/reprate_fit_b_int_rg_hillshade2.csv"))
 
 #Create tabular canyon intercept results
 s <- summary(reprate_fit_b, pars=c("alpha_can"), probs = c(0.1, 0.5, 0.9))
 alpha_can_sum <- as.data.frame(s$summary)
-write.csv(alpha_can_sum, file=paste0(outfolder,"reprate_fit_b_int_can_hillshade2.csv"))
+write.csv(alpha_can_sum, file=paste0(outfolder,"/reprate_fit_b_int_can_hillshade2.csv"))
 
 #plot range intercept estimates
 posterior <- as.array(reprate_fit_b)
@@ -64,7 +64,7 @@ int_rg.2 <- mcmc_intervals(posterior, regex_pars = c("mu_alpha",paste0("a_", ran
 int_rg.3 <- mcmc_intervals(posterior, regex_pars = c("mu_alpha",paste0("a_", range_names[3]), cans.in.r.3), prob=0.9) + ggplot2::labs(title=range_names[3])
 #No burned points from Toquima
 int_rg <- grid.arrange(int_rg.1, int_rg.2, int_rg.3)
-ggsave(int_rg, filename = paste0(outfolder,"reprate_fit_b_ints_hillshade2.tiff"))
+ggsave(int_rg, filename = paste0(outfolder,"/reprate_fit_b_ints_hillshade2.tiff"))
 
 int_rg_areas.1 <- mcmc_areas(
   posterior,
@@ -89,4 +89,4 @@ int_rg_areas.3 <- mcmc_areas(
 ) + ggplot2::labs(title=range_names[3])
 
 int_rg_ar<- grid.arrange(int_rg_areas.1, int_rg_areas.2, int_rg_areas.3)
-ggsave(int_rg_ar, filename = paste0(outfolder,"reprate_fit_b_ints_area_hillshade2.tiff"))
+ggsave(int_rg_ar, filename = paste0(outfolder,"/reprate_fit_b_ints_area_hillshade2.tiff"))

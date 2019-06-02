@@ -3,10 +3,10 @@ library(rstan)
 library(bayesplot)
 library(ggplot2)
 library(gridExtra)
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/model_fits/"
-outfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/summary_plots/"
-load(paste0(infolder, "occ_fit_ub_hillshade.RData")) #load model fit data
-db.stan <- read.csv("/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/occurence_model_ub_hillshade_noscale.csv")
+infolder <- here::here("model_fits/")
+outfolder <- here::here("param_est/")
+load(paste0(infolder, "/occ_fit_ub_hillshade.RData")) #load model fit data
+db.stan <- read.csv(here::here("processed_data/occurence_model_ub_hillshade_noscale.csv"))
 
 #rename slope estimates (beta's)
 names(occ_fit_ub)[391:395] <- c("Elevation",  "Hillshade", "Winter precip.", "Winter precip./Total precip.", "Grazed")
@@ -18,4 +18,4 @@ perc_pos <- apply(posterior, 2, function(x) (length(which(x > 0))/length(x) * 10
 perc_neg <- apply(posterior, 2, function(x) (length(which(x < 0))/length(x) * 100))
 
 mass_sum <- cbind(perc_pos, perc_neg)
-write.csv(mass_sum, file=paste0(outfolder,"Occ_UB_hillshade_MassSum.csv"))
+write.csv(mass_sum, file=paste0(outfolder,"/Occ_UB_hillshade_MassSum.csv"))

@@ -46,7 +46,7 @@ db_join$pgrassf <- scale(db_join$pgrassf)
 db_join$pgraze <- scale(db_join$pgraze)
 db_join$propwtr <- scale(db_join$propwtr)
 db_join$tburn <- scale(db_join$tburn)
-db_join$tburn2 <- scale(db_join$tburn2)
+db_join$tburn2 <- db_join$tburn * db_join$tburn
 db_join$sppr <- scale(db_join$sppr)
 db_join$medwtpcp <- scale(db_join$medwtpcp)
 db_join$medsppcp <- scale(db_join$medsppcp)
