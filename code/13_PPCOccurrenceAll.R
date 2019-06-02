@@ -1,10 +1,9 @@
 library(pROC)
 library(rstan)
 library(LaplacesDemon)
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/model_fits/"
-oufolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/ppc_occurrence/"
-load(paste0(infolder, "occ_fit_all_hillshade.RData")) #load model fit data
-db.stan <- read.csv("/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/occurence_model_all_hillshade.csv")
+infolder <- here::here("model_fits/")
+load(paste0(infolder, "/occ_fit_all_hillshade.RData")) #load model fit data
+db.stan <- read.csv(here::here("/processed_data/occurence_model_all_hillshade.csv"))
 thetas <- summary(occ_fit_all, pars='theta', probs = c(0.25,0.5,0.75)) #summarize posterior estimates of theta
 
 #extract summary statistics of posterior probability

@@ -1,10 +1,10 @@
 library(loo)
 library(bayesplot)
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/model_fits/"
-outfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/ppc_reprate/"
+options(mc.cores = 6)
+infolder <- here::here("model_fits/")
 
-load(paste0(infolder, "reprate_fit_ub_hillshade.RData")) #load model fit data
-db.stan <- read.csv(file="/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/reprate_model_unburned_hillshade.csv", stringsAsFactors = FALSE)
+load(paste0(infolder, "/reprate_fit_ub_hillshade.RData")) #load model fit data
+db.stan <- read.csv(here::here("processed_data/reprate_model_unburned_hillshade.csv"), stringsAsFactors = FALSE)
 
 ###density plot overlay
 y_ppcs <- as.matrix(reprate_fit_ub, pars = "y_tilde")

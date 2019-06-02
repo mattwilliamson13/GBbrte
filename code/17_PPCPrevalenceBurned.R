@@ -1,10 +1,10 @@
 library(loo)
 library(bayesplot)
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/model_fits/"
-outfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/ppc_reprate/"
+options(mc.cores = 6)
+infolder <- here::here("model_fits/")
 
-load(paste0(infolder, "reprate_fit_b_hillshade2.RData")) #load model fit data
-db.stan <- read.csv(file="/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/reprate_model_burned_hillshade.csv", stringsAsFactors = FALSE)
+load(paste0(infolder, "/reprate_fit_b_hillshade2.RData")) #load model fit data
+db.stan <- read.csv(here::here("processed_data/reprate_model_burned_hillshade.csv"), stringsAsFactors = FALSE)
 
 ###density plot overlay
 y_ppcs <- as.matrix(reprate_fit_b, pars = "y_tilde")
@@ -49,7 +49,7 @@ od2 <- rr_sim$obs_dev2
 rd2 <- rr_sim$sim_dev2
 fit <- apply(od2, 2, sum)
 fit.new <- apply(rd2, 2, sum)
-gof <- mean(ifelse((fit.new - fit) > 0, 1, 0)) #  0.2838
+gof <- mean(ifelse((fit.new - fit) > 0, 1, 0)) #  0.2871
 
 ##LOO estimate provides an estimate of the number of points that are extreme in light of the model
 log_lik_fit <-  extract_log_lik(reprate_fit_b, parameter_name = "log_lik")

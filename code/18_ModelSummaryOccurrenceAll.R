@@ -1,10 +1,10 @@
 library(rstan)
 library(bayesplot)
 library(gridExtra)
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/model_fits/"
-outfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/par_est_occ/"
-load(paste0(infolder, "occ_fit_all_hillshade.RData")) #load model fit data
-db.stan <- read.csv("/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/occurence_model_all_hillshade.csv")
+infolder <- here::here("model_fits/")
+outfolder <- here::here("param_est/")
+load(paste0(infolder, "/occ_fit_all_hillshade.RData")) #load model fit data
+db.stan <- read.csv(here::here("processed_data/occurence_model_all_hillshade.csv"))
 
 #rename slope estimates (beta's)
 names(occ_fit_all)[486:491] <- c("Elevation", "Hillshade", "Winter precip.", "Winter precip./Total precip.", "Burned", "Grazed")
@@ -12,7 +12,7 @@ names(occ_fit_all)[486:491] <- c("Elevation", "Hillshade", "Winter precip.", "Wi
 #Create tabular slope results
 s <- summary(occ_fit_all, pars=c("beta_p", "beta_o"), probs = c(0.10, 0.5, 0.90))
 beta_sum <- as.data.frame(s$summary)
-write.csv(beta_sum, file=paste0(outfolder,"occ_fit_all_hillshade_slopes.csv"))
+write.csv(beta_sum, file=paste0(outfolder,"/occ_fit_all_hillshade_slopes.csv"))
 
 #plot slope estimates
 posterior <- as.array(occ_fit_all)
@@ -28,7 +28,7 @@ slopes_area <- mcmc_areas(
 )
 
 g <- grid.arrange(slopes, slopes_area)
-ggsave(g, filename = paste0(outfolder,"occ_fit_all_hillshade_slopes.tiff"))
+ggsave(g, filename = paste0(outfolder,"/occ_fit_all_hillshade_slopes.tiff"))
 
 ##INTERCEPTS
 #rename range intercepts
@@ -50,12 +50,12 @@ cans.in.r.4 <- paste0("a_",as.character(cr.u[cr.u$range_id==4, 2]))
 #Create tabular range intercept results
 s <- summary(occ_fit_all, pars=c("mu_alpha","alpha_rg"), probs = c(0.10, 0.5, 0.90))
 alpha_rg_sum <- as.data.frame(s$summary)
-write.csv(alpha_rg_sum, file=paste0(outfolder,"occ_fit_all_hillshade_int_rg.csv"))
+write.csv(alpha_rg_sum, file=paste0(outfolder,"/occ_fit_all_hillshade_int_rg.csv"))
 
 #Create tabular canyon intercept results
 s <- summary(occ_fit_all, pars=c("alpha_can"), probs = c(0.10, 0.5, 0.90))
 alpha_can_sum <- as.data.frame(s$summary)
-write.csv(alpha_can_sum, file=paste0(outfolder,"occ_fit_all_hillshade_int_can.csv"))
+write.csv(alpha_can_sum, file=paste0(outfolder,"/occ_fit_all_hillshade_int_can.csv"))
 
 
 
@@ -68,7 +68,7 @@ int_rg.3 <- mcmc_intervals(posterior, regex_pars = c("mu_alpha",paste0("a_", ran
 int_rg.4 <- mcmc_intervals(posterior, regex_pars = c("mu_alpha",paste0("a_", range_names[4]), cans.in.r.4), prob=0.90) + ggplot2::labs(title=range_names[4])
 
 int_rg <- grid.arrange(int_rg.1, int_rg.2, int_rg.3, int_rg.4)
-ggsave(int_rg, filename = paste0(outfolder,"occ_fit_all_hillshade_ints.tiff"))
+ggsave(int_rg, filename = paste0(outfolder,"/occ_fit_all_hillshade_ints.tiff"))
 
 int_rg_areas.1 <- mcmc_areas(
   posterior,
@@ -100,4 +100,4 @@ int_rg_areas.4 <- mcmc_areas(
 ) + ggplot2::labs(title=range_names[4])
 
 int_rg_ar<- grid.arrange(int_rg_areas.1, int_rg_areas.2, int_rg_areas.3, int_rg_areas.4)
-ggsave(int_rg_ar, filename = paste0(outfolder,"occ_fit_all_hillshade_ints_area.tiff"))
+ggsave(int_rg_ar, filename = paste0(outfolder,"/occ_fit_all_hillshade_ints_area.tiff"))
