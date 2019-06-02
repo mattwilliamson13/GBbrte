@@ -2,6 +2,7 @@
 library(rstan)
 library(shinystan)
 rstan_options(auto_write = TRUE)
+Sys.setenv(LOCAL_CPPFLAGS = '-march=native')
 options(mc.cores = parallel::detectCores())
 infolder <- here::here("processed_data/") #data is already processed so both inputs and outputs in processed folder
 outfolder <- here::here("model_fits/")
@@ -21,6 +22,6 @@ occ_data <- list(N=nrow(db.stan),R=length(unique(db.stan$range_id)),C=length(uni
                  PtID=db.stan$point_id, CanID = db.stan$area_id, RgID = db.stan$range_id, CanInRg=can.rg.u$CanInRg, PtInCan=pt.can.u$PtInCan,
                  y=db.stan$occ, W = as.matrix(db.stan[,c(6,9:10,12)]), X = as.matrix(db.stan[,c(7:8)]), J = ncol(db.stan[,c(6,9:10,12)]), K = ncol(db.stan[,c(7:8)]))
 
-occ_fit_all <- stan(paste0(stanfolder,"occurrence_asp.stan"), data=occ_data, seed=082980, control=list(adapt_delta = 0.97))
+occ_fit_all <- stan(paste0(stanfolder,"/occurrence_asp.stan"), data=occ_data, seed=082980, control=list(adapt_delta = 0.97))
 
-save(occ_fit_all, file=paste0(outfolder,"occ_fit_all_hillshade.RData"))
+save(occ_fit_all, file=paste0(outfolder,"/occ_fit_all_hillshade.RData"))
