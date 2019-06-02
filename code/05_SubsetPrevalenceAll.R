@@ -2,11 +2,11 @@
 
 library(rethinking) #for coerce_index function
 library(tidyverse)
-infolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/" #data is already processed so both inputs and outputs in processed folder
-outfolder <- "/Users/matthewwilliamson/Google Drive/GB_Final/processed_data/"
+infolder <- here::here("processed_data/") #data is already processed so both inputs and outputs in processed folder
+outfolder <- here::here("processed_data/")
 
 # load original data frame
-db.or <-read.csv(file =paste0(infolder,"alldatamerged.csv"))
+db.or <-read.csv(file =paste0(infolder,"/alldatamerged.csv"))
 db.or <- db.or[order(db.or$yr),] #order by year
 
 #Subset dataframe for relative rate analysis
@@ -30,13 +30,13 @@ db.rr.cc <- db.rr[complete.cases(db.rr),] #no correlations to be concerned about
 
 db.sub <- db.rr.cc
 
-pt_covs <- read.csv(file=paste0(infolder,"med_pcp_hillshade.csv"))
+pt_covs <- read.csv(file=paste0(infolder,"/med_pcp_hillshade.csv"))
 
 #Join mean values of precip and aspect
 db_join <- db.sub %>% left_join(pt_covs, by=c("range", "area","pt"))
 #remove medsppcp because it is highly correlated with medwtpcp (also done for all occupancy analyses)
 db_join <- db_join[,-15]
-write.csv(db_join, paste0(outfolder,"reprate_model_all_noscale_hillshade.csv"), row.names=FALSE) #updated for new models
+write.csv(db_join, paste0(outfolder,"/reprate_model_all_noscale_hillshade.csv"), row.names=FALSE) #updated for new models
 
 #scale covs
 db_join$elev <- scale(db_join$elev)
@@ -55,4 +55,4 @@ db_join$point_id<- coerce_index(db_join$pt)
 db_join$obs_id <- seq(1,nrow(db_join))
 
 #write out the data
-write.csv(db_join, paste0(outfolder, "reprate_model_all_hillshade.csv" ), row.names=FALSE) #updated for new models
+write.csv(db_join, paste0(outfolder, "/reprate_model_all_hillshade.csv" ), row.names=FALSE) #updated for new models
