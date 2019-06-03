@@ -21,6 +21,13 @@ db.sub.p.r$absind <- apply(db.sub.p.r[,2:14], 1,function(x) substr(colnames(db.s
 db.sub.p.r$mispres <- db.sub.p.r$occind < db.sub.p.r$absind #if latest absence is greater than first present, then BRTE was detected then lost
 db.sub.p.r$lastsamp <- apply(db.sub.p.r[,2:14], 1,function(x) substr(colnames(db.sub.p.r)[(max(which(!is.na(x))))+1], start=6, stop=10)) #get the year of latest absence
 
+#use this to get summary of nmber of samples per year
+
+db.summary2 <- data.frame(yr = unique(db.sup.p$yr),
+                          numsamples = unlist(lapply(unique(db.sup.p$yr), 
+                                                     function(x) nrow(db.sup.p[db.sup.p$yr == x & !is.na(db.sup.p$brte),]))))
+
+
 #get all sites where BRTE never detected
 db.all.abs <- db.sub.p.r[is.na(db.sub.p.r$occind),]
 db.all.abs$yr <- db.all.abs$lastsamp #set the year for sites unoccupied throughout the study to the last year measured
