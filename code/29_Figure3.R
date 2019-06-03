@@ -6,13 +6,14 @@ library(dplyr)
 library(rethinking)
 library(egg)
 library(viridis)
-infolder <- "G:/My Drive/GB_Final/model_fits/"
-outfolder <- "G:/My Drive/GB_Final/summary_plots/"
-datafolder <- "G:/My Drive/GB_Final/processed_data/"
+library(tidyverse)
+infolder <- here::here("model_fits/")
+outfolder <- here::here("summary_plots/")
+datafolder <- here::here("processed_data/")
 
 #load the two occurrence data sets
-occ.all <- read.csv(paste0(datafolder,"occurence_model_all_hillshade_noscale.csv"), stringsAsFactors = FALSE)
-occ.ub <- read.csv(paste0(datafolder,"occurence_model_ub_hillshade_noscale.csv"), stringsAsFactors = FALSE)
+occ.all <- read.csv(paste0(datafolder,"/occurence_model_all_hillshade_noscale.csv"), stringsAsFactors = FALSE)
+occ.ub <- read.csv(paste0(datafolder,"/occurence_model_ub_hillshade_noscale.csv"), stringsAsFactors = FALSE)
 
 
 occ.graze <- occ.all %>% mutate(dset = "All \npoints")
@@ -36,8 +37,8 @@ graze.comb <-ggplot(data = occ.graze) +
 
 ##generate marginal effects for the binary grazing effect
 #load occurrence model fits
-load(paste0(infolder, "occ_fit_all_hillshade.RData"))
-load(paste0(infolder, "occ_fit_ub_hillshade.RData"))
+load(paste0(infolder, "/occ_fit_all_hillshade.RData"))
+load(paste0(infolder, "/occ_fit_ub_hillshade.RData"))
 
 #extract the beta posteriors
 posterior.occ.all <- as.data.frame(occ_fit_all, pars=c("beta_p", "beta_o"))
@@ -140,7 +141,7 @@ graze.mar <-ggplot(data = probs.df) +
   theme(panel.spacing = unit(3, "lines"),
         strip.background = element_blank(),
         strip.placement = "outside") +
-  labs(y="Posterior probability of occurrence") +
+  labs(y="Posterior probability") +
   theme(legend.position="none", axis.text.x = element_text(size=10, family="Times New Roman", angle=90, hjust=1, vjust =0.5), text=element_text(size=14,  family="Times New Roman"),
         panel.background = element_blank(),
         axis.title.y = element_text(size = 14, margin = margin(t = 0, r = 15, b = 0, l = 0, unit = "pt")),
@@ -151,14 +152,14 @@ graze.plot.1 <- egg::ggarrange(graze.comb, graze.mar,
                                widths = c(1,1.33))
 
 #load the prevalence data
-load(paste0(infolder, "reprate_fit_all_hillshade.RData"))
-load(paste0(infolder, "reprate_fit_ub_hillshade.RData"))
-load(paste0(infolder, "reprate_fit_b_hillshade.RData"))
+load(paste0(infolder, "/reprate_fit_all_hillshade.RData"))
+load(paste0(infolder, "/reprate_fit_ub_hillshade.RData"))
+load(paste0(infolder, "/reprate_fit_b_hillshade2.RData"))
 
 #load the original data frames
-db.rr.all <- read.csv(paste0(datafolder,"reprate_model_all_hillshade.csv"))
-db.rr.ub <- read.csv(paste0(datafolder,"reprate_model_unburned_hillshade.csv"))
-db.rr.b <- read.csv(paste0(datafolder,"reprate_model_burned_hillshade.csv"))
+db.rr.all <- read.csv(paste0(datafolder,"/reprate_model_all_hillshade.csv"))
+db.rr.ub <- read.csv(paste0(datafolder,"/reprate_model_unburned_hillshade.csv"))
+db.rr.b <- read.csv(paste0(datafolder,"/reprate_model_burned_hillshade.csv"))
 
 #extract posteriors
 posterior.rr.all <- as.data.frame(reprate_fit_all, pars=c("beta_p", "beta_o"))
@@ -191,10 +192,19 @@ post_g.b <- as.matrix(posterior.rr.b[,6])
 
 
 #set up prediciton data
-graze.b.all = as.matrix(seq(floor(min(db.rr.all[db.rr.all$burn == 1,]$pgraze)), ceiling(max(db.rr.all[db.rr.all$burn == 1,]$pgraze)), length.out=nrow(db.rr.all[db.rr.all$burn == 1,]))) #mean=.75, sd=.39
-graze.ub.all = as.matrix(seq(floor(min(db.rr.all[db.rr.all$burn == 0,]$pgraze)), ceiling(max(db.rr.all[db.rr.all$burn == 0,]$pgraze)), length.out=nrow(db.rr.all[db.rr.all$burn == 0,]))) #mean=.75, sd=.39
-graze.ub <- as.matrix(seq(floor(min(db.rr.ub$pgraze)), ceiling(max(db.rr.ub$pgraze)), length.out=nrow(db.rr.ub)))
-graze.b <- as.matrix(seq(floor(min(db.rr.b$pgraze)), ceiling(max(db.rr.b$pgraze)), length.out=nrow(db.rr.b)))
+graze.b.all = as.matrix(seq(min(db.rr.all[db.rr.all$burn == 1,]$pgraze), max(db.rr.all[db.rr.all$burn == 1,]$pgraze), length.out=nrow(db.rr.all[db.rr.all$burn == 1,]))) #mean=.75, sd=.39
+graze.ub.all = as.matrix(seq(min(db.rr.all[db.rr.all$burn == 0,]$pgraze), max(db.rr.all[db.rr.all$burn == 0,]$pgraze), length.out=nrow(db.rr.all[db.rr.all$burn == 0,]))) #mean=.75, sd=.39
+mean.prop.grz.alldata <- read.csv(here::here("processed_data/reprate_model_all_noscale_hillshade.csv")) %>% 
+  summarise(mean = mean(pgraze), stdev = sd(pgraze))
+
+
+graze.ub <- as.matrix(seq(min(db.rr.ub$pgraze), max(db.rr.ub$pgraze), length.out=nrow(db.rr.ub)))
+mean.prop.grz.ub <- read.csv(here::here("processed_data/reprate_model_unburned_noscale_hillshade.csv")) %>% 
+  summarise(mean = mean(pgraze), stdev = sd(pgraze))
+
+graze.b <- as.matrix(seq(min(db.rr.b$pgraze), max(db.rr.b$pgraze), length.out=nrow(db.rr.b)))
+mean.prop.grz.b <- read.csv(here::here("processed_data/reprate_model_burned_noscale_hillshade.csv")) %>% 
+  summarise(mean = mean(pgraze), stdev = sd(pgraze))
 
 
 
@@ -253,7 +263,10 @@ probs_graze_ub.all$graze <- graze.ub.all_df$graze[probs_graze_ub.all$grazeid]
 probs_df.all <- rbind(probs_graze_b.all, probs_graze_ub.all)
 
 probs_graze_b$graze <- graze.b_df$graze[probs_graze_b$grazeid]
+probs_graze_b$propgraze <- as.numeric(mean.prop.grz.b[1,1]) + (probs_graze_b$graze * as.numeric(mean.prop.grz.b[1,2]))
+
 probs_graze_ub$graze <- graze.ub_df$graze[probs_graze_ub$grazeid]
+probs_graze_ub$propgraze <- as.numeric(mean.prop.grz.ub[1,1]) + (probs_graze_ub$graze * as.numeric(mean.prop.grz.ub[1,2]))
 
 probs_df.comb <- rbind(probs_graze_b, probs_graze_ub)
 
@@ -265,10 +278,11 @@ prob_g.all <- probs_df.all %>%
     p = mean(prob),
     lo = quantile(prob, probs=0.1),
     hi = quantile(prob, probs=0.9)
-  )
+  ) 
+prob_g.all$propgraze <- as.numeric(mean.prop.grz.alldata[1,1]) + (prob_g.all$graze * as.numeric(mean.prop.grz.alldata[1,2]))
 
 prob_g.comb <- probs_df.comb %>%
-  group_by(burn,graze) %>%
+  group_by(burn,propgraze) %>%
   summarise(
     p = mean(prob),
     lo = quantile(prob, probs=0.1),
@@ -276,18 +290,18 @@ prob_g.comb <- probs_df.comb %>%
   )
 
 
-p_graze.all <- ggplot(prob_g.all) + geom_line(aes(y=p, x=graze, colour = factor(burn)), lwd=1.5)+
-  geom_ribbon(aes(ymin=lo, ymax=hi, x=graze, fill = factor(burn)), alpha = 0.2)+
+p_graze.all <- ggplot(prob_g.all) + geom_line(aes(y=p, x=propgraze, colour = factor(burn)), lwd=1.5)+
+  geom_ribbon(aes(ymin=lo, ymax=hi, x=propgraze, fill = factor(burn)), alpha = 0.2)+
   scale_colour_viridis(discrete = "TRUE", option="E")+
   scale_fill_viridis(discrete = "TRUE", option="E") +
-  labs(y="Posterior probability \nof prevalence", x = "Proportion of years \ngrazed (SD)") +
+  labs(y="Posterior probability", x = "Proportion of years \ngrazed") +
   theme(legend.position="none", text=element_text(size=14,  family="Times New Roman"), panel.background = element_rect(fill = "white", colour = "grey50"))
 
-p_graze.comb <- ggplot(prob_g.comb) + geom_line(aes(y=p, x=graze, colour = factor(burn)), lwd=1.5)+
-  geom_ribbon(aes(ymin=lo, ymax=hi, x=graze, fill = factor(burn)), alpha = 0.2)+
+p_graze.comb <- ggplot(prob_g.comb) + geom_line(aes(y=p, x=propgraze, colour = factor(burn)), lwd=1.5)+
+  geom_ribbon(aes(ymin=lo, ymax=hi, x=propgraze, fill = factor(burn)), alpha = 0.2)+
   scale_colour_viridis(discrete = "TRUE", option="E")+
   scale_fill_viridis(discrete = "TRUE", option="E") +
-  labs(y="Posterior probability \nof prevalence", x = "Proportion of years \ngrazed (SD)") +
+  labs(y="Posterior probability", x = "Proportion of years \ngrazed") +
   theme(legend.position="none", text=element_text(size=14,  family="Times New Roman"), panel.background = element_rect(fill = "white", colour = "grey50"))
 
 
@@ -296,8 +310,10 @@ graze.plot.2 <- plot_grid(p_graze.all,
                           ncol=1,
                           align = "v",
                           axis= "l",
-                          labels = c("C)", "D)"),
+                          labels = c("C", "D"),
                           label_fontfamily = "Times New Roman",
+                          label_x = 0.91,
+                          label_y= 1,
                           hjust = 0.05,
                           vjust= 1.2)
 
@@ -306,7 +322,7 @@ graze.plot.all <- plot_grid(graze.plot.1,
                             nrow=1,
                             rel_widths = c(2.5,1))
 
-graze.plot.all <- graze.plot.all + draw_label("A)", x=0.05, y=0.98, size=14, fontfamily = "Times New Roman", fontface="bold") +
-  draw_label("B)", x=0.35, y=0.98, size=14, fontfamily = "Times New Roman", fontface="bold")
+graze.plot.all <- graze.plot.all + draw_label("A", x=0.3, y=0.98, size=14, fontfamily = "Times New Roman", fontface="bold") +
+  draw_label("B", x=0.68, y=0.98, size=14, fontfamily = "Times New Roman", fontface="bold")
 
-cowplot::ggsave(paste0(outfolder,"Figure3.tiff"),plot=graze.plot.all, width=10.5, height=6, units="in")
+cowplot::ggsave(paste0(outfolder,"/Figure3.tiff"),plot=graze.plot.all, width=10.5, height=6, units="in")

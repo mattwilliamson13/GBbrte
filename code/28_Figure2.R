@@ -6,19 +6,19 @@ library(dplyr)
 library(rethinking)
 library(egg)
 library(viridis)
-infolder <- "G:/My Drive/GB_Final/model_fits/"
-outfolder <- "G:/My Drive/GB_Final/summary_plots/"
-datafolder <- "G:/My Drive/GB_Final/processed_data/"
+infolder <- here::here("model_fits/")
+outfolder <- here::here("summary_plots/")
+datafolder <- here::here("processed_data/")
 
 
 ####Generate marginal effects plots for burned (binary) predictor
 #load the model fits
-load(paste0(infolder, "reprate_fit_all_hillshade.RData"))
-load(paste0(infolder, "occ_fit_all_hillshade.RData"))
+load(paste0(infolder, "/reprate_fit_all_hillshade.RData"))
+load(paste0(infolder, "/occ_fit_all_hillshade.RData"))
 
 #load the original data frames
-db.rr <- read.csv(paste0(datafolder,"reprate_model_all_hillshade.csv"))
-db.occ <- read.csv(paste0(datafolder,"occurence_model_all_hillshade.csv"))
+db.rr <- read.csv(paste0(datafolder,"/reprate_model_all_hillshade.csv"))
+db.occ <- read.csv(paste0(datafolder,"/occurence_model_all_hillshade.csv"))
 
 posterior.rr <- as.data.frame(reprate_fit_all, pars=c("beta_p", "beta_o"))
 posterior.occ <- as.data.frame(occ_fit_all, pars=c("beta_p", "beta_o"))
@@ -83,7 +83,7 @@ burn.mar <-ggplot(data = probs_burn) +
         axis.title.y = element_text(size = 14, margin = margin(t = 0, r = 15, b = 0, l = 0, unit = "pt")))
 
 
-occ.all <- read.csv(paste0(datafolder,"occurence_model_all_hillshade_noscale.csv"), stringsAsFactors = FALSE)
+occ.all <- read.csv(paste0(datafolder,"/occurence_model_all_hillshade_noscale.csv"), stringsAsFactors = FALSE)
 occ.all$status <- factor(occ.all$burn, labels=c("Not burned points", "Burned points"))
 
 #generate boxplot of observed data based on occurrence
@@ -93,16 +93,18 @@ burn.comb <- ggplot() +
   scale_x_discrete(name = NULL, labels = c("Unburned \npoints","Burned \npoints")) +
   labs(y="Number of points") +
   theme(legend.position="none", text=element_text(size=14,  family="Times New Roman"),
-        panel.background = element_blank())
-
+        panel.background = element_blank()) 
+  
 #combine with marginal effects plot
 burn.plot.1 <- egg::ggarrange(burn.comb, burn.mar,
                               ncol = 2
                               )
 ###Generate marginal effects for time since burn param
-load(paste0(infolder, "reprate_fit_b_hillshade2.RData")) #load model fit data
-rr.burned <- read.csv(paste0(datafolder,"reprate_model_burned_hillshade2.csv"))
-
+load(paste0(infolder, "/reprate_fit_b_hillshade2.RData")) #load model fit data
+rr.burned <- read.csv(paste0(datafolder,"/reprate_model_burned_hillshade.csv"))
+rr.burned.noscale <- read.csv(paste0(datafolder,"/reprate_model_burned_noscale_hillshade.csv"))
+mean.tb.orig <- mean(rr.burned.noscale$tburn)
+sd.tb.orig <- sd(rr.burned.noscale$tburn)
 #Extract posterior samples for each slope parameter
 posterior.tb <- as.data.frame(reprate_fit_b, pars=c("beta_p", "beta_o"))
 
@@ -114,7 +116,7 @@ post_tb <- as.matrix(posterior.tb[,7])
 post_tb2 <- as.matrix(posterior.tb[,8])
 
 #set up prediciton data
-tburn = as.matrix(seq(floor(min(rr.burned$tburn)), ceiling(max(rr.burned$tburn)), length.out=nrow(rr.burned)))
+tburn = as.matrix(seq(min(rr.burned$tburn), max(rr.burned$tburn), length.out=nrow(rr.burned))) 
 
 btb <- post_tb %*% t(tburn)
 btb2 <- post_tb2 %*% t(tburn)
@@ -141,11 +143,13 @@ prob_tb <- probs_df %>%
     p = mean(prob),
     lo = quantile(prob, probs=0.1),
     hi = quantile(prob, probs=0.9)
-  )
+  ) %>% 
+  mutate(burnyr = mean.tb.orig + (.$tburn*sd.tb.orig))
 
-p_tburn.b <- ggplot(prob_tb) + geom_line(aes(y=p, x=tburn), color = cividis(1, begin = 1, alpha=0.8) , lwd=1.5) +
-  geom_ribbon(aes(ymin=lo, ymax=hi, x=tburn), fill = cividis(1, begin=1), alpha = 0.3) +
-  labs(y="Posterior probability of prevalence", x = "Time since fire (SD)") +
+p_tburn.b <- ggplot(prob_tb) + geom_line(aes(y=p, x=burnyr), color = cividis(1, begin = 1, alpha=0.8) , lwd=1.5) +
+  geom_ribbon(aes(ymin=lo, ymax=hi, x=burnyr), fill = cividis(1, begin=1), alpha = 0.3) +
+  scale_x_continuous(limits = c(0,15))+
+  labs(y="Posterior probability", x = "Years since fire") +
   theme(legend.position="none", text=element_text(size=14,  family="Times New Roman"), panel.background = element_rect(fill = "white", colour = "grey50"))
 
 
@@ -155,8 +159,8 @@ burn.plot.all <- plot_grid(burn.plot.1,
                            axis="b",
                            rel_widths = c(2, 1))
 
-burn.plot.all <- burn.plot.all + draw_label("A)", x=0.05, y=0.98, size=14, fontfamily = "Times New Roman", fontface="bold") +
-   draw_label("B)", x=0.35, y=0.98, size=14, fontfamily = "Times New Roman", fontface="bold") +
-   draw_label("C)", x= 0.645, y=0.98, size=14, fontfamily = "Times New Roman", fontface="bold")
+burn.plot.all <- burn.plot.all + draw_label("A", x=0.32, y=0.98, size=14, fontfamily = "Times New Roman", fontface="bold") +
+  draw_label("B", x=0.64, y=0.98, size=14, fontfamily = "Times New Roman", fontface="bold") +
+  draw_label("C", x= 0.97, y=0.98, size=14, fontfamily = "Times New Roman", fontface="bold")
 
-cowplot::ggsave(paste0(outfolder,"Figure2.tiff"),plot=burn.plot.all, width=10.5, height=6, units="in")
+cowplot::ggsave(paste0(outfolder,"/Figure2.tiff"),plot=burn.plot.all, width=10.5, height=6, units="in")
