@@ -35,8 +35,8 @@ post_e.occ <- as.matrix(posterior.occ[,1])
 
 occ.all <- read.csv(paste0(datafolder,"/occurence_model_all_hillshade.csv"), stringsAsFactors = FALSE)
 
-elev.occ.b = as.matrix(seq(min(occ.all[occ.all$burn== 1,]$elev), max(occ.all[occ.all$burn== 1,]$medwtpcp), length.out=nrow(occ.all[occ.all$burn== 1,])))
-elev.occ.ub = as.matrix(seq(min(occ.all[occ.all$burn== 0,]$elev), max(occ.all[occ.all$burn== 0,]$medwtpcp), length.out=nrow(occ.all[occ.all$burn== 0,])))
+elev.occ.b = as.matrix(seq(min(occ.all[occ.all$burn== 1,]$elev), max(occ.all[occ.all$burn== 1,]$elev), length.out=nrow(occ.all[occ.all$burn== 1,])))
+elev.occ.ub = as.matrix(seq(min(occ.all[occ.all$burn== 0,]$elev), max(occ.all[occ.all$burn== 0,]$elev), length.out=nrow(occ.all[occ.all$burn== 0,])))
 b.occ = as.matrix(rep(1,nrow(elev.occ.b)))
 ub.occ = as.matrix(rep(0,nrow(elev.occ.ub)))
 
