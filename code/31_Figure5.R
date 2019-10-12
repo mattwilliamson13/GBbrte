@@ -219,7 +219,7 @@ p_elev.comb <- ggplot(prob_e.comb) + geom_line(aes(y=p, x=elevconv, colour = fac
   geom_ribbon(aes(ymin=lo, ymax=hi, x=elevconv, fill = factor(burn)), alpha = 0.2)+
   scale_colour_viridis(discrete = "TRUE", option="E")+
   scale_fill_viridis(discrete = "TRUE", option="E") +
-  labs(y="Posterior probability", x = "Elevation (SD)") +
+  labs(y="Posterior probability", x = "Elevation (m)") +
   theme(legend.position="none", text=element_text(size=14,  family="Times New Roman"), panel.background = element_rect(fill = "white", colour = "grey50"))
 
 
